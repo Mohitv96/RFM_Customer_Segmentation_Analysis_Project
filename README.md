@@ -41,7 +41,7 @@ retention efforts on high-value customers.
 | **Unique Customers** | 2,500 |
 | **Total Revenue** | ₹18.16 Crores |
 | **Average Order Value** | ₹6,431 |
-| **Date Range** | 2023-2024 (2 years) |
+| **Date Range** | 2023-2024 (1 year) |
 | **Geographic Coverage** | 12 Indian States |
 | **Product Categories** | 7 |
 
