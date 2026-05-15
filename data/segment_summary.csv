@@ -1,0 +1,9 @@
+Segment,Customer_Count,Avg_Recency,Avg_Frequency,Total_Revenue,Avg_Customer_Value,Revenue_Percentage
+At Risk,7,469.71,11.86,803160.01,114737.14,0.44
+Champions,671,21.43,25.64,117782526.26,175532.83,64.87
+Churned Best Customers,8,457.38,12.12,259753.5,32469.19,0.14
+Hibernating,645,400.45,4.2,16950797.38,26280.31,9.34
+Lost,447,597.62,2.7,7985060.76,17863.67,4.4
+Loyal Customers,476,135.7,11.14,29980311.45,62983.85,16.51
+Need Attention,218,206.16,6.73,6579728.63,30182.24,3.62
+New Customers,28,51.75,5.71,1221939.86,43640.71,0.67

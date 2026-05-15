@@ -1,0 +1,2501 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment,City,State,Country
+CUST00001,323,14,49861.78,3,4,4,344,Loyal Customers,Kochi,Kerala,India
+CUST00002,410,2,1146.92,2,1,1,211,Hibernating,Surat,Gujarat,India
+CUST00003,193,7,83337.31999999999,3,3,4,334,Loyal Customers,Gurgaon,Haryana,India
+CUST00004,377,3,14086.62,2,1,2,212,Hibernating,Amritsar,Punjab,India
+CUST00005,17,17,69011.61,4,4,4,444,Champions,New Delhi,Delhi,India
+CUST00006,8,27,86409.12,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST00007,1,17,46589.05,5,4,3,543,Loyal Customers,Panipat,Haryana,India
+CUST00008,523,1,7871.4,1,1,1,111,Lost,Salem,Tamil Nadu,India
+CUST00009,412,8,48762.62,2,3,3,233,Hibernating,Pune,Maharashtra,India
+CUST00010,443,10,30687.0,2,3,3,233,Hibernating,Surat,Gujarat,India
+CUST00011,3,55,152202.45,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00012,506,2,6661.84,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST00013,462,1,5529.54,2,1,1,211,Hibernating,Nashik,Maharashtra,India
+CUST00014,193,8,25684.59,3,3,3,333,Loyal Customers,Hyderabad,Telangana,India
+CUST00015,35,27,175717.45,4,5,5,455,Champions,Kozhikode,Kerala,India
+CUST00016,1,31,132966.0,5,5,5,555,Champions,Chennai,Tamil Nadu,India
+CUST00017,109,20,75044.11,4,5,4,454,Champions,Madurai,Tamil Nadu,India
+CUST00018,181,6,10888.220000000001,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST00019,6,8,25155.86,5,3,3,533,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST00020,211,13,74544.43000000001,3,4,4,344,Loyal Customers,Kolkata,West Bengal,India
+CUST00021,185,3,2926.8,3,1,1,311,Hibernating,Kozhikode,Kerala,India
+CUST00022,17,20,283305.23,4,5,5,455,Champions,Kochi,Kerala,India
+CUST00023,6,12,37849.17,5,4,3,543,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST00024,214,14,100858.45,3,4,4,344,Loyal Customers,Surat,Gujarat,India
+CUST00025,30,6,11133.46,4,2,2,422,New Customers,Chennai,Tamil Nadu,India
+CUST00026,433,6,8238.22,2,2,2,222,Hibernating,Ahmedabad,Gujarat,India
+CUST00027,10,17,402903.16,5,4,5,545,Champions,Faridabad,Haryana,India
+CUST00028,660,3,3926.35,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST00029,381,5,7517.36,2,2,1,221,Hibernating,Surat,Gujarat,India
+CUST00030,14,33,120108.88,5,5,5,555,Champions,Noida,Uttar Pradesh,India
+CUST00031,695,3,6446.18,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST00032,3,15,29954.05,5,4,3,543,Loyal Customers,Kolkata,West Bengal,India
+CUST00033,17,25,196781.93,4,5,5,455,Champions,Jaipur,Rajasthan,India
+CUST00034,297,1,1759.49,3,1,1,311,Hibernating,Mysuru,Karnataka,India
+CUST00035,438,1,3347.07,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST00036,706,1,2453.73,1,1,1,111,Lost,Udaipur,Rajasthan,India
+CUST00037,106,14,45672.310000000005,4,4,3,443,Loyal Customers,Kozhikode,Kerala,India
+CUST00038,20,19,73603.77,4,5,4,454,Champions,Agra,Uttar Pradesh,India
+CUST00039,236,6,20558.57,3,2,2,322,Need Attention,Rajkot,Gujarat,India
+CUST00040,207,12,35409.840000000004,3,4,3,343,Loyal Customers,Nagpur,Maharashtra,India
+CUST00041,14,25,83997.75,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST00042,200,10,144680.13,3,3,5,335,Loyal Customers,Noida,Uttar Pradesh,India
+CUST00043,2,42,505659.87,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00044,625,1,1408.34,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST00045,69,10,63247.36,4,3,4,434,Loyal Customers,Mumbai,Maharashtra,India
+CUST00046,572,2,4130.29,1,1,1,111,Lost,Chennai,Tamil Nadu,India
+CUST00047,42,13,131587.46,4,4,5,445,Champions,New Delhi,Delhi,India
+CUST00048,452,4,16947.67,2,2,2,222,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00049,428,5,37533.62,2,2,3,223,Hibernating,Jodhpur,Rajasthan,India
+CUST00050,1,15,77567.99,5,4,4,544,Champions,Amritsar,Punjab,India
+CUST00051,449,1,781.0,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST00052,389,11,306782.09,2,4,5,245,At Risk,Rajkot,Gujarat,India
+CUST00053,527,1,91708.25,1,1,4,114,Lost,Varanasi,Uttar Pradesh,India
+CUST00054,627,1,530.99,1,1,1,111,Lost,Chennai,Tamil Nadu,India
+CUST00055,456,4,11290.5,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST00056,480,1,10434.39,2,1,2,212,Hibernating,Chennai,Tamil Nadu,India
+CUST00057,9,23,134534.9,5,5,5,555,Champions,Kochi,Kerala,India
+CUST00058,3,17,64990.229999999996,5,4,4,544,Champions,Nagpur,Maharashtra,India
+CUST00059,6,29,91326.48,5,5,4,554,Champions,Madurai,Tamil Nadu,India
+CUST00060,226,10,203749.94999999998,3,3,5,335,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST00061,192,8,34697.48,3,3,3,333,Loyal Customers,Jodhpur,Rajasthan,India
+CUST00062,317,9,28826.620000000003,3,3,3,333,Loyal Customers,Chennai,Tamil Nadu,India
+CUST00063,550,3,8474.11,1,1,2,112,Lost,Warangal,Telangana,India
+CUST00064,186,10,21763.97,3,3,2,332,Need Attention,Jaipur,Rajasthan,India
+CUST00065,288,11,32504.75,3,4,3,343,Loyal Customers,Warangal,Telangana,India
+CUST00066,367,2,5852.59,2,1,1,211,Hibernating,Coimbatore,Tamil Nadu,India
+CUST00067,26,25,54264.99,4,5,4,454,Champions,Mangalore,Karnataka,India
+CUST00068,628,1,3325.43,1,1,1,111,Lost,Jodhpur,Rajasthan,India
+CUST00069,2,19,87661.27,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST00070,723,2,1731.82,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST00071,506,3,17510.85,1,1,2,112,Lost,Mangalore,Karnataka,India
+CUST00072,12,19,91076.44,5,5,4,554,Champions,Salem,Tamil Nadu,India
+CUST00073,6,41,143107.36,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00074,440,1,1540.2,2,1,1,211,Hibernating,Udaipur,Rajasthan,India
+CUST00075,391,4,15964.609999999999,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST00076,511,10,20691.65,1,3,2,132,Hibernating,Madurai,Tamil Nadu,India
+CUST00077,395,6,9116.97,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST00078,9,27,141091.59,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST00079,236,14,157189.54,3,4,5,345,Loyal Customers,Amritsar,Punjab,India
+CUST00080,10,22,112320.44,5,5,4,554,Champions,Bengaluru,Karnataka,India
+CUST00081,283,2,5639.8,3,1,1,311,Hibernating,Bengaluru,Karnataka,India
+CUST00082,284,7,13882.15,3,3,2,332,Need Attention,Kochi,Kerala,India
+CUST00083,253,15,38063.270000000004,3,4,3,343,Loyal Customers,Ludhiana,Punjab,India
+CUST00084,3,26,198532.61,5,5,5,555,Champions,Thane,Maharashtra,India
+CUST00085,65,6,26253.36,4,2,3,423,New Customers,Kozhikode,Kerala,India
+CUST00086,147,14,45000.64,3,4,3,343,Loyal Customers,Howrah,West Bengal,India
+CUST00087,358,4,9725.949999999999,2,2,2,222,Hibernating,Faridabad,Haryana,India
+CUST00088,393,5,11870.94,2,2,2,222,Hibernating,Hyderabad,Telangana,India
+CUST00089,471,1,1067.14,2,1,1,211,Hibernating,Kolkata,West Bengal,India
+CUST00090,147,10,34080.34,3,3,3,333,Loyal Customers,Chandigarh,Punjab,India
+CUST00091,2,18,113820.20000000001,5,5,4,554,Champions,Kanpur,Uttar Pradesh,India
+CUST00092,190,3,109988.41,3,1,4,314,Hibernating,Hubli,Karnataka,India
+CUST00093,519,7,11163.09,1,3,2,132,Hibernating,Howrah,West Bengal,India
+CUST00094,382,8,25584.97,2,3,3,233,Hibernating,Agra,Uttar Pradesh,India
+CUST00095,623,3,16444.82,1,1,2,112,Lost,Lucknow,Uttar Pradesh,India
+CUST00096,89,10,74446.23000000001,4,3,4,434,Loyal Customers,Kochi,Kerala,India
+CUST00097,472,6,23785.62,2,2,3,223,Hibernating,New Delhi,Delhi,India
+CUST00098,179,14,100328.52,3,4,4,344,Loyal Customers,Vadodara,Gujarat,India
+CUST00099,1,53,219326.99,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST00100,9,20,73816.14,5,5,4,554,Champions,Thiruvananthapuram,Kerala,India
+CUST00101,1,63,247786.32,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST00102,204,2,964.82,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST00103,164,17,286617.95,3,4,5,345,Loyal Customers,Kolkata,West Bengal,India
+CUST00104,422,4,36975.65,2,2,3,223,Hibernating,Faridabad,Haryana,India
+CUST00105,682,4,7568.12,1,2,1,121,Lost,Hyderabad,Telangana,India
+CUST00106,165,8,73298.08,3,3,4,334,Loyal Customers,Gurgaon,Haryana,India
+CUST00107,132,7,11147.83,4,3,2,432,Need Attention,Durgapur,West Bengal,India
+CUST00108,425,4,54656.479999999996,2,2,4,224,Hibernating,Hyderabad,Telangana,India
+CUST00109,87,9,141545.87,4,3,5,435,Loyal Customers,Kolkata,West Bengal,India
+CUST00110,19,25,99879.45,4,5,4,454,Champions,Kochi,Kerala,India
+CUST00111,46,14,67273.4,4,4,4,444,Champions,Varanasi,Uttar Pradesh,India
+CUST00112,6,31,84867.93000000001,5,5,4,554,Champions,Mysuru,Karnataka,India
+CUST00113,376,5,108617.04999999999,2,2,4,224,Hibernating,Hyderabad,Telangana,India
+CUST00114,352,1,16280.76,3,1,2,312,Hibernating,Howrah,West Bengal,India
+CUST00115,461,10,44112.49,2,3,3,233,Hibernating,Bengaluru,Karnataka,India
+CUST00116,540,2,5576.35,1,1,1,111,Lost,Jodhpur,Rajasthan,India
+CUST00117,347,1,2832.27,3,1,1,311,Hibernating,Howrah,West Bengal,India
+CUST00118,5,17,137597.53,5,4,5,545,Champions,Pune,Maharashtra,India
+CUST00119,649,1,530.38,1,1,1,111,Lost,Ahmedabad,Gujarat,India
+CUST00120,375,6,17480.75,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST00121,584,2,48959.36,1,1,4,114,Lost,Agra,Uttar Pradesh,India
+CUST00122,520,1,4628.7,1,1,1,111,Lost,Surat,Gujarat,India
+CUST00123,325,7,35887.049999999996,3,3,3,333,Loyal Customers,Mumbai,Maharashtra,India
+CUST00124,5,26,135775.94,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00125,16,8,25843.46,4,3,3,433,Loyal Customers,Chandigarh,Punjab,India
+CUST00126,6,8,58649.35,5,3,4,534,Loyal Customers,Ludhiana,Punjab,India
+CUST00127,595,2,5138.29,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST00128,669,2,11061.429999999998,1,1,2,112,Lost,Kanpur,Uttar Pradesh,India
+CUST00129,1,60,530490.5700000001,5,5,5,555,Champions,Delhi,Delhi,India
+CUST00130,415,2,4001.88,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST00131,172,10,14450.15,3,3,2,332,Need Attention,Rajkot,Gujarat,India
+CUST00132,81,8,32228.68,4,3,3,433,Loyal Customers,Faridabad,Haryana,India
+CUST00133,18,25,121866.54,4,5,5,455,Champions,Salem,Tamil Nadu,India
+CUST00134,22,19,88750.09999999999,4,5,4,454,Champions,Gurgaon,Haryana,India
+CUST00135,385,4,20769.01,2,2,2,222,Hibernating,Rajkot,Gujarat,India
+CUST00136,222,15,38172.729999999996,3,4,3,343,Loyal Customers,Vadodara,Gujarat,India
+CUST00137,485,4,12001.49,1,2,2,122,Lost,Chandigarh,Punjab,India
+CUST00138,219,7,77856.4,3,3,4,334,Loyal Customers,Bikaner,Rajasthan,India
+CUST00139,2,10,31765.69,5,3,3,533,Loyal Customers,Jodhpur,Rajasthan,India
+CUST00140,263,3,10430.17,3,1,2,312,Hibernating,Noida,Uttar Pradesh,India
+CUST00141,193,2,3281.94,3,1,1,311,Hibernating,Madurai,Tamil Nadu,India
+CUST00142,45,10,21244.76,4,3,2,432,Need Attention,Bengaluru,Karnataka,India
+CUST00143,36,15,92979.85,4,4,4,444,Champions,Jaipur,Rajasthan,India
+CUST00144,120,11,53901.51,4,4,4,444,Champions,Kozhikode,Kerala,India
+CUST00145,142,18,29641.83,3,5,3,353,Loyal Customers,Faridabad,Haryana,India
+CUST00146,15,55,182602.63,4,5,5,455,Champions,Coimbatore,Tamil Nadu,India
+CUST00147,349,8,138940.09,3,3,5,335,Loyal Customers,Hyderabad,Telangana,India
+CUST00148,446,6,24445.420000000002,2,2,3,223,Hibernating,Varanasi,Uttar Pradesh,India
+CUST00149,5,17,74639.1,5,4,4,544,Champions,Chennai,Tamil Nadu,India
+CUST00150,58,10,32834.56,4,3,3,433,Loyal Customers,Udaipur,Rajasthan,India
+CUST00151,537,2,1240.73,1,1,1,111,Lost,Panipat,Haryana,India
+CUST00152,11,9,16115.69,5,3,2,532,Need Attention,Jodhpur,Rajasthan,India
+CUST00153,15,23,440265.75,4,5,5,455,Champions,Surat,Gujarat,India
+CUST00154,8,11,24600.71,5,4,3,543,Loyal Customers,Jodhpur,Rajasthan,India
+CUST00155,678,3,5777.13,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00156,149,9,24625.22,3,3,3,333,Loyal Customers,Howrah,West Bengal,India
+CUST00157,266,4,83320.69,3,2,4,324,Need Attention,Mysuru,Karnataka,India
+CUST00158,626,5,71725.95,1,2,4,124,Lost,Gurgaon,Haryana,India
+CUST00159,55,9,33464.229999999996,4,3,3,433,Loyal Customers,Warangal,Telangana,India
+CUST00160,531,6,7778.77,1,2,1,121,Lost,Bikaner,Rajasthan,India
+CUST00161,32,12,170020.33,4,4,5,445,Champions,Warangal,Telangana,India
+CUST00162,497,4,48233.11,1,2,3,123,Lost,Thane,Maharashtra,India
+CUST00163,271,10,12947.49,3,3,2,332,Need Attention,Nagpur,Maharashtra,India
+CUST00164,395,5,88333.13,2,2,4,224,Hibernating,Hyderabad,Telangana,India
+CUST00165,10,18,33128.66,5,5,3,553,Loyal Customers,Rajkot,Gujarat,India
+CUST00166,374,1,151.23,2,1,1,211,Hibernating,Warangal,Telangana,India
+CUST00167,34,9,18336.79,4,3,2,432,Need Attention,Mangalore,Karnataka,India
+CUST00168,3,20,108501.15,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST00169,4,66,279350.35,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST00170,368,5,113323.83000000002,2,2,4,224,Hibernating,Thiruvananthapuram,Kerala,India
+CUST00171,210,9,229794.38,3,3,5,335,Loyal Customers,Bengaluru,Karnataka,India
+CUST00172,1,46,162846.1,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00173,365,4,173214.63999999998,2,2,5,225,Hibernating,Howrah,West Bengal,India
+CUST00174,82,12,59393.18,4,4,4,444,Champions,Ahmedabad,Gujarat,India
+CUST00175,400,4,11418.04,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST00176,12,18,101447.39000000001,5,5,4,554,Champions,Chennai,Tamil Nadu,India
+CUST00177,422,3,7983.290000000001,2,1,1,211,Hibernating,Coimbatore,Tamil Nadu,India
+CUST00178,297,8,16850.4,3,3,2,332,Need Attention,Mysuru,Karnataka,India
+CUST00179,530,4,13100.26,1,2,2,122,Lost,Kochi,Kerala,India
+CUST00180,9,17,80845.48,5,4,4,544,Champions,Udaipur,Rajasthan,India
+CUST00181,223,9,35898.700000000004,3,3,3,333,Loyal Customers,Chandigarh,Punjab,India
+CUST00182,6,26,122609.45999999999,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST00183,556,2,18407.75,1,1,2,112,Lost,Rajkot,Gujarat,India
+CUST00184,442,3,14331.58,2,1,2,212,Hibernating,Chennai,Tamil Nadu,India
+CUST00185,49,11,21065.15,4,4,2,442,Need Attention,Kochi,Kerala,India
+CUST00186,228,9,93081.22,3,3,4,334,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00187,581,1,4808.1,1,1,1,111,Lost,Durgapur,West Bengal,India
+CUST00188,566,3,3026.2200000000003,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST00189,523,5,106039.61,1,2,4,124,Lost,Kolkata,West Bengal,India
+CUST00190,24,5,99748.65,4,2,4,424,New Customers,Delhi,Delhi,India
+CUST00191,1,25,311623.72,5,5,5,555,Champions,Jodhpur,Rajasthan,India
+CUST00192,685,2,6388.6,1,1,1,111,Lost,Panipat,Haryana,India
+CUST00193,512,4,9050.33,1,2,2,122,Lost,Varanasi,Uttar Pradesh,India
+CUST00194,348,9,32180.680000000004,3,3,3,333,Loyal Customers,Panipat,Haryana,India
+CUST00195,15,7,10002.55,4,3,2,432,Need Attention,Chennai,Tamil Nadu,India
+CUST00196,133,10,78361.5,4,3,4,434,Loyal Customers,Salem,Tamil Nadu,India
+CUST00197,342,6,35878.21,3,2,3,323,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00198,722,2,70818.46,1,1,4,114,Lost,Udaipur,Rajasthan,India
+CUST00199,482,1,1611.26,2,1,1,211,Hibernating,Madurai,Tamil Nadu,India
+CUST00200,256,3,5808.0599999999995,3,1,1,311,Hibernating,Vadodara,Gujarat,India
+CUST00201,379,3,15188.480000000001,2,1,2,212,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00202,28,21,136573.63999999998,4,5,5,455,Champions,Faridabad,Haryana,India
+CUST00203,14,13,162094.37,5,4,5,545,Champions,Salem,Tamil Nadu,India
+CUST00204,696,1,2217.65,1,1,1,111,Lost,Mumbai,Maharashtra,India
+CUST00205,262,7,31508.510000000002,3,3,3,333,Loyal Customers,Hyderabad,Telangana,India
+CUST00206,10,50,321017.26,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST00207,15,24,321635.46,4,5,5,455,Champions,Agra,Uttar Pradesh,India
+CUST00208,375,5,15035.83,2,2,2,222,Hibernating,Agra,Uttar Pradesh,India
+CUST00209,15,50,374711.57,4,5,5,455,Champions,Udaipur,Rajasthan,India
+CUST00210,2,31,676971.4,5,5,5,555,Champions,Chennai,Tamil Nadu,India
+CUST00211,431,6,9466.1,2,2,2,222,Hibernating,New Delhi,Delhi,India
+CUST00212,347,4,38486.35,3,2,3,323,Need Attention,Faridabad,Haryana,India
+CUST00213,450,6,21967.769999999997,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST00214,88,14,113727.90000000001,4,4,4,444,Champions,New Delhi,Delhi,India
+CUST00215,473,3,15101.06,2,1,2,212,Hibernating,Kolkata,West Bengal,India
+CUST00216,27,15,65665.64,4,4,4,444,Champions,Panipat,Haryana,India
+CUST00217,8,13,32398.480000000003,5,4,3,543,Loyal Customers,Mumbai,Maharashtra,India
+CUST00218,257,7,229835.26,3,3,5,335,Loyal Customers,Gurgaon,Haryana,India
+CUST00219,631,3,113799.04000000001,1,1,4,114,Lost,Thane,Maharashtra,India
+CUST00220,553,2,970.52,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST00221,387,5,14564.09,2,2,2,222,Hibernating,Nagpur,Maharashtra,India
+CUST00222,488,5,6331.4,1,2,1,121,Lost,Delhi,Delhi,India
+CUST00223,14,33,255814.44999999998,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST00224,121,5,65865.95,4,2,4,424,New Customers,Hubli,Karnataka,India
+CUST00225,469,14,35495.77,2,4,3,243,Churned Best Customers,Delhi,Delhi,India
+CUST00226,120,9,116877.28,4,3,4,434,Loyal Customers,Ludhiana,Punjab,India
+CUST00227,399,2,4494.52,2,1,1,211,Hibernating,Bikaner,Rajasthan,India
+CUST00228,142,8,199444.12999999998,3,3,5,335,Loyal Customers,Warangal,Telangana,India
+CUST00229,672,2,4609.93,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST00230,505,9,49769.63,1,3,4,134,Hibernating,Kochi,Kerala,India
+CUST00231,258,5,12208.59,3,2,2,322,Need Attention,New Delhi,Delhi,India
+CUST00232,282,4,15306.31,3,2,2,322,Need Attention,Lucknow,Uttar Pradesh,India
+CUST00233,420,3,14825.720000000001,2,1,2,212,Hibernating,Warangal,Telangana,India
+CUST00234,18,9,47031.47,4,3,3,433,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00235,9,25,230048.99,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST00236,211,9,34560.76,3,3,3,333,Loyal Customers,Kochi,Kerala,India
+CUST00237,180,12,117440.29000000001,3,4,4,344,Loyal Customers,Chandigarh,Punjab,India
+CUST00238,14,42,246647.31,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00239,427,11,44883.97,2,4,3,243,Churned Best Customers,Bengaluru,Karnataka,India
+CUST00240,2,31,190683.49,5,5,5,555,Champions,Vadodara,Gujarat,India
+CUST00241,485,1,525.63,1,1,1,111,Lost,Udaipur,Rajasthan,India
+CUST00242,707,2,9593.57,1,1,2,112,Lost,Noida,Uttar Pradesh,India
+CUST00243,214,3,5805.51,3,1,1,311,Hibernating,New Delhi,Delhi,India
+CUST00244,111,14,25365.12,4,4,3,443,Loyal Customers,Durgapur,West Bengal,India
+CUST00245,2,35,158098.26,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00246,563,3,11749.28,1,1,2,112,Lost,Nagpur,Maharashtra,India
+CUST00247,129,7,10334.76,4,3,2,432,Need Attention,Mangalore,Karnataka,India
+CUST00248,411,1,3116.74,2,1,1,211,Hibernating,Udaipur,Rajasthan,India
+CUST00249,212,2,8254.33,3,1,2,312,Hibernating,Warangal,Telangana,India
+CUST00250,234,4,8118.89,3,2,2,322,Need Attention,Howrah,West Bengal,India
+CUST00251,33,17,66193.18,4,4,4,444,Champions,Kochi,Kerala,India
+CUST00252,240,12,51044.02,3,4,4,344,Loyal Customers,Warangal,Telangana,India
+CUST00253,447,1,771.19,2,1,1,211,Hibernating,Hyderabad,Telangana,India
+CUST00254,108,7,26730.059999999998,4,3,3,433,Loyal Customers,Howrah,West Bengal,India
+CUST00255,1,31,247048.49,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00256,427,7,26930.129999999997,2,3,3,233,Hibernating,Hyderabad,Telangana,India
+CUST00257,449,2,3730.43,2,1,1,211,Hibernating,Durgapur,West Bengal,India
+CUST00258,518,3,5679.12,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST00259,401,6,26278.129999999997,2,2,3,223,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00260,24,18,73572.01,4,5,4,454,Champions,Faridabad,Haryana,India
+CUST00261,193,2,4555.39,3,1,1,311,Hibernating,Kozhikode,Kerala,India
+CUST00262,409,4,9182.26,2,2,2,222,Hibernating,Hubli,Karnataka,India
+CUST00263,6,17,152597.80000000002,5,4,5,545,Champions,Varanasi,Uttar Pradesh,India
+CUST00264,365,3,13699.99,2,1,2,212,Hibernating,Delhi,Delhi,India
+CUST00265,661,4,122395.87999999999,1,2,5,125,Lost,Mangalore,Karnataka,India
+CUST00266,324,8,85019.61,3,3,4,334,Loyal Customers,Faridabad,Haryana,India
+CUST00267,540,3,7945.860000000001,1,1,1,111,Lost,Jodhpur,Rajasthan,India
+CUST00268,255,6,13743.53,3,2,2,322,Need Attention,Mangalore,Karnataka,India
+CUST00269,13,17,263928.0,5,4,5,545,Champions,Kanpur,Uttar Pradesh,India
+CUST00270,18,15,71853.23,4,4,4,444,Champions,Warangal,Telangana,India
+CUST00271,706,2,3431.27,1,1,1,111,Lost,Nagpur,Maharashtra,India
+CUST00272,323,2,5625.31,3,1,1,311,Hibernating,Chandigarh,Punjab,India
+CUST00273,647,1,1035.24,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST00274,577,2,4489.11,1,1,1,111,Lost,Noida,Uttar Pradesh,India
+CUST00275,357,2,6522.7300000000005,2,1,1,211,Hibernating,Kolkata,West Bengal,India
+CUST00276,183,5,10716.619999999999,3,2,2,322,Need Attention,Hyderabad,Telangana,India
+CUST00277,416,8,15527.650000000001,2,3,2,232,Hibernating,Durgapur,West Bengal,India
+CUST00278,525,5,31755.510000000002,1,2,3,123,Lost,Warangal,Telangana,India
+CUST00279,435,8,24314.58,2,3,3,233,Hibernating,Pune,Maharashtra,India
+CUST00280,320,11,25595.67,3,4,3,343,Loyal Customers,Kolkata,West Bengal,India
+CUST00281,658,2,2823.33,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST00282,66,10,29002.039999999997,4,3,3,433,Loyal Customers,Mangalore,Karnataka,India
+CUST00283,183,12,37004.19,3,4,3,343,Loyal Customers,Udaipur,Rajasthan,India
+CUST00284,19,18,258331.74000000002,4,5,5,455,Champions,Faridabad,Haryana,India
+CUST00285,413,6,15142.21,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST00286,5,52,369321.43,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST00287,5,9,45942.32,5,3,3,533,Loyal Customers,Thane,Maharashtra,India
+CUST00288,343,7,46372.17,3,3,3,333,Loyal Customers,Kozhikode,Kerala,India
+CUST00289,83,10,10445.67,4,3,2,432,Need Attention,Gurgaon,Haryana,India
+CUST00290,535,8,13890.99,1,3,2,132,Hibernating,Kozhikode,Kerala,India
+CUST00291,6,49,236222.2,5,5,5,555,Champions,Hubli,Karnataka,India
+CUST00292,1,55,297529.33,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00293,621,2,3603.81,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST00294,77,7,43540.02,4,3,3,433,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST00295,3,28,103329.53,5,5,4,554,Champions,Mysuru,Karnataka,India
+CUST00296,258,4,37678.84,3,2,3,323,Need Attention,Amritsar,Punjab,India
+CUST00297,356,2,6470.4,2,1,1,211,Hibernating,Salem,Tamil Nadu,India
+CUST00298,171,22,70722.39,3,5,4,354,Loyal Customers,Salem,Tamil Nadu,India
+CUST00299,258,9,66399.05,3,3,4,334,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00300,3,27,378929.31,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST00301,3,22,399159.41,5,5,5,555,Champions,Udaipur,Rajasthan,India
+CUST00302,248,4,11017.1,3,2,2,322,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00303,484,12,39471.6,1,4,3,143,Churned Best Customers,Surat,Gujarat,India
+CUST00304,354,2,2610.7599999999998,3,1,1,311,Hibernating,New Delhi,Delhi,India
+CUST00305,396,2,4533.87,2,1,1,211,Hibernating,Durgapur,West Bengal,India
+CUST00306,541,2,1899.3200000000002,1,1,1,111,Lost,Ahmedabad,Gujarat,India
+CUST00307,442,3,6940.860000000001,2,1,1,211,Hibernating,Thane,Maharashtra,India
+CUST00308,165,13,52013.3,3,4,4,344,Loyal Customers,Faridabad,Haryana,India
+CUST00309,318,6,27534.47,3,2,3,323,Need Attention,Amritsar,Punjab,India
+CUST00310,242,9,62727.46,3,3,4,334,Loyal Customers,Madurai,Tamil Nadu,India
+CUST00311,29,5,9049.32,4,2,2,422,New Customers,New Delhi,Delhi,India
+CUST00312,1,32,374984.49,5,5,5,555,Champions,Thane,Maharashtra,India
+CUST00313,1,55,231624.88,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST00314,583,2,16524.58,1,1,2,112,Lost,Faridabad,Haryana,India
+CUST00315,499,2,10019.92,1,1,2,112,Lost,Hubli,Karnataka,India
+CUST00316,311,4,14749.16,3,2,2,322,Need Attention,Surat,Gujarat,India
+CUST00317,17,10,15142.7,4,3,2,432,Need Attention,Vadodara,Gujarat,India
+CUST00318,2,22,261218.88999999998,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00319,5,23,66310.20999999999,5,5,4,554,Champions,Panipat,Haryana,India
+CUST00320,100,18,243079.58000000002,4,5,5,455,Champions,Kolkata,West Bengal,India
+CUST00321,271,4,13279.25,3,2,2,322,Need Attention,Ahmedabad,Gujarat,India
+CUST00322,383,8,15192.32,2,3,2,232,Hibernating,Kozhikode,Kerala,India
+CUST00323,436,4,13112.08,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST00324,83,13,22605.68,4,4,2,442,Need Attention,Salem,Tamil Nadu,India
+CUST00325,670,1,515.56,1,1,1,111,Lost,Agra,Uttar Pradesh,India
+CUST00326,206,6,11105.61,3,2,2,322,Need Attention,Kochi,Kerala,India
+CUST00327,214,3,22275.809999999998,3,1,2,312,Hibernating,Rajkot,Gujarat,India
+CUST00328,486,9,19727.489999999998,1,3,2,132,Hibernating,Mumbai,Maharashtra,India
+CUST00329,10,7,64560.25,5,3,4,534,Loyal Customers,New Delhi,Delhi,India
+CUST00330,29,12,17063.83,4,4,2,442,Need Attention,Mangalore,Karnataka,India
+CUST00331,189,5,83644.31,3,2,4,324,Need Attention,Kozhikode,Kerala,India
+CUST00332,412,5,9112.71,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST00333,7,35,153661.82,5,5,5,555,Champions,Kochi,Kerala,India
+CUST00334,3,14,35566.83,5,4,3,543,Loyal Customers,Warangal,Telangana,India
+CUST00335,26,29,150992.66,4,5,5,455,Champions,Kolkata,West Bengal,India
+CUST00336,1,43,271677.02999999997,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST00337,351,1,746.58,3,1,1,311,Hibernating,Durgapur,West Bengal,India
+CUST00338,418,6,17029.989999999998,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST00339,137,8,132892.45,3,3,5,335,Loyal Customers,Jaipur,Rajasthan,India
+CUST00340,22,25,138382.34,4,5,5,455,Champions,Kozhikode,Kerala,India
+CUST00341,87,6,12843.32,4,2,2,422,New Customers,Kolkata,West Bengal,India
+CUST00342,55,11,58839.17,4,4,4,444,Champions,Chennai,Tamil Nadu,India
+CUST00343,3,26,58496.36,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST00344,195,5,18259.7,3,2,2,322,Need Attention,Bengaluru,Karnataka,India
+CUST00345,94,11,19834.45,4,4,2,442,Need Attention,Hubli,Karnataka,India
+CUST00346,433,3,5103.27,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST00347,292,8,74329.22,3,3,4,334,Loyal Customers,Kolkata,West Bengal,India
+CUST00348,6,51,258509.78,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST00349,184,4,8654.22,3,2,2,322,Need Attention,Mangalore,Karnataka,India
+CUST00350,480,10,25864.440000000002,2,3,3,233,Hibernating,Gurgaon,Haryana,India
+CUST00351,236,6,25216.489999999998,3,2,3,323,Need Attention,Durgapur,West Bengal,India
+CUST00352,427,1,1218.94,2,1,1,211,Hibernating,Jodhpur,Rajasthan,India
+CUST00353,496,4,8332.86,1,2,2,122,Lost,Panipat,Haryana,India
+CUST00354,4,23,122087.22,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST00355,1,32,309682.29000000004,5,5,5,555,Champions,Warangal,Telangana,India
+CUST00356,330,2,1813.57,3,1,1,311,Hibernating,Faridabad,Haryana,India
+CUST00357,9,64,528470.97,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00358,555,13,70035.25,1,4,4,144,At Risk,Hubli,Karnataka,India
+CUST00359,686,2,9680.869999999999,1,1,2,112,Lost,Chandigarh,Punjab,India
+CUST00360,353,4,3965.6,3,2,1,321,Hibernating,Chandigarh,Punjab,India
+CUST00361,57,15,112334.66,4,4,4,444,Champions,Noida,Uttar Pradesh,India
+CUST00362,250,2,9824.92,3,1,2,312,Hibernating,Gurgaon,Haryana,India
+CUST00363,172,13,441860.74,3,4,5,345,Loyal Customers,Salem,Tamil Nadu,India
+CUST00364,295,5,126911.24,3,2,5,325,Need Attention,Warangal,Telangana,India
+CUST00365,649,3,10932.99,1,1,2,112,Lost,Hyderabad,Telangana,India
+CUST00366,334,10,11129.46,3,3,2,332,Need Attention,Durgapur,West Bengal,India
+CUST00367,522,3,90275.00000000001,1,1,4,114,Lost,Mangalore,Karnataka,India
+CUST00368,626,2,6612.9,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST00369,5,28,81337.14,5,5,4,554,Champions,Panipat,Haryana,India
+CUST00370,13,17,92080.12,5,4,4,544,Champions,Lucknow,Uttar Pradesh,India
+CUST00371,9,14,216492.18,5,4,5,545,Champions,Agra,Uttar Pradesh,India
+CUST00372,1,48,259574.77000000002,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00373,37,13,53430.93,4,4,4,444,Champions,Nagpur,Maharashtra,India
+CUST00374,391,4,12925.300000000001,2,2,2,222,Hibernating,Kolkata,West Bengal,India
+CUST00375,3,17,91469.89,5,4,4,544,Champions,Coimbatore,Tamil Nadu,India
+CUST00376,65,10,122800.91,4,3,5,435,Loyal Customers,Delhi,Delhi,India
+CUST00377,645,3,1724.94,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00378,3,44,191239.92,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00379,595,1,1366.72,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST00380,4,18,48463.98,5,5,3,553,Loyal Customers,Vadodara,Gujarat,India
+CUST00381,7,20,66530.41,5,5,4,554,Champions,Pune,Maharashtra,India
+CUST00382,637,3,17555.07,1,1,2,112,Lost,Thiruvananthapuram,Kerala,India
+CUST00383,371,4,68581.08,2,2,4,224,Hibernating,Panipat,Haryana,India
+CUST00384,622,1,30154.35,1,1,3,113,Lost,Panipat,Haryana,India
+CUST00385,620,4,7076.15,1,2,1,121,Lost,Warangal,Telangana,India
+CUST00386,474,1,474.19,2,1,1,211,Hibernating,Howrah,West Bengal,India
+CUST00387,91,12,71259.08,4,4,4,444,Champions,Ludhiana,Punjab,India
+CUST00388,9,19,131068.31999999999,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST00389,614,7,71724.64,1,3,4,134,Hibernating,Bikaner,Rajasthan,India
+CUST00390,213,1,1784.97,3,1,1,311,Hibernating,Bikaner,Rajasthan,India
+CUST00391,404,2,7585.55,2,1,1,211,Hibernating,Lucknow,Uttar Pradesh,India
+CUST00392,213,8,133062.5,3,3,5,335,Loyal Customers,Delhi,Delhi,India
+CUST00393,42,7,32974.8,4,3,3,433,Loyal Customers,Agra,Uttar Pradesh,India
+CUST00394,356,4,74934.5,2,2,4,224,Hibernating,Hyderabad,Telangana,India
+CUST00395,23,6,150547.95,4,2,5,425,New Customers,Surat,Gujarat,India
+CUST00396,437,1,265.5,2,1,1,211,Hibernating,Vadodara,Gujarat,India
+CUST00397,479,1,849.86,2,1,1,211,Hibernating,Bikaner,Rajasthan,India
+CUST00398,6,18,133575.06,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00399,592,4,13801.92,1,2,2,122,Lost,Thiruvananthapuram,Kerala,India
+CUST00400,326,5,51302.630000000005,3,2,4,324,Need Attention,Gurgaon,Haryana,India
+CUST00401,6,14,29873.84,5,4,3,543,Loyal Customers,Jaipur,Rajasthan,India
+CUST00402,578,1,4677.2,1,1,1,111,Lost,Warangal,Telangana,India
+CUST00403,655,3,2688.7,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00404,411,1,4796.16,2,1,1,211,Hibernating,Mangalore,Karnataka,India
+CUST00405,40,15,57426.37,4,4,4,444,Champions,Hyderabad,Telangana,India
+CUST00406,567,1,928.91,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST00407,115,15,56314.7,4,4,4,444,Champions,Warangal,Telangana,India
+CUST00408,2,60,397120.8,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00409,460,1,1170.77,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST00410,3,12,38122.46,5,4,3,543,Loyal Customers,Madurai,Tamil Nadu,India
+CUST00411,3,13,163458.29,5,4,5,545,Champions,Kochi,Kerala,India
+CUST00412,695,1,1507.97,1,1,1,111,Lost,Hubli,Karnataka,India
+CUST00413,560,3,7146.25,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST00414,599,4,11901.26,1,2,2,122,Lost,Thiruvananthapuram,Kerala,India
+CUST00415,653,3,24197.620000000003,1,1,3,113,Lost,Amritsar,Punjab,India
+CUST00416,38,14,64079.94,4,4,4,444,Champions,Kozhikode,Kerala,India
+CUST00417,12,14,43860.21,5,4,3,543,Loyal Customers,Kolkata,West Bengal,India
+CUST00418,77,17,103372.02,4,4,4,444,Champions,Bikaner,Rajasthan,India
+CUST00419,593,2,1314.87,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST00420,427,6,48272.16,2,2,3,223,Hibernating,Delhi,Delhi,India
+CUST00421,422,6,9682.060000000001,2,2,2,222,Hibernating,Mumbai,Maharashtra,India
+CUST00422,435,3,2365.23,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST00423,10,31,131408.24,5,5,5,555,Champions,Varanasi,Uttar Pradesh,India
+CUST00424,22,11,40798.01,4,4,3,443,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST00425,10,19,36394.96,5,5,3,553,Loyal Customers,Kochi,Kerala,India
+CUST00426,367,4,226371.24,2,2,5,225,Hibernating,Jodhpur,Rajasthan,India
+CUST00427,25,10,51005.81,4,3,4,434,Loyal Customers,Delhi,Delhi,India
+CUST00428,620,1,627.61,1,1,1,111,Lost,Kochi,Kerala,India
+CUST00429,261,13,84786.54,3,4,4,344,Loyal Customers,Faridabad,Haryana,India
+CUST00430,5,23,163169.2,5,5,5,555,Champions,Noida,Uttar Pradesh,India
+CUST00431,16,14,45613.07,4,4,3,443,Loyal Customers,Howrah,West Bengal,India
+CUST00432,279,8,47430.94,3,3,3,333,Loyal Customers,Durgapur,West Bengal,India
+CUST00433,461,8,36472.57,2,3,3,233,Hibernating,Kozhikode,Kerala,India
+CUST00434,1,33,335962.58999999997,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00435,1,23,58309.11,5,5,4,554,Champions,Warangal,Telangana,India
+CUST00436,391,5,12523.16,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST00437,4,27,184245.74,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00438,402,5,7965.13,2,2,1,221,Hibernating,Kozhikode,Kerala,India
+CUST00439,338,2,1025.69,3,1,1,311,Hibernating,Chandigarh,Punjab,India
+CUST00440,12,29,170410.98,5,5,5,555,Champions,Varanasi,Uttar Pradesh,India
+CUST00441,7,19,109938.16,5,5,4,554,Champions,Kozhikode,Kerala,India
+CUST00442,208,4,6942.71,3,2,1,321,Hibernating,Kozhikode,Kerala,India
+CUST00443,144,16,41747.81,3,4,3,343,Loyal Customers,Kolkata,West Bengal,India
+CUST00444,7,13,41519.87,5,4,3,543,Loyal Customers,Mysuru,Karnataka,India
+CUST00445,481,2,21188.71,2,1,2,212,Hibernating,Coimbatore,Tamil Nadu,India
+CUST00446,534,1,698.36,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00447,529,2,5081.76,1,1,1,111,Lost,Noida,Uttar Pradesh,India
+CUST00448,395,6,97666.01000000001,2,2,4,224,Hibernating,Durgapur,West Bengal,India
+CUST00449,40,8,25176.030000000002,4,3,3,433,Loyal Customers,Hyderabad,Telangana,India
+CUST00450,2,12,196852.7,5,4,5,545,Champions,Panipat,Haryana,India
+CUST00451,371,4,7263.129999999999,2,2,1,221,Hibernating,Jaipur,Rajasthan,India
+CUST00452,248,6,153533.74,3,2,5,325,Need Attention,Kozhikode,Kerala,India
+CUST00453,183,11,215286.13,3,4,5,345,Loyal Customers,Amritsar,Punjab,India
+CUST00454,480,1,339.86,2,1,1,211,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00455,5,26,181808.01,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST00456,299,8,50247.71,3,3,4,334,Loyal Customers,Udaipur,Rajasthan,India
+CUST00457,10,25,64644.78,5,5,4,554,Champions,Varanasi,Uttar Pradesh,India
+CUST00458,172,10,108610.27,3,3,4,334,Loyal Customers,Ludhiana,Punjab,India
+CUST00459,2,25,78433.43,5,5,4,554,Champions,Thiruvananthapuram,Kerala,India
+CUST00460,7,20,175218.66,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00461,19,20,96209.75,4,5,4,454,Champions,Hubli,Karnataka,India
+CUST00462,447,3,3732.48,2,1,1,211,Hibernating,Mangalore,Karnataka,India
+CUST00463,412,2,1601.0700000000002,2,1,1,211,Hibernating,Udaipur,Rajasthan,India
+CUST00464,713,3,4598.53,1,1,1,111,Lost,Nashik,Maharashtra,India
+CUST00465,619,1,351.02,1,1,1,111,Lost,Salem,Tamil Nadu,India
+CUST00466,27,11,24838.460000000003,4,4,3,443,Loyal Customers,Chennai,Tamil Nadu,India
+CUST00467,86,6,49211.62,4,2,4,424,New Customers,Panipat,Haryana,India
+CUST00468,444,1,1510.04,2,1,1,211,Hibernating,Bengaluru,Karnataka,India
+CUST00469,5,14,138525.24,5,4,5,545,Champions,Gurgaon,Haryana,India
+CUST00470,544,4,14733.9,1,2,2,122,Lost,Ludhiana,Punjab,India
+CUST00471,6,50,479325.48,5,5,5,555,Champions,Surat,Gujarat,India
+CUST00472,636,4,9843.24,1,2,2,122,Lost,Panipat,Haryana,India
+CUST00473,5,36,202287.36,5,5,5,555,Champions,Delhi,Delhi,India
+CUST00474,641,4,17074.75,1,2,2,122,Lost,New Delhi,Delhi,India
+CUST00475,390,6,12743.380000000001,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST00476,593,1,4865.26,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00477,9,20,139679.4,5,5,5,555,Champions,Thane,Maharashtra,India
+CUST00478,455,3,4452.46,2,1,1,211,Hibernating,Gurgaon,Haryana,India
+CUST00479,478,1,313.41,2,1,1,211,Hibernating,Thane,Maharashtra,India
+CUST00480,491,3,6135.76,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST00481,403,5,21474.18,2,2,2,222,Hibernating,Kochi,Kerala,India
+CUST00482,419,5,43815.299999999996,2,2,3,223,Hibernating,New Delhi,Delhi,India
+CUST00483,319,16,49549.2,3,4,4,344,Loyal Customers,Nashik,Maharashtra,India
+CUST00484,508,7,10346.779999999999,1,3,2,132,Hibernating,Gurgaon,Haryana,India
+CUST00485,265,8,16411.62,3,3,2,332,Need Attention,Kolkata,West Bengal,India
+CUST00486,431,1,3268.15,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST00487,1,43,333302.69,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00488,124,8,36834.159999999996,4,3,3,433,Loyal Customers,Mangalore,Karnataka,India
+CUST00489,538,2,31609.5,1,1,3,113,Lost,Mysuru,Karnataka,India
+CUST00490,714,4,10446.02,1,2,2,122,Lost,Jaipur,Rajasthan,India
+CUST00491,96,12,26632.29,4,4,3,443,Loyal Customers,Pune,Maharashtra,India
+CUST00492,371,7,173314.66,2,3,5,235,Hibernating,Rajkot,Gujarat,India
+CUST00493,23,14,113521.78,4,4,4,444,Champions,Ahmedabad,Gujarat,India
+CUST00494,1,16,52150.45,5,4,4,544,Champions,Kolkata,West Bengal,India
+CUST00495,40,7,10652.52,4,3,2,432,Need Attention,Delhi,Delhi,India
+CUST00496,317,11,69277.25,3,4,4,344,Loyal Customers,Faridabad,Haryana,India
+CUST00497,414,5,20892.55,2,2,2,222,Hibernating,Mangalore,Karnataka,India
+CUST00498,10,28,134197.7,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST00499,674,3,8066.45,1,1,2,112,Lost,Hyderabad,Telangana,India
+CUST00500,595,2,228749.53999999998,1,1,5,115,Lost,Hubli,Karnataka,India
+CUST00501,367,5,14893.98,2,2,2,222,Hibernating,Delhi,Delhi,India
+CUST00502,372,5,13290.08,2,2,2,222,Hibernating,Bikaner,Rajasthan,India
+CUST00503,62,10,45946.12,4,3,3,433,Loyal Customers,Udaipur,Rajasthan,India
+CUST00504,372,2,8243.24,2,1,2,212,Hibernating,Faridabad,Haryana,India
+CUST00505,633,5,15482.669999999998,1,2,2,122,Lost,Ahmedabad,Gujarat,India
+CUST00506,2,27,137742.75,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST00507,204,2,1933.5099999999998,3,1,1,311,Hibernating,Panipat,Haryana,India
+CUST00508,700,1,15712.3,1,1,2,112,Lost,Mangalore,Karnataka,India
+CUST00509,700,1,2195.22,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST00510,513,7,62745.06,1,3,4,134,Hibernating,Hyderabad,Telangana,India
+CUST00511,278,5,37640.770000000004,3,2,3,323,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00512,154,12,40268.03,3,4,3,343,Loyal Customers,Jaipur,Rajasthan,India
+CUST00513,473,3,3988.6499999999996,2,1,1,211,Hibernating,Agra,Uttar Pradesh,India
+CUST00514,398,5,9433.45,2,2,2,222,Hibernating,Thiruvananthapuram,Kerala,India
+CUST00515,1,42,129014.93,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST00516,6,40,99063.55,5,5,4,554,Champions,Hyderabad,Telangana,India
+CUST00517,278,14,121968.46,3,4,5,345,Loyal Customers,Faridabad,Haryana,India
+CUST00518,556,2,2036.17,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST00519,649,1,6991.9,1,1,1,111,Lost,Bengaluru,Karnataka,India
+CUST00520,4,19,153116.16999999998,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST00521,213,5,3245.1,3,2,1,321,Hibernating,Durgapur,West Bengal,India
+CUST00522,41,13,144563.49,4,4,5,445,Champions,Delhi,Delhi,India
+CUST00523,453,5,15017.48,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST00524,638,3,20291.9,1,1,2,112,Lost,Kanpur,Uttar Pradesh,India
+CUST00525,639,1,4862.78,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST00526,93,7,10443.2,4,3,2,432,Need Attention,Durgapur,West Bengal,India
+CUST00527,29,10,30626.34,4,3,3,433,Loyal Customers,Jodhpur,Rajasthan,India
+CUST00528,41,18,101174.17,4,5,4,454,Champions,Delhi,Delhi,India
+CUST00529,2,38,196279.52,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST00530,218,4,6843.639999999999,3,2,1,321,Hibernating,Hyderabad,Telangana,India
+CUST00531,541,3,9445.21,1,1,2,112,Lost,Kochi,Kerala,India
+CUST00532,585,1,6983.11,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST00533,555,2,12131.29,1,1,2,112,Lost,Noida,Uttar Pradesh,India
+CUST00534,563,8,18278.07,1,3,2,132,Hibernating,Hyderabad,Telangana,India
+CUST00535,605,4,16779.38,1,2,2,122,Lost,Hubli,Karnataka,India
+CUST00536,321,1,1429.34,3,1,1,311,Hibernating,Durgapur,West Bengal,India
+CUST00537,559,2,8815.53,1,1,2,112,Lost,Agra,Uttar Pradesh,India
+CUST00538,210,16,613219.91,3,4,5,345,Loyal Customers,Madurai,Tamil Nadu,India
+CUST00539,17,8,23782.74,4,3,3,433,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00540,19,18,228911.49,4,5,5,455,Champions,Mysuru,Karnataka,India
+CUST00541,715,5,147668.19,1,2,5,125,Lost,Chandigarh,Punjab,India
+CUST00542,275,4,7313.48,3,2,1,321,Hibernating,Ludhiana,Punjab,India
+CUST00543,30,18,81407.84999999999,4,5,4,454,Champions,Thane,Maharashtra,India
+CUST00544,634,5,15079.140000000001,1,2,2,122,Lost,Salem,Tamil Nadu,India
+CUST00545,545,5,14976.39,1,2,2,122,Lost,Nashik,Maharashtra,India
+CUST00546,29,11,20219.99,4,4,2,442,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00547,15,29,233552.29,4,5,5,455,Champions,Thiruvananthapuram,Kerala,India
+CUST00548,277,4,12374.85,3,2,2,322,Need Attention,New Delhi,Delhi,India
+CUST00549,200,3,102884.79,3,1,4,314,Hibernating,Warangal,Telangana,India
+CUST00550,427,5,14018.89,2,2,2,222,Hibernating,Durgapur,West Bengal,India
+CUST00551,424,2,18166.73,2,1,2,212,Hibernating,Faridabad,Haryana,India
+CUST00552,668,4,18233.61,1,2,2,122,Lost,Hubli,Karnataka,India
+CUST00553,383,9,118070.48,2,3,5,235,Hibernating,Delhi,Delhi,India
+CUST00554,501,4,5852.39,1,2,1,121,Lost,Delhi,Delhi,India
+CUST00555,238,2,5579.88,3,1,1,311,Hibernating,Bengaluru,Karnataka,India
+CUST00556,212,4,45214.75,3,2,3,323,Need Attention,Warangal,Telangana,India
+CUST00557,5,23,355909.64,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00558,4,60,213115.2,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST00559,191,4,4484.87,3,2,1,321,Hibernating,Udaipur,Rajasthan,India
+CUST00560,276,6,22975.15,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST00561,366,5,13250.949999999999,2,2,2,222,Hibernating,Coimbatore,Tamil Nadu,India
+CUST00562,227,11,40279.59,3,4,3,343,Loyal Customers,Mumbai,Maharashtra,India
+CUST00563,19,13,175321.35,4,4,5,445,Champions,Chandigarh,Punjab,India
+CUST00564,2,47,178436.24,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST00565,180,7,26323.47,3,3,3,333,Loyal Customers,Hubli,Karnataka,India
+CUST00566,650,10,20411.98,1,3,2,132,Hibernating,Kolkata,West Bengal,India
+CUST00567,58,20,212846.90999999997,4,5,5,455,Champions,Chandigarh,Punjab,India
+CUST00568,79,8,28442.69,4,3,3,433,Loyal Customers,Agra,Uttar Pradesh,India
+CUST00569,500,1,3391.52,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST00570,299,10,36724.05,3,3,3,333,Loyal Customers,Chandigarh,Punjab,India
+CUST00571,385,3,70796.84999999999,2,1,4,214,Hibernating,Bengaluru,Karnataka,India
+CUST00572,304,6,10725.32,3,2,2,322,Need Attention,Durgapur,West Bengal,India
+CUST00573,36,9,169103.54,4,3,5,435,Loyal Customers,Salem,Tamil Nadu,India
+CUST00574,465,4,6765.16,2,2,1,221,Hibernating,Mumbai,Maharashtra,India
+CUST00575,614,4,7688.39,1,2,1,121,Lost,Howrah,West Bengal,India
+CUST00576,508,2,3652.08,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST00577,1,28,122088.74,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST00578,508,1,2146.02,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST00579,41,12,21035.52,4,4,2,442,Need Attention,Noida,Uttar Pradesh,India
+CUST00580,35,16,63864.5,4,4,4,444,Champions,Panipat,Haryana,India
+CUST00581,345,7,33412.68,3,3,3,333,Loyal Customers,Nagpur,Maharashtra,India
+CUST00582,568,3,9699.75,1,1,2,112,Lost,Delhi,Delhi,India
+CUST00583,97,9,117447.74,4,3,4,434,Loyal Customers,Panipat,Haryana,India
+CUST00584,25,8,27187.690000000002,4,3,3,433,Loyal Customers,Udaipur,Rajasthan,India
+CUST00585,215,5,15656.37,3,2,2,322,Need Attention,Chennai,Tamil Nadu,India
+CUST00586,228,11,29661.97,3,4,3,343,Loyal Customers,Mangalore,Karnataka,India
+CUST00587,4,18,73389.45999999999,5,5,4,554,Champions,Chennai,Tamil Nadu,India
+CUST00588,7,35,551157.23,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00589,9,23,84402.07,5,5,4,554,Champions,Howrah,West Bengal,India
+CUST00590,23,17,81392.12,4,4,4,444,Champions,Gurgaon,Haryana,India
+CUST00591,2,19,98767.66,5,5,4,554,Champions,Amritsar,Punjab,India
+CUST00592,251,6,10180.73,3,2,2,322,Need Attention,Mysuru,Karnataka,India
+CUST00593,5,27,178511.43,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST00594,2,11,29782.03,5,4,3,543,Loyal Customers,Kolkata,West Bengal,India
+CUST00595,689,1,2624.09,1,1,1,111,Lost,Durgapur,West Bengal,India
+CUST00596,17,10,33977.18,4,3,3,433,Loyal Customers,Panipat,Haryana,India
+CUST00597,481,10,217213.29,2,3,5,235,Hibernating,Jodhpur,Rajasthan,India
+CUST00598,4,16,254603.41999999998,5,4,5,545,Champions,Agra,Uttar Pradesh,India
+CUST00599,13,22,152008.02,5,5,5,555,Champions,Surat,Gujarat,India
+CUST00600,9,26,201733.93000000002,5,5,5,555,Champions,Udaipur,Rajasthan,India
+CUST00601,20,24,71281.1,4,5,4,454,Champions,Vadodara,Gujarat,India
+CUST00602,168,13,43006.86,3,4,3,343,Loyal Customers,Kozhikode,Kerala,India
+CUST00603,37,18,49899.659999999996,4,5,4,454,Champions,Kolkata,West Bengal,India
+CUST00604,10,22,130154.23999999999,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST00605,12,29,193955.58,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST00606,66,12,69636.69,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST00607,39,12,19906.15,4,4,2,442,Need Attention,Surat,Gujarat,India
+CUST00608,463,8,31146.190000000002,2,3,3,233,Hibernating,Panipat,Haryana,India
+CUST00609,372,5,17859.35,2,2,2,222,Hibernating,Thane,Maharashtra,India
+CUST00610,457,5,26302.600000000002,2,2,3,223,Hibernating,Chennai,Tamil Nadu,India
+CUST00611,2,50,674959.16,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST00612,523,6,63319.82,1,2,4,124,Lost,Kochi,Kerala,India
+CUST00613,404,4,14864.130000000001,2,2,2,222,Hibernating,Mangalore,Karnataka,India
+CUST00614,1,31,141112.27,5,5,5,555,Champions,Kochi,Kerala,India
+CUST00615,714,4,8441.03,1,2,2,122,Lost,Ahmedabad,Gujarat,India
+CUST00616,663,1,4197.67,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST00617,11,21,245748.41999999998,5,5,5,555,Champions,Gurgaon,Haryana,India
+CUST00618,214,7,13205.720000000001,3,3,2,332,Need Attention,Bengaluru,Karnataka,India
+CUST00619,197,3,23829.180000000004,3,1,3,313,Hibernating,Hubli,Karnataka,India
+CUST00620,406,4,16171.7,2,2,2,222,Hibernating,Ahmedabad,Gujarat,India
+CUST00621,2,26,102366.29000000001,5,5,4,554,Champions,Bikaner,Rajasthan,India
+CUST00622,6,15,63606.12,5,4,4,544,Champions,Udaipur,Rajasthan,India
+CUST00623,66,11,32720.79,4,4,3,443,Loyal Customers,Kolkata,West Bengal,India
+CUST00624,58,16,358085.99,4,4,5,445,Champions,Surat,Gujarat,India
+CUST00625,549,5,12167.57,1,2,2,122,Lost,Howrah,West Bengal,India
+CUST00626,17,9,34630.0,4,3,3,433,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST00627,2,13,38478.73,5,4,3,543,Loyal Customers,Warangal,Telangana,India
+CUST00628,432,2,2244.3,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST00629,14,36,214191.19,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST00630,1,14,34673.43,5,4,3,543,Loyal Customers,Nagpur,Maharashtra,India
+CUST00631,366,4,7004.33,2,2,1,221,Hibernating,Udaipur,Rajasthan,India
+CUST00632,384,1,541.49,2,1,1,211,Hibernating,Chandigarh,Punjab,India
+CUST00633,367,7,38970.88,2,3,3,233,Hibernating,Vadodara,Gujarat,India
+CUST00634,329,5,32399.45,3,2,3,323,Need Attention,Kochi,Kerala,India
+CUST00635,1,20,203101.25,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST00636,180,9,24395.72,3,3,3,333,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00637,425,3,2352.67,2,1,1,211,Hibernating,Ludhiana,Punjab,India
+CUST00638,17,7,41037.979999999996,4,3,3,433,Loyal Customers,Jodhpur,Rajasthan,India
+CUST00639,57,11,43987.759999999995,4,4,3,443,Loyal Customers,Amritsar,Punjab,India
+CUST00640,143,5,4205.97,3,2,1,321,Hibernating,Varanasi,Uttar Pradesh,India
+CUST00641,6,60,285981.27999999997,5,5,5,555,Champions,Coimbatore,Tamil Nadu,India
+CUST00642,42,12,69084.05,4,4,4,444,Champions,Varanasi,Uttar Pradesh,India
+CUST00643,105,12,38021.22,4,4,3,443,Loyal Customers,Kolkata,West Bengal,India
+CUST00644,470,12,29945.3,2,4,3,243,Churned Best Customers,Thane,Maharashtra,India
+CUST00645,4,22,92557.39,5,5,4,554,Champions,Chandigarh,Punjab,India
+CUST00646,390,2,9697.0,2,1,2,212,Hibernating,Durgapur,West Bengal,India
+CUST00647,499,6,16245.84,1,2,2,122,Lost,Kochi,Kerala,India
+CUST00648,622,4,3928.69,1,2,1,121,Lost,Delhi,Delhi,India
+CUST00649,482,4,11481.34,2,2,2,222,Hibernating,Mangalore,Karnataka,India
+CUST00650,7,12,30442.85,5,4,3,543,Loyal Customers,Thane,Maharashtra,India
+CUST00651,5,43,151625.47,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST00652,192,6,26118.700000000004,3,2,3,323,Need Attention,Pune,Maharashtra,India
+CUST00653,415,2,3938.9400000000005,2,1,1,211,Hibernating,Nashik,Maharashtra,India
+CUST00654,473,9,108222.83,2,3,4,234,Hibernating,New Delhi,Delhi,India
+CUST00655,183,9,15674.73,3,3,2,332,Need Attention,Nagpur,Maharashtra,India
+CUST00656,1,25,172812.84,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST00657,17,9,51761.5,4,3,4,434,Loyal Customers,Bikaner,Rajasthan,India
+CUST00658,141,8,84230.76,3,3,4,334,Loyal Customers,Kozhikode,Kerala,India
+CUST00659,435,6,75123.13,2,2,4,224,Hibernating,Thiruvananthapuram,Kerala,India
+CUST00660,276,7,74156.70999999999,3,3,4,334,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST00661,53,10,33778.159999999996,4,3,3,433,Loyal Customers,Gurgaon,Haryana,India
+CUST00662,630,2,244845.9,1,1,5,115,Lost,Rajkot,Gujarat,India
+CUST00663,568,5,12668.269999999999,1,2,2,122,Lost,Varanasi,Uttar Pradesh,India
+CUST00664,2,12,59872.46,5,4,4,544,Champions,Udaipur,Rajasthan,India
+CUST00665,1,29,115811.59,5,5,4,554,Champions,Chennai,Tamil Nadu,India
+CUST00666,3,20,197080.74,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00667,24,13,28981.09,4,4,3,443,Loyal Customers,New Delhi,Delhi,India
+CUST00668,1,24,220734.75,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST00669,11,24,227456.26,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST00670,248,5,21721.18,3,2,2,322,Need Attention,Kanpur,Uttar Pradesh,India
+CUST00671,10,29,81136.75,5,5,4,554,Champions,Agra,Uttar Pradesh,India
+CUST00672,674,1,1625.62,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST00673,18,24,116029.16,4,5,4,454,Champions,Thiruvananthapuram,Kerala,India
+CUST00674,469,4,12695.97,2,2,2,222,Hibernating,Mysuru,Karnataka,India
+CUST00675,139,11,32096.75,3,4,3,343,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00676,642,4,13293.259999999998,1,2,2,122,Lost,Gurgaon,Haryana,India
+CUST00677,8,22,49020.159999999996,5,5,4,554,Champions,Jaipur,Rajasthan,India
+CUST00678,262,10,40828.61,3,3,3,333,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST00679,446,3,87300.19,2,1,4,214,Hibernating,Faridabad,Haryana,India
+CUST00680,408,5,39397.850000000006,2,2,3,223,Hibernating,Rajkot,Gujarat,India
+CUST00681,594,2,12153.76,1,1,2,112,Lost,Jodhpur,Rajasthan,India
+CUST00682,3,10,21886.99,5,3,2,532,Need Attention,Gurgaon,Haryana,India
+CUST00683,7,17,113753.6,5,4,4,544,Champions,Varanasi,Uttar Pradesh,India
+CUST00684,400,3,5582.37,2,1,1,211,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00685,480,5,26045.25,2,2,3,223,Hibernating,Surat,Gujarat,India
+CUST00686,538,6,23824.42,1,2,3,123,Lost,Delhi,Delhi,India
+CUST00687,511,6,15014.900000000001,1,2,2,122,Lost,Kanpur,Uttar Pradesh,India
+CUST00688,257,9,56630.619999999995,3,3,4,334,Loyal Customers,Hyderabad,Telangana,India
+CUST00689,434,4,4569.78,2,2,1,221,Hibernating,Chandigarh,Punjab,India
+CUST00690,11,22,113071.43,5,5,4,554,Champions,Jodhpur,Rajasthan,India
+CUST00691,201,15,63240.49,3,4,4,344,Loyal Customers,Pune,Maharashtra,India
+CUST00692,20,6,12150.619999999999,4,2,2,422,New Customers,Delhi,Delhi,India
+CUST00693,555,7,39394.91,1,3,3,133,Hibernating,Chandigarh,Punjab,India
+CUST00694,9,9,39135.79,5,3,3,533,Loyal Customers,Madurai,Tamil Nadu,India
+CUST00695,1,37,205541.53,5,5,5,555,Champions,Udaipur,Rajasthan,India
+CUST00696,576,4,8916.130000000001,1,2,2,122,Lost,Durgapur,West Bengal,India
+CUST00697,71,11,57210.08,4,4,4,444,Champions,Delhi,Delhi,India
+CUST00698,486,4,69456.92,1,2,4,124,Lost,Howrah,West Bengal,India
+CUST00699,10,31,88508.44,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST00700,87,8,75482.77,4,3,4,434,Loyal Customers,Rajkot,Gujarat,India
+CUST00701,199,4,432612.13,3,2,5,325,Need Attention,Madurai,Tamil Nadu,India
+CUST00702,17,22,127854.23,4,5,5,455,Champions,Ludhiana,Punjab,India
+CUST00703,118,10,28868.28,4,3,3,433,Loyal Customers,Kozhikode,Kerala,India
+CUST00704,11,32,368003.51,5,5,5,555,Champions,Bikaner,Rajasthan,India
+CUST00705,16,21,56742.39,4,5,4,454,Champions,Faridabad,Haryana,India
+CUST00706,461,2,1487.1299999999999,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST00707,150,14,42980.76,3,4,3,343,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST00708,641,4,97162.74,1,2,4,124,Lost,New Delhi,Delhi,India
+CUST00709,22,9,35476.93,4,3,3,433,Loyal Customers,Mysuru,Karnataka,India
+CUST00710,282,5,198155.44,3,2,5,325,Need Attention,Bengaluru,Karnataka,India
+CUST00711,266,2,2214.7599999999998,3,1,1,311,Hibernating,Udaipur,Rajasthan,India
+CUST00712,561,7,18542.73,1,3,2,132,Hibernating,Kozhikode,Kerala,India
+CUST00713,47,11,33702.92,4,4,3,443,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST00714,43,5,236176.2,4,2,5,425,New Customers,Noida,Uttar Pradesh,India
+CUST00715,16,13,48615.51,4,4,3,443,Loyal Customers,Thane,Maharashtra,India
+CUST00716,588,1,36312.65,1,1,3,113,Lost,Ahmedabad,Gujarat,India
+CUST00717,414,2,6069.3099999999995,2,1,1,211,Hibernating,Thiruvananthapuram,Kerala,India
+CUST00718,507,1,1471.82,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST00719,5,10,36012.5,5,3,3,533,Loyal Customers,Chandigarh,Punjab,India
+CUST00720,398,4,10850.09,2,2,2,222,Hibernating,Rajkot,Gujarat,India
+CUST00721,481,3,14541.25,2,1,2,212,Hibernating,Warangal,Telangana,India
+CUST00722,1,21,183163.82,5,5,5,555,Champions,Gurgaon,Haryana,India
+CUST00723,2,17,49927.159999999996,5,4,4,544,Champions,New Delhi,Delhi,India
+CUST00724,430,6,17796.760000000002,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST00725,535,5,15944.23,1,2,2,122,Lost,Mumbai,Maharashtra,India
+CUST00726,542,3,22262.750000000004,1,1,2,112,Lost,Bikaner,Rajasthan,India
+CUST00727,12,22,88451.67,5,5,4,554,Champions,New Delhi,Delhi,India
+CUST00728,464,4,8518.86,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST00729,79,11,240485.97,4,4,5,445,Champions,Mumbai,Maharashtra,India
+CUST00730,8,28,99201.01,5,5,4,554,Champions,Chandigarh,Punjab,India
+CUST00731,10,21,78817.15,5,5,4,554,Champions,Kolkata,West Bengal,India
+CUST00732,486,4,30840.73,1,2,3,123,Lost,Mangalore,Karnataka,India
+CUST00733,515,4,11038.56,1,2,2,122,Lost,Mysuru,Karnataka,India
+CUST00734,396,6,20144.89,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST00735,96,10,25119.94,4,3,3,433,Loyal Customers,Gurgaon,Haryana,India
+CUST00736,715,2,153276.13,1,1,5,115,Lost,Faridabad,Haryana,India
+CUST00737,67,11,36345.49,4,4,3,443,Loyal Customers,Hyderabad,Telangana,India
+CUST00738,625,4,10552.710000000001,1,2,2,122,Lost,Chandigarh,Punjab,India
+CUST00739,154,16,64359.24,3,4,4,344,Loyal Customers,Kolkata,West Bengal,India
+CUST00740,186,5,30418.78,3,2,3,323,Need Attention,Jodhpur,Rajasthan,India
+CUST00741,521,8,10212.05,1,3,2,132,Hibernating,Warangal,Telangana,India
+CUST00742,62,15,32412.96,4,4,3,443,Loyal Customers,Chandigarh,Punjab,India
+CUST00743,400,9,40531.020000000004,2,3,3,233,Hibernating,Amritsar,Punjab,India
+CUST00744,435,2,2731.55,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST00745,52,17,59084.25,4,4,4,444,Champions,Hyderabad,Telangana,India
+CUST00746,713,2,3361.8,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST00747,207,6,22364.97,3,2,2,322,Need Attention,Rajkot,Gujarat,India
+CUST00748,462,9,139825.45,2,3,5,235,Hibernating,New Delhi,Delhi,India
+CUST00749,676,1,184.68,1,1,1,111,Lost,Warangal,Telangana,India
+CUST00750,655,5,13387.45,1,2,2,122,Lost,Varanasi,Uttar Pradesh,India
+CUST00751,5,30,91712.17,5,5,4,554,Champions,Delhi,Delhi,India
+CUST00752,631,1,610.36,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST00753,260,8,41217.53,3,3,3,333,Loyal Customers,Nagpur,Maharashtra,India
+CUST00754,332,6,9795.64,3,2,2,322,Need Attention,New Delhi,Delhi,India
+CUST00755,22,37,238396.9,4,5,5,455,Champions,Mangalore,Karnataka,India
+CUST00756,360,5,48338.1,2,2,3,223,Hibernating,Vadodara,Gujarat,India
+CUST00757,202,3,13426.949999999999,3,1,2,312,Hibernating,Bengaluru,Karnataka,India
+CUST00758,400,7,24725.7,2,3,3,233,Hibernating,Rajkot,Gujarat,India
+CUST00759,409,3,1989.3899999999999,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST00760,421,4,6209.34,2,2,1,221,Hibernating,Panipat,Haryana,India
+CUST00761,2,20,131237.02,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST00762,83,12,343679.45,4,4,5,445,Champions,Hubli,Karnataka,India
+CUST00763,333,11,47296.76,3,4,3,343,Loyal Customers,Durgapur,West Bengal,India
+CUST00764,432,4,90036.86,2,2,4,224,Hibernating,Udaipur,Rajasthan,India
+CUST00765,5,36,396724.02,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST00766,471,7,151964.75,2,3,5,235,Hibernating,Chandigarh,Punjab,India
+CUST00767,381,9,15003.78,2,3,2,232,Hibernating,Kolkata,West Bengal,India
+CUST00768,686,2,3835.17,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST00769,65,12,60321.880000000005,4,4,4,444,Champions,Howrah,West Bengal,India
+CUST00770,288,5,13029.94,3,2,2,322,Need Attention,Kolkata,West Bengal,India
+CUST00771,5,32,123954.75,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST00772,205,2,8474.25,3,1,2,312,Hibernating,Lucknow,Uttar Pradesh,India
+CUST00773,2,23,41542.3,5,5,3,553,Loyal Customers,Salem,Tamil Nadu,India
+CUST00774,94,10,94277.56,4,3,4,434,Loyal Customers,Delhi,Delhi,India
+CUST00775,282,5,16259.96,3,2,2,322,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00776,9,28,274164.84,5,5,5,555,Champions,Kochi,Kerala,India
+CUST00777,21,15,85358.45,4,4,4,444,Champions,Delhi,Delhi,India
+CUST00778,372,9,24201.74,2,3,3,233,Hibernating,Amritsar,Punjab,India
+CUST00779,383,3,3006.85,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST00780,417,5,14479.96,2,2,2,222,Hibernating,Durgapur,West Bengal,India
+CUST00781,455,4,13872.61,2,2,2,222,Hibernating,Kochi,Kerala,India
+CUST00782,553,11,49391.94,1,4,4,144,At Risk,Kozhikode,Kerala,India
+CUST00783,48,9,38014.19,4,3,3,433,Loyal Customers,Kozhikode,Kerala,India
+CUST00784,166,6,27965.41,3,2,3,323,Need Attention,Kozhikode,Kerala,India
+CUST00785,3,24,441213.54000000004,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST00786,601,2,100118.01,1,1,4,114,Lost,Surat,Gujarat,India
+CUST00787,401,4,5666.7,2,2,1,221,Hibernating,Noida,Uttar Pradesh,India
+CUST00788,232,12,40813.42,3,4,3,343,Loyal Customers,Ludhiana,Punjab,India
+CUST00789,168,10,41727.22,3,3,3,333,Loyal Customers,Warangal,Telangana,India
+CUST00790,563,3,11025.730000000001,1,1,2,112,Lost,Kanpur,Uttar Pradesh,India
+CUST00791,7,13,282515.47,5,4,5,545,Champions,Jaipur,Rajasthan,India
+CUST00792,426,4,100991.87999999999,2,2,4,224,Hibernating,New Delhi,Delhi,India
+CUST00793,255,7,13667.19,3,3,2,332,Need Attention,Vadodara,Gujarat,India
+CUST00794,474,4,8893.029999999999,2,2,2,222,Hibernating,Varanasi,Uttar Pradesh,India
+CUST00795,1,41,208579.36,5,5,5,555,Champions,Delhi,Delhi,India
+CUST00796,707,3,206421.21000000002,1,1,5,115,Lost,Delhi,Delhi,India
+CUST00797,446,4,8057.2699999999995,2,2,2,222,Hibernating,New Delhi,Delhi,India
+CUST00798,323,5,320649.99,3,2,5,325,Need Attention,New Delhi,Delhi,India
+CUST00799,342,4,5110.7,3,2,1,321,Hibernating,Mysuru,Karnataka,India
+CUST00800,600,1,1327.42,1,1,1,111,Lost,Warangal,Telangana,India
+CUST00801,184,4,7346.66,3,2,1,321,Hibernating,Kochi,Kerala,India
+CUST00802,2,20,253606.42,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST00803,397,3,25297.760000000002,2,1,3,213,Hibernating,Panipat,Haryana,India
+CUST00804,193,4,45738.88,3,2,3,323,Need Attention,Amritsar,Punjab,India
+CUST00805,390,13,57437.52,2,4,4,244,At Risk,Gurgaon,Haryana,India
+CUST00806,298,5,8030.620000000001,3,2,2,322,Need Attention,Gurgaon,Haryana,India
+CUST00807,451,3,7660.22,2,1,1,211,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00808,702,4,9381.470000000001,1,2,2,122,Lost,Salem,Tamil Nadu,India
+CUST00809,86,8,16168.04,4,3,2,432,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00810,15,20,85114.51,4,5,4,454,Champions,Durgapur,West Bengal,India
+CUST00811,188,3,4866.78,3,1,1,311,Hibernating,Hyderabad,Telangana,India
+CUST00812,525,4,7393.52,1,2,1,121,Lost,Jodhpur,Rajasthan,India
+CUST00813,3,22,57196.11,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST00814,567,1,215.17,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST00815,460,4,48856.34,2,2,3,223,Hibernating,Hubli,Karnataka,India
+CUST00816,239,2,5195.0199999999995,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST00817,287,4,3939.0099999999998,3,2,1,321,Hibernating,Amritsar,Punjab,India
+CUST00818,146,11,11596.12,3,4,2,342,Need Attention,Jodhpur,Rajasthan,India
+CUST00819,17,20,47670.99,4,5,3,453,Loyal Customers,Udaipur,Rajasthan,India
+CUST00820,49,14,39993.65,4,4,3,443,Loyal Customers,Howrah,West Bengal,India
+CUST00821,418,1,2888.72,2,1,1,211,Hibernating,Kolkata,West Bengal,India
+CUST00822,2,56,317948.4,5,5,5,555,Champions,Salem,Tamil Nadu,India
+CUST00823,90,14,161087.89,4,4,5,445,Champions,Thiruvananthapuram,Kerala,India
+CUST00824,278,10,108386.53,3,3,4,334,Loyal Customers,Bikaner,Rajasthan,India
+CUST00825,244,7,37324.93,3,3,3,333,Loyal Customers,Bengaluru,Karnataka,India
+CUST00826,531,3,7430.84,1,1,1,111,Lost,Madurai,Tamil Nadu,India
+CUST00827,100,11,64959.89000000001,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST00828,70,16,59964.17,4,4,4,444,Champions,Chandigarh,Punjab,India
+CUST00829,613,2,5375.04,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST00830,30,8,19620.65,4,3,2,432,Need Attention,Vadodara,Gujarat,India
+CUST00831,6,5,11514.98,5,2,2,522,New Customers,Faridabad,Haryana,India
+CUST00832,159,15,38544.52,3,4,3,343,Loyal Customers,Hyderabad,Telangana,India
+CUST00833,10,21,90066.65,5,5,4,554,Champions,Nashik,Maharashtra,India
+CUST00834,22,18,112580.48,4,5,4,454,Champions,Delhi,Delhi,India
+CUST00835,272,6,10004.78,3,2,2,322,Need Attention,Madurai,Tamil Nadu,India
+CUST00836,170,10,53537.91,3,3,4,334,Loyal Customers,Hyderabad,Telangana,India
+CUST00837,581,1,467.36,1,1,1,111,Lost,Coimbatore,Tamil Nadu,India
+CUST00838,257,9,227549.47999999998,3,3,5,335,Loyal Customers,Durgapur,West Bengal,India
+CUST00839,547,5,11188.84,1,2,2,122,Lost,Kanpur,Uttar Pradesh,India
+CUST00840,191,5,61096.340000000004,3,2,4,324,Need Attention,Vadodara,Gujarat,India
+CUST00841,1,40,445588.89999999997,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST00842,387,5,15392.21,2,2,2,222,Hibernating,Nagpur,Maharashtra,India
+CUST00843,13,19,42962.57,5,5,3,553,Loyal Customers,Mysuru,Karnataka,India
+CUST00844,362,3,3623.88,2,1,1,211,Hibernating,Kolkata,West Bengal,India
+CUST00845,30,21,66911.85,4,5,4,454,Champions,Hubli,Karnataka,India
+CUST00846,129,16,91867.57,4,4,4,444,Champions,Jaipur,Rajasthan,India
+CUST00847,2,29,79626.74,5,5,4,554,Champions,Agra,Uttar Pradesh,India
+CUST00848,394,3,12790.43,2,1,2,212,Hibernating,Udaipur,Rajasthan,India
+CUST00849,327,6,24970.75,3,2,3,323,Need Attention,Gurgaon,Haryana,India
+CUST00850,620,4,5457.21,1,2,1,121,Lost,Kozhikode,Kerala,India
+CUST00851,7,25,719581.0700000001,5,5,5,555,Champions,Varanasi,Uttar Pradesh,India
+CUST00852,422,6,15398.8,2,2,2,222,Hibernating,Salem,Tamil Nadu,India
+CUST00853,21,10,196555.67,4,3,5,435,Loyal Customers,Vadodara,Gujarat,India
+CUST00854,697,1,766.11,1,1,1,111,Lost,Mangalore,Karnataka,India
+CUST00855,149,9,177247.56,3,3,5,335,Loyal Customers,Mumbai,Maharashtra,India
+CUST00856,8,16,49876.11,5,4,4,544,Champions,Jaipur,Rajasthan,India
+CUST00857,2,68,516403.20999999996,5,5,5,555,Champions,Bikaner,Rajasthan,India
+CUST00858,2,11,36070.69,5,4,3,543,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST00859,553,3,10312.41,1,1,2,112,Lost,Ahmedabad,Gujarat,India
+CUST00860,23,20,100829.24,4,5,4,454,Champions,Delhi,Delhi,India
+CUST00861,484,9,71246.79000000001,1,3,4,134,Hibernating,Warangal,Telangana,India
+CUST00862,117,14,36877.89,4,4,3,443,Loyal Customers,Kochi,Kerala,India
+CUST00863,256,6,14945.21,3,2,2,322,Need Attention,Salem,Tamil Nadu,India
+CUST00864,302,12,46390.53,3,4,3,343,Loyal Customers,Ludhiana,Punjab,India
+CUST00865,73,6,31675.45,4,2,3,423,New Customers,Jaipur,Rajasthan,India
+CUST00866,524,3,6953.93,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST00867,5,16,55489.12,5,4,4,544,Champions,Mangalore,Karnataka,India
+CUST00868,16,22,75535.25,4,5,4,454,Champions,Hyderabad,Telangana,India
+CUST00869,675,1,372.27,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST00870,419,1,409.73,2,1,1,211,Hibernating,Hyderabad,Telangana,India
+CUST00871,16,12,27420.34,4,4,3,443,Loyal Customers,Noida,Uttar Pradesh,India
+CUST00872,108,10,23169.320000000003,4,3,3,433,Loyal Customers,Kochi,Kerala,India
+CUST00873,264,4,5422.79,3,2,1,321,Hibernating,Gurgaon,Haryana,India
+CUST00874,156,9,14368.38,3,3,2,332,Need Attention,Chandigarh,Punjab,India
+CUST00875,2,44,253819.09,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00876,1,28,163333.66,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST00877,231,3,6107.8,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST00878,497,4,246661.44,1,2,5,125,Lost,Ahmedabad,Gujarat,India
+CUST00879,3,55,181399.18,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST00880,134,18,84178.17,4,5,4,454,Champions,Gurgaon,Haryana,India
+CUST00881,278,7,20063.550000000003,3,3,2,332,Need Attention,Noida,Uttar Pradesh,India
+CUST00882,713,6,5963.09,1,2,1,121,Lost,Faridabad,Haryana,India
+CUST00883,5,37,133945.04,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST00884,7,20,145908.71,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00885,399,4,86143.88,2,2,4,224,Hibernating,Ludhiana,Punjab,India
+CUST00886,1,22,124210.81000000001,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST00887,379,3,10011.560000000001,2,1,2,212,Hibernating,Amritsar,Punjab,India
+CUST00888,109,12,143987.22,4,4,5,445,Champions,Kochi,Kerala,India
+CUST00889,30,14,54590.96,4,4,4,444,Champions,Thane,Maharashtra,India
+CUST00890,99,13,197277.09,4,4,5,445,Champions,Surat,Gujarat,India
+CUST00891,261,3,6404.88,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST00892,518,1,1589.73,1,1,1,111,Lost,Warangal,Telangana,India
+CUST00893,474,1,2115.29,2,1,1,211,Hibernating,Noida,Uttar Pradesh,India
+CUST00894,94,9,25176.89,4,3,3,433,Loyal Customers,Ahmedabad,Gujarat,India
+CUST00895,454,8,20284.739999999998,2,3,2,232,Hibernating,Kanpur,Uttar Pradesh,India
+CUST00896,376,5,21903.16,2,2,2,222,Hibernating,Howrah,West Bengal,India
+CUST00897,62,17,45318.57,4,4,3,443,Loyal Customers,Kozhikode,Kerala,India
+CUST00898,714,1,694.95,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST00899,6,56,250288.2,5,5,5,555,Champions,Chennai,Tamil Nadu,India
+CUST00900,2,21,84185.94,5,5,4,554,Champions,Jaipur,Rajasthan,India
+CUST00901,59,16,175494.57,4,4,5,445,Champions,Panipat,Haryana,India
+CUST00902,6,41,185097.59,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST00903,27,23,275951.63,4,5,5,455,Champions,Udaipur,Rajasthan,India
+CUST00904,197,5,7475.09,3,2,1,321,Hibernating,Faridabad,Haryana,India
+CUST00905,84,4,6266.8,4,2,1,421,New Customers,Hubli,Karnataka,India
+CUST00906,725,2,7880.09,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST00907,654,1,3333.61,1,1,1,111,Lost,Delhi,Delhi,India
+CUST00908,101,16,54166.189999999995,4,4,4,444,Champions,Delhi,Delhi,India
+CUST00909,156,10,25916.73,3,3,3,333,Loyal Customers,Kolkata,West Bengal,India
+CUST00910,310,9,88821.79000000001,3,3,4,334,Loyal Customers,Hubli,Karnataka,India
+CUST00911,596,4,7983.75,1,2,2,122,Lost,New Delhi,Delhi,India
+CUST00912,158,14,69188.20999999999,3,4,4,344,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST00913,295,4,6061.77,3,2,1,321,Hibernating,Chennai,Tamil Nadu,India
+CUST00914,13,18,53901.88,5,5,4,554,Champions,Hyderabad,Telangana,India
+CUST00915,637,3,10635.55,1,1,2,112,Lost,Varanasi,Uttar Pradesh,India
+CUST00916,69,10,34460.31,4,3,3,433,Loyal Customers,Salem,Tamil Nadu,India
+CUST00917,160,11,25503.22,3,4,3,343,Loyal Customers,Delhi,Delhi,India
+CUST00918,405,1,2285.63,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST00919,614,3,11084.53,1,1,2,112,Lost,Lucknow,Uttar Pradesh,India
+CUST00920,15,27,121038.15,4,5,5,455,Champions,Udaipur,Rajasthan,India
+CUST00921,320,1,1430.58,3,1,1,311,Hibernating,Delhi,Delhi,India
+CUST00922,28,16,50299.020000000004,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST00923,304,4,73138.76,3,2,4,324,Need Attention,Panipat,Haryana,India
+CUST00924,545,5,25624.72,1,2,3,123,Lost,Durgapur,West Bengal,India
+CUST00925,33,15,165668.87,4,4,5,445,Champions,Panipat,Haryana,India
+CUST00926,10,48,229928.71,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST00927,72,8,22796.010000000002,4,3,2,432,Need Attention,Agra,Uttar Pradesh,India
+CUST00928,265,4,15534.8,3,2,2,322,Need Attention,Nashik,Maharashtra,India
+CUST00929,438,5,7845.22,2,2,1,221,Hibernating,Coimbatore,Tamil Nadu,India
+CUST00930,312,12,213451.59,3,4,5,345,Loyal Customers,Pune,Maharashtra,India
+CUST00931,6,14,121262.31,5,4,5,545,Champions,Pune,Maharashtra,India
+CUST00932,237,2,6624.12,3,1,1,311,Hibernating,Faridabad,Haryana,India
+CUST00933,411,1,3757.54,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST00934,245,6,59055.58,3,2,4,324,Need Attention,Thiruvananthapuram,Kerala,India
+CUST00935,10,19,152881.86000000002,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST00936,67,12,25084.96,4,4,3,443,Loyal Customers,Mysuru,Karnataka,India
+CUST00937,5,35,163334.95,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST00938,455,2,9338.51,2,1,2,212,Hibernating,Udaipur,Rajasthan,India
+CUST00939,32,32,75068.74,4,5,4,454,Champions,Coimbatore,Tamil Nadu,India
+CUST00940,486,5,19670.34,1,2,2,122,Lost,Bengaluru,Karnataka,India
+CUST00941,111,10,52947.52,4,3,4,434,Loyal Customers,Udaipur,Rajasthan,India
+CUST00942,492,3,15409.570000000002,1,1,2,112,Lost,Agra,Uttar Pradesh,India
+CUST00943,273,5,4494.8,3,2,1,321,Hibernating,Rajkot,Gujarat,India
+CUST00944,250,1,5839.28,3,1,1,311,Hibernating,New Delhi,Delhi,India
+CUST00945,134,14,77553.73,4,4,4,444,Champions,Panipat,Haryana,India
+CUST00946,6,45,97998.36,5,5,4,554,Champions,Kolkata,West Bengal,India
+CUST00947,41,19,59926.43,4,5,4,454,Champions,Madurai,Tamil Nadu,India
+CUST00948,489,2,2982.91,1,1,1,111,Lost,Nagpur,Maharashtra,India
+CUST00949,543,1,1981.64,1,1,1,111,Lost,Nashik,Maharashtra,India
+CUST00950,377,10,130894.06,2,3,5,235,Hibernating,Panipat,Haryana,India
+CUST00951,448,3,29042.41,2,1,3,213,Hibernating,Jaipur,Rajasthan,India
+CUST00952,461,5,26863.449999999997,2,2,3,223,Hibernating,Mumbai,Maharashtra,India
+CUST00953,7,30,93344.55,5,5,4,554,Champions,Salem,Tamil Nadu,India
+CUST00954,598,3,3711.36,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST00955,328,11,29245.05,3,4,3,343,Loyal Customers,Amritsar,Punjab,India
+CUST00956,131,8,20260.670000000002,4,3,2,432,Need Attention,New Delhi,Delhi,India
+CUST00957,519,8,42118.23,1,3,3,133,Hibernating,Delhi,Delhi,India
+CUST00958,2,49,343070.25,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST00959,5,24,68174.81,5,5,4,554,Champions,Warangal,Telangana,India
+CUST00960,553,2,545.37,1,1,1,111,Lost,Warangal,Telangana,India
+CUST00961,8,27,132636.31,5,5,5,555,Champions,Coimbatore,Tamil Nadu,India
+CUST00962,371,6,72465.23999999999,2,2,4,224,Hibernating,Jodhpur,Rajasthan,India
+CUST00963,235,8,16403.24,3,3,2,332,Need Attention,Chandigarh,Punjab,India
+CUST00964,78,12,47801.11,4,4,3,443,Loyal Customers,Rajkot,Gujarat,India
+CUST00965,110,9,29622.39,4,3,3,433,Loyal Customers,Jaipur,Rajasthan,India
+CUST00966,9,6,51278.25,5,2,4,524,New Customers,Hyderabad,Telangana,India
+CUST00967,691,3,5174.42,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST00968,44,8,24766.19,4,3,3,433,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST00969,182,3,4242.719999999999,3,1,1,311,Hibernating,Howrah,West Bengal,India
+CUST00970,50,12,89309.31999999999,4,4,4,444,Champions,Durgapur,West Bengal,India
+CUST00971,321,3,4721.25,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST00972,277,2,2310.85,3,1,1,311,Hibernating,Durgapur,West Bengal,India
+CUST00973,425,4,9428.869999999999,2,2,2,222,Hibernating,Ahmedabad,Gujarat,India
+CUST00974,99,17,151507.56,4,4,5,445,Champions,Durgapur,West Bengal,India
+CUST00975,2,28,248449.0,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST00976,296,8,146600.92,3,3,5,335,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST00977,241,9,81554.38,3,3,4,334,Loyal Customers,Warangal,Telangana,India
+CUST00978,4,24,253149.62,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST00979,112,7,9062.039999999999,4,3,2,432,Need Attention,Nagpur,Maharashtra,India
+CUST00980,511,5,15638.63,1,2,2,122,Lost,Mysuru,Karnataka,India
+CUST00981,118,16,88416.68,4,4,4,444,Champions,Surat,Gujarat,India
+CUST00982,455,4,27723.21,2,2,3,223,Hibernating,New Delhi,Delhi,India
+CUST00983,17,19,229987.11,4,5,5,455,Champions,Chennai,Tamil Nadu,India
+CUST00984,33,19,110371.08,4,5,4,454,Champions,Nagpur,Maharashtra,India
+CUST00985,259,4,45708.80999999999,3,2,3,323,Need Attention,Hubli,Karnataka,India
+CUST00986,123,9,174780.81,4,3,5,435,Loyal Customers,Mumbai,Maharashtra,India
+CUST00987,418,7,25135.3,2,3,3,233,Hibernating,Gurgaon,Haryana,India
+CUST00988,171,14,39790.909999999996,3,4,3,343,Loyal Customers,Kolkata,West Bengal,India
+CUST00989,204,16,38868.51,3,4,3,343,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST00990,472,1,4160.34,2,1,1,211,Hibernating,Howrah,West Bengal,India
+CUST00991,224,5,62973.770000000004,3,2,4,324,Need Attention,Mangalore,Karnataka,India
+CUST00992,241,5,77552.28,3,2,4,324,Need Attention,Kolkata,West Bengal,India
+CUST00993,26,17,51633.61,4,4,4,444,Champions,Amritsar,Punjab,India
+CUST00994,246,8,51971.119999999995,3,3,4,334,Loyal Customers,Ludhiana,Punjab,India
+CUST00995,277,6,185824.64,3,2,5,325,Need Attention,Panipat,Haryana,India
+CUST00996,9,24,110444.72,5,5,4,554,Champions,Bengaluru,Karnataka,India
+CUST00997,551,1,716.82,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST00998,6,24,92867.53,5,5,4,554,Champions,Durgapur,West Bengal,India
+CUST00999,684,1,2789.04,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST01000,83,16,185065.12,4,4,5,445,Champions,Durgapur,West Bengal,India
+CUST01001,2,27,233125.99,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01002,371,2,726.4200000000001,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST01003,482,2,17289.35,2,1,2,212,Hibernating,Surat,Gujarat,India
+CUST01004,332,5,10259.990000000002,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST01005,363,2,6554.469999999999,2,1,1,211,Hibernating,Gurgaon,Haryana,India
+CUST01006,448,6,28954.43,2,2,3,223,Hibernating,Bikaner,Rajasthan,India
+CUST01007,379,4,122790.72,2,2,5,225,Hibernating,Bikaner,Rajasthan,India
+CUST01008,521,2,7355.97,1,1,1,111,Lost,Hyderabad,Telangana,India
+CUST01009,53,11,84031.12000000001,4,4,4,444,Champions,Kozhikode,Kerala,India
+CUST01010,65,14,41058.26,4,4,3,443,Loyal Customers,Jaipur,Rajasthan,India
+CUST01011,73,8,30332.199999999997,4,3,3,433,Loyal Customers,Nagpur,Maharashtra,India
+CUST01012,586,2,4832.46,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01013,462,1,14474.01,2,1,2,212,Hibernating,Bengaluru,Karnataka,India
+CUST01014,5,27,112170.69,5,5,4,554,Champions,Durgapur,West Bengal,India
+CUST01015,374,6,18252.94,2,2,2,222,Hibernating,Gurgaon,Haryana,India
+CUST01016,688,3,4748.99,1,1,1,111,Lost,Mangalore,Karnataka,India
+CUST01017,1,17,63510.1,5,4,4,544,Champions,Delhi,Delhi,India
+CUST01018,640,3,7550.8099999999995,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01019,416,2,3582.42,2,1,1,211,Hibernating,Chennai,Tamil Nadu,India
+CUST01020,17,33,99323.94,4,5,4,454,Champions,Chandigarh,Punjab,India
+CUST01021,640,6,17744.190000000002,1,2,2,122,Lost,Nagpur,Maharashtra,India
+CUST01022,51,11,33632.04,4,4,3,443,Loyal Customers,Delhi,Delhi,India
+CUST01023,209,1,736.04,3,1,1,311,Hibernating,Chennai,Tamil Nadu,India
+CUST01024,544,2,5277.59,1,1,1,111,Lost,Hubli,Karnataka,India
+CUST01025,547,1,1123.73,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01026,330,14,83192.29999999999,3,4,4,344,Loyal Customers,Udaipur,Rajasthan,India
+CUST01027,424,2,1391.32,2,1,1,211,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01028,415,5,29597.239999999998,2,2,3,223,Hibernating,Warangal,Telangana,India
+CUST01029,277,12,39961.7,3,4,3,343,Loyal Customers,Nagpur,Maharashtra,India
+CUST01030,496,1,1814.96,1,1,1,111,Lost,Surat,Gujarat,India
+CUST01031,1,46,397153.86,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST01032,575,7,21808.81,1,3,2,132,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01033,47,11,142420.72,4,4,5,445,Champions,Ludhiana,Punjab,India
+CUST01034,2,11,52321.560000000005,5,4,4,544,Champions,Warangal,Telangana,India
+CUST01035,1,22,91943.70999999999,5,5,4,554,Champions,Jodhpur,Rajasthan,India
+CUST01036,275,4,11619.33,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST01037,55,14,80274.29,4,4,4,444,Champions,Chandigarh,Punjab,India
+CUST01038,504,2,6805.790000000001,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST01039,4,21,104312.51,5,5,4,554,Champions,Mysuru,Karnataka,India
+CUST01040,45,11,767213.9,4,4,5,445,Champions,Bengaluru,Karnataka,India
+CUST01041,398,8,33085.979999999996,2,3,3,233,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01042,436,5,10102.72,2,2,2,222,Hibernating,Hubli,Karnataka,India
+CUST01043,162,9,207514.02000000002,3,3,5,335,Loyal Customers,New Delhi,Delhi,India
+CUST01044,380,4,13699.59,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST01045,482,2,3385.25,2,1,1,211,Hibernating,Jaipur,Rajasthan,India
+CUST01046,235,9,20258.579999999998,3,3,2,332,Need Attention,Varanasi,Uttar Pradesh,India
+CUST01047,69,6,17193.89,4,2,2,422,New Customers,Mysuru,Karnataka,India
+CUST01048,4,53,331656.19,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01049,458,1,9339.44,2,1,2,212,Hibernating,Delhi,Delhi,India
+CUST01050,1,36,221282.17,5,5,5,555,Champions,Warangal,Telangana,India
+CUST01051,659,2,6463.2,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST01052,372,4,6617.66,2,2,1,221,Hibernating,Rajkot,Gujarat,India
+CUST01053,378,1,4845.3,2,1,1,211,Hibernating,Chandigarh,Punjab,India
+CUST01054,525,3,15478.09,1,1,2,112,Lost,Warangal,Telangana,India
+CUST01055,546,2,7240.43,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01056,11,14,33119.7,5,4,3,543,Loyal Customers,Nagpur,Maharashtra,India
+CUST01057,226,4,23807.07,3,2,3,323,Need Attention,Rajkot,Gujarat,India
+CUST01058,65,14,23617.510000000002,4,4,3,443,Loyal Customers,Hubli,Karnataka,India
+CUST01059,277,8,15857.240000000002,3,3,2,332,Need Attention,Rajkot,Gujarat,India
+CUST01060,429,4,90561.16,2,2,4,224,Hibernating,New Delhi,Delhi,India
+CUST01061,619,2,2559.8,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01062,711,2,6044.08,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST01063,531,4,3801.7799999999997,1,2,1,121,Lost,Rajkot,Gujarat,India
+CUST01064,113,13,50278.67,4,4,4,444,Champions,Ludhiana,Punjab,India
+CUST01065,112,17,142027.35,4,4,5,445,Champions,Chennai,Tamil Nadu,India
+CUST01066,358,7,16988.16,2,3,2,232,Hibernating,Jaipur,Rajasthan,India
+CUST01067,77,13,74681.44,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST01068,28,22,121791.93,4,5,5,455,Champions,Varanasi,Uttar Pradesh,India
+CUST01069,46,15,322419.05,4,4,5,445,Champions,Pune,Maharashtra,India
+CUST01070,67,11,135931.30000000002,4,4,5,445,Champions,Amritsar,Punjab,India
+CUST01071,93,17,119368.37,4,4,5,445,Champions,Chandigarh,Punjab,India
+CUST01072,38,12,89112.53,4,4,4,444,Champions,Hubli,Karnataka,India
+CUST01073,4,53,208327.71,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST01074,5,53,481671.22,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01075,382,5,17919.01,2,2,2,222,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01076,84,14,23670.81,4,4,3,443,Loyal Customers,Hyderabad,Telangana,India
+CUST01077,128,16,345278.94,4,4,5,445,Champions,Mysuru,Karnataka,India
+CUST01078,322,7,23093.77,3,3,2,332,Need Attention,Madurai,Tamil Nadu,India
+CUST01079,4,9,68054.42,5,3,4,534,Loyal Customers,Panipat,Haryana,India
+CUST01080,626,1,1120.4,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01081,597,5,19707.100000000002,1,2,2,122,Lost,Salem,Tamil Nadu,India
+CUST01082,18,41,249375.38,4,5,5,455,Champions,Noida,Uttar Pradesh,India
+CUST01083,81,10,28778.87,4,3,3,433,Loyal Customers,New Delhi,Delhi,India
+CUST01084,393,2,16910.23,2,1,2,212,Hibernating,Durgapur,West Bengal,India
+CUST01085,624,1,5844.51,1,1,1,111,Lost,Vadodara,Gujarat,India
+CUST01086,18,14,44502.06,4,4,3,443,Loyal Customers,Delhi,Delhi,India
+CUST01087,477,5,57589.6,2,2,4,224,Hibernating,Howrah,West Bengal,India
+CUST01088,3,32,309471.02,5,5,5,555,Champions,Panipat,Haryana,India
+CUST01089,527,1,565.86,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST01090,28,11,17104.2,4,4,2,442,Need Attention,Warangal,Telangana,India
+CUST01091,414,3,13043.77,2,1,2,212,Hibernating,Nashik,Maharashtra,India
+CUST01092,484,4,10106.03,1,2,2,122,Lost,Warangal,Telangana,India
+CUST01093,612,4,5509.610000000001,1,2,1,121,Lost,Thane,Maharashtra,India
+CUST01094,271,8,20609.55,3,3,2,332,Need Attention,Durgapur,West Bengal,India
+CUST01095,28,9,73913.81999999999,4,3,4,434,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST01096,5,32,182054.88999999998,5,5,5,555,Champions,Surat,Gujarat,India
+CUST01097,49,12,100540.94,4,4,4,444,Champions,Ahmedabad,Gujarat,India
+CUST01098,2,28,225070.08,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST01099,262,2,4886.299999999999,3,1,1,311,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01100,77,10,32484.679999999997,4,3,3,433,Loyal Customers,Kolkata,West Bengal,India
+CUST01101,7,21,148589.28999999998,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01102,357,1,2102.47,2,1,1,211,Hibernating,Rajkot,Gujarat,India
+CUST01103,622,1,2299.99,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST01104,557,1,2504.52,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01105,421,1,2835.28,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST01106,1,34,322214.52,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01107,154,12,30823.04,3,4,3,343,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01108,478,3,2748.73,2,1,1,211,Hibernating,Jodhpur,Rajasthan,India
+CUST01109,423,7,71696.55,2,3,4,234,Hibernating,Bengaluru,Karnataka,India
+CUST01110,26,11,38591.79,4,4,3,443,Loyal Customers,Kochi,Kerala,India
+CUST01111,635,2,6615.540000000001,1,1,1,111,Lost,Mumbai,Maharashtra,India
+CUST01112,108,11,15706.0,4,4,2,442,Need Attention,Coimbatore,Tamil Nadu,India
+CUST01113,138,13,42697.0,3,4,3,343,Loyal Customers,Jaipur,Rajasthan,India
+CUST01114,382,4,23198.280000000002,2,2,3,223,Hibernating,Warangal,Telangana,India
+CUST01115,390,3,3683.99,2,1,1,211,Hibernating,Bikaner,Rajasthan,India
+CUST01116,512,4,84673.26,1,2,4,124,Lost,Kanpur,Uttar Pradesh,India
+CUST01117,13,13,52984.469999999994,5,4,4,544,Champions,Durgapur,West Bengal,India
+CUST01118,460,1,3305.91,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST01119,124,14,145615.87999999998,4,4,5,445,Champions,Faridabad,Haryana,India
+CUST01120,13,31,382621.77,5,5,5,555,Champions,Delhi,Delhi,India
+CUST01121,602,2,3611.5599999999995,1,1,1,111,Lost,Surat,Gujarat,India
+CUST01122,204,5,23035.86,3,2,2,322,Need Attention,Vadodara,Gujarat,India
+CUST01123,375,1,957.64,2,1,1,211,Hibernating,Noida,Uttar Pradesh,India
+CUST01124,646,3,23099.699999999997,1,1,3,113,Lost,Hyderabad,Telangana,India
+CUST01125,620,3,26410.62,1,1,3,113,Lost,Kolkata,West Bengal,India
+CUST01126,393,6,19972.68,2,2,2,222,Hibernating,Pune,Maharashtra,India
+CUST01127,28,25,188643.3,4,5,5,455,Champions,Mysuru,Karnataka,India
+CUST01128,94,8,93285.26000000001,4,3,4,434,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST01129,8,8,42174.479999999996,5,3,3,533,Loyal Customers,Panipat,Haryana,India
+CUST01130,349,9,103134.11,3,3,4,334,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01131,375,7,9606.21,2,3,2,232,Hibernating,Thane,Maharashtra,India
+CUST01132,4,14,41807.18,5,4,3,543,Loyal Customers,New Delhi,Delhi,India
+CUST01133,5,17,100180.56,5,4,4,544,Champions,Delhi,Delhi,India
+CUST01134,101,12,182340.47,4,4,5,445,Champions,Delhi,Delhi,India
+CUST01135,599,5,10586.51,1,2,2,122,Lost,Mysuru,Karnataka,India
+CUST01136,4,20,63392.63,5,5,4,554,Champions,Hyderabad,Telangana,India
+CUST01137,670,2,977.66,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST01138,276,13,268411.06,3,4,5,345,Loyal Customers,New Delhi,Delhi,India
+CUST01139,489,13,78590.42,1,4,4,144,At Risk,Delhi,Delhi,India
+CUST01140,212,3,4017.5299999999997,3,1,1,311,Hibernating,Madurai,Tamil Nadu,India
+CUST01141,683,2,4460.49,1,1,1,111,Lost,Durgapur,West Bengal,India
+CUST01142,59,5,37422.659999999996,4,2,3,423,New Customers,Bengaluru,Karnataka,India
+CUST01143,402,2,2067.9,2,1,1,211,Hibernating,Salem,Tamil Nadu,India
+CUST01144,212,5,59152.240000000005,3,2,4,324,Need Attention,Mumbai,Maharashtra,India
+CUST01145,281,14,200856.54,3,4,5,345,Loyal Customers,Chandigarh,Punjab,India
+CUST01146,590,5,340655.97,1,2,5,125,Lost,New Delhi,Delhi,India
+CUST01147,349,5,7409.51,3,2,1,321,Hibernating,Kochi,Kerala,India
+CUST01148,605,7,25252.39,1,3,3,133,Hibernating,Rajkot,Gujarat,India
+CUST01149,481,1,329.52,2,1,1,211,Hibernating,Bengaluru,Karnataka,India
+CUST01150,473,1,1435.46,2,1,1,211,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01151,413,4,78195.18,2,2,4,224,Hibernating,New Delhi,Delhi,India
+CUST01152,344,1,2646.94,3,1,1,311,Hibernating,Mysuru,Karnataka,India
+CUST01153,462,6,48361.94,2,2,3,223,Hibernating,Udaipur,Rajasthan,India
+CUST01154,556,5,18081.449999999997,1,2,2,122,Lost,Kolkata,West Bengal,India
+CUST01155,535,3,11715.45,1,1,2,112,Lost,Warangal,Telangana,India
+CUST01156,451,6,31105.1,2,2,3,223,Hibernating,Faridabad,Haryana,India
+CUST01157,11,23,70447.79000000001,5,5,4,554,Champions,Bengaluru,Karnataka,India
+CUST01158,694,1,2194.53,1,1,1,111,Lost,Gurgaon,Haryana,India
+CUST01159,663,2,2784.1,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01160,1,61,515511.41,5,5,5,555,Champions,Jodhpur,Rajasthan,India
+CUST01161,664,2,12165.150000000001,1,1,2,112,Lost,Durgapur,West Bengal,India
+CUST01162,24,27,81797.09999999999,4,5,4,454,Champions,Gurgaon,Haryana,India
+CUST01163,147,12,145673.95,3,4,5,345,Loyal Customers,Delhi,Delhi,India
+CUST01164,375,7,137081.16,2,3,5,235,Hibernating,Delhi,Delhi,India
+CUST01165,3,28,232718.42,5,5,5,555,Champions,Panipat,Haryana,India
+CUST01166,486,1,3154.7,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST01167,687,3,17264.57,1,1,2,112,Lost,Thiruvananthapuram,Kerala,India
+CUST01168,183,8,46555.72,3,3,3,333,Loyal Customers,Panipat,Haryana,India
+CUST01169,1,57,256432.21,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01170,159,9,171688.32,3,3,5,335,Loyal Customers,Kozhikode,Kerala,India
+CUST01171,417,7,17991.52,2,3,2,232,Hibernating,Noida,Uttar Pradesh,India
+CUST01172,565,1,1625.71,1,1,1,111,Lost,Kochi,Kerala,India
+CUST01173,589,3,23156.11,1,1,3,113,Lost,Jodhpur,Rajasthan,India
+CUST01174,58,20,114425.97,4,5,4,454,Champions,Kolkata,West Bengal,India
+CUST01175,249,9,21193.88,3,3,2,332,Need Attention,Thane,Maharashtra,India
+CUST01176,372,6,11802.49,2,2,2,222,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01177,261,6,13529.369999999999,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST01178,13,30,137531.29,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST01179,532,6,16719.49,1,2,2,122,Lost,Kolkata,West Bengal,India
+CUST01180,192,7,22473.93,3,3,2,332,Need Attention,Kochi,Kerala,India
+CUST01181,406,2,11868.19,2,1,2,212,Hibernating,Hyderabad,Telangana,India
+CUST01182,19,20,283366.75,4,5,5,455,Champions,Mumbai,Maharashtra,India
+CUST01183,418,4,56834.42,2,2,4,224,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01184,688,1,582.04,1,1,1,111,Lost,Salem,Tamil Nadu,India
+CUST01185,9,27,289395.67,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST01186,384,3,5271.99,2,1,1,211,Hibernating,Noida,Uttar Pradesh,India
+CUST01187,340,5,20531.65,3,2,2,322,Need Attention,Panipat,Haryana,India
+CUST01188,5,21,161220.75,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST01189,11,18,59229.18,5,5,4,554,Champions,Chennai,Tamil Nadu,India
+CUST01190,197,2,6802.900000000001,3,1,1,311,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01191,1,28,280682.99,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST01192,439,2,8061.96,2,1,2,212,Hibernating,Mangalore,Karnataka,India
+CUST01193,58,7,34511.25,4,3,3,433,Loyal Customers,Panipat,Haryana,India
+CUST01194,407,7,127913.88,2,3,5,235,Hibernating,Surat,Gujarat,India
+CUST01195,1,31,268469.7,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01196,461,1,1045.76,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST01197,441,1,2770.77,2,1,1,211,Hibernating,Thane,Maharashtra,India
+CUST01198,252,2,5303.24,3,1,1,311,Hibernating,Jodhpur,Rajasthan,India
+CUST01199,184,6,41771.62,3,2,3,323,Need Attention,Lucknow,Uttar Pradesh,India
+CUST01200,19,19,82366.3,4,5,4,454,Champions,Amritsar,Punjab,India
+CUST01201,395,3,7513.74,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST01202,11,45,309281.25,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST01203,2,45,455467.83,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST01204,44,11,24541.11,4,4,3,443,Loyal Customers,Warangal,Telangana,India
+CUST01205,58,11,80223.48999999999,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST01206,397,5,279707.74000000005,2,2,5,225,Hibernating,Rajkot,Gujarat,India
+CUST01207,255,4,16742.61,3,2,2,322,Need Attention,Warangal,Telangana,India
+CUST01208,63,6,31076.370000000003,4,2,3,423,New Customers,Panipat,Haryana,India
+CUST01209,91,10,14217.1,4,3,2,432,Need Attention,Coimbatore,Tamil Nadu,India
+CUST01210,638,1,1954.06,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01211,97,8,253355.04,4,3,5,435,Loyal Customers,Mysuru,Karnataka,India
+CUST01212,123,18,148435.5,4,5,5,455,Champions,Panipat,Haryana,India
+CUST01213,7,15,42505.18,5,4,3,543,Loyal Customers,Delhi,Delhi,India
+CUST01214,367,6,147408.36,2,2,5,225,Hibernating,Chandigarh,Punjab,India
+CUST01215,435,6,18658.45,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST01216,29,12,35104.16,4,4,3,443,Loyal Customers,Thane,Maharashtra,India
+CUST01217,11,20,480401.61,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01218,469,4,6605.4400000000005,2,2,1,221,Hibernating,Pune,Maharashtra,India
+CUST01219,589,6,17096.72,1,2,2,122,Lost,Vadodara,Gujarat,India
+CUST01220,173,12,200345.77000000002,3,4,5,345,Loyal Customers,Faridabad,Haryana,India
+CUST01221,417,2,26281.199999999997,2,1,3,213,Hibernating,Nagpur,Maharashtra,India
+CUST01222,2,24,179259.13,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST01223,91,11,16043.810000000001,4,4,2,442,Need Attention,Panipat,Haryana,India
+CUST01224,613,2,26090.36,1,1,3,113,Lost,Madurai,Tamil Nadu,India
+CUST01225,233,5,26722.23,3,2,3,323,Need Attention,Warangal,Telangana,India
+CUST01226,411,5,5047.07,2,2,1,221,Hibernating,Mumbai,Maharashtra,India
+CUST01227,97,14,49631.99,4,4,4,444,Champions,Amritsar,Punjab,India
+CUST01228,45,11,61669.689999999995,4,4,4,444,Champions,Panipat,Haryana,India
+CUST01229,562,2,10281.3,1,1,2,112,Lost,Noida,Uttar Pradesh,India
+CUST01230,41,12,47361.65,4,4,3,443,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01231,446,3,6988.77,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST01232,79,6,24834.219999999998,4,2,3,423,New Customers,Panipat,Haryana,India
+CUST01233,2,11,85640.74,5,4,4,544,Champions,Nashik,Maharashtra,India
+CUST01234,2,48,213158.99,5,5,5,555,Champions,Surat,Gujarat,India
+CUST01235,435,6,64083.520000000004,2,2,4,224,Hibernating,Ahmedabad,Gujarat,India
+CUST01236,70,16,91741.56999999999,4,4,4,444,Champions,Gurgaon,Haryana,India
+CUST01237,400,2,6810.15,2,1,1,211,Hibernating,Durgapur,West Bengal,India
+CUST01238,7,9,18345.69,5,3,2,532,Need Attention,Chandigarh,Punjab,India
+CUST01239,678,2,5639.09,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST01240,5,29,183390.06999999998,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST01241,667,3,6038.71,1,1,1,111,Lost,Bengaluru,Karnataka,India
+CUST01242,310,12,135128.38,3,4,5,345,Loyal Customers,Warangal,Telangana,India
+CUST01243,383,6,23291.550000000003,2,2,3,223,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01244,554,1,627.4,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST01245,450,5,8717.83,2,2,2,222,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01246,294,3,34936.35,3,1,3,313,Hibernating,Mumbai,Maharashtra,India
+CUST01247,25,14,38367.77,4,4,3,443,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01248,2,43,206110.07,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01249,410,2,4867.84,2,1,1,211,Hibernating,Vadodara,Gujarat,India
+CUST01250,395,4,27465.31,2,2,3,223,Hibernating,Durgapur,West Bengal,India
+CUST01251,292,3,3402.52,3,1,1,311,Hibernating,Jaipur,Rajasthan,India
+CUST01252,28,14,53675.32,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST01253,8,26,166233.66999999998,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST01254,7,23,86841.04000000001,5,5,4,554,Champions,Mumbai,Maharashtra,India
+CUST01255,347,10,38181.41,3,3,3,333,Loyal Customers,Kochi,Kerala,India
+CUST01256,56,16,56442.44,4,4,4,444,Champions,Salem,Tamil Nadu,India
+CUST01257,70,15,44053.35,4,4,3,443,Loyal Customers,Kochi,Kerala,India
+CUST01258,118,12,23746.57,4,4,3,443,Loyal Customers,Faridabad,Haryana,India
+CUST01259,2,21,127149.12,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST01260,373,2,1697.48,2,1,1,211,Hibernating,Lucknow,Uttar Pradesh,India
+CUST01261,252,16,78924.41,3,4,4,344,Loyal Customers,Rajkot,Gujarat,India
+CUST01262,196,9,38890.64,3,3,3,333,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01263,305,9,28295.91,3,3,3,333,Loyal Customers,Nashik,Maharashtra,India
+CUST01264,182,10,55809.03,3,3,4,334,Loyal Customers,Thane,Maharashtra,India
+CUST01265,1,35,200028.06,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01266,4,28,210713.74,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01267,285,6,9975.060000000001,3,2,2,322,Need Attention,Ahmedabad,Gujarat,India
+CUST01268,141,16,50931.87,3,4,4,344,Loyal Customers,Warangal,Telangana,India
+CUST01269,461,5,15982.59,2,2,2,222,Hibernating,Mysuru,Karnataka,India
+CUST01270,48,10,45192.4,4,3,3,433,Loyal Customers,Warangal,Telangana,India
+CUST01271,620,4,19363.04,1,2,2,122,Lost,Kozhikode,Kerala,India
+CUST01272,521,1,170.87,1,1,1,111,Lost,Noida,Uttar Pradesh,India
+CUST01273,535,7,40383.76,1,3,3,133,Hibernating,Mumbai,Maharashtra,India
+CUST01274,1,61,195758.75,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01275,171,11,42817.77,3,4,3,343,Loyal Customers,Panipat,Haryana,India
+CUST01276,7,13,31094.07,5,4,3,543,Loyal Customers,Hyderabad,Telangana,India
+CUST01277,130,15,61954.06,4,4,4,444,Champions,Madurai,Tamil Nadu,India
+CUST01278,600,1,265.03,1,1,1,111,Lost,Bengaluru,Karnataka,India
+CUST01279,4,27,80129.38,5,5,4,554,Champions,Kozhikode,Kerala,India
+CUST01280,6,10,69631.20999999999,5,3,4,534,Loyal Customers,Kochi,Kerala,India
+CUST01281,216,4,21390.73,3,2,2,322,Need Attention,Salem,Tamil Nadu,India
+CUST01282,328,12,55166.689999999995,3,4,4,344,Loyal Customers,Mysuru,Karnataka,India
+CUST01283,302,3,34148.62,3,1,3,313,Hibernating,Ludhiana,Punjab,India
+CUST01284,4,59,280244.07,5,5,5,555,Champions,Bikaner,Rajasthan,India
+CUST01285,86,16,104257.85,4,4,4,444,Champions,Thiruvananthapuram,Kerala,India
+CUST01286,561,3,47489.229999999996,1,1,3,113,Lost,Chandigarh,Punjab,India
+CUST01287,26,11,196868.73,4,4,5,445,Champions,Hyderabad,Telangana,India
+CUST01288,13,8,21026.54,5,3,2,532,Need Attention,Coimbatore,Tamil Nadu,India
+CUST01289,7,47,450459.78,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST01290,19,17,189437.11000000002,4,4,5,445,Champions,Bikaner,Rajasthan,India
+CUST01291,55,9,61674.12,4,3,4,434,Loyal Customers,Jaipur,Rajasthan,India
+CUST01292,5,36,198339.28,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01293,606,4,37020.1,1,2,3,123,Lost,Kanpur,Uttar Pradesh,India
+CUST01294,464,5,18030.89,2,2,2,222,Hibernating,Kochi,Kerala,India
+CUST01295,503,2,4634.23,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST01296,37,9,33811.88,4,3,3,433,Loyal Customers,Hyderabad,Telangana,India
+CUST01297,5,22,145824.24,5,5,5,555,Champions,Rajkot,Gujarat,India
+CUST01298,17,17,82012.78,4,4,4,444,Champions,Hyderabad,Telangana,India
+CUST01299,341,3,6656.13,3,1,1,311,Hibernating,Surat,Gujarat,India
+CUST01300,540,5,10982.92,1,2,2,122,Lost,Lucknow,Uttar Pradesh,India
+CUST01301,2,31,257345.86,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01302,463,1,1055.65,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST01303,1,10,27707.079999999998,5,3,3,533,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01304,425,7,64890.22,2,3,4,234,Hibernating,Chandigarh,Punjab,India
+CUST01305,593,3,56995.55,1,1,4,114,Lost,Faridabad,Haryana,India
+CUST01306,705,1,364.08,1,1,1,111,Lost,Salem,Tamil Nadu,India
+CUST01307,430,6,9863.27,2,2,2,222,Hibernating,Vadodara,Gujarat,India
+CUST01308,455,4,86548.8,2,2,4,224,Hibernating,Kochi,Kerala,India
+CUST01309,101,9,33801.85,4,3,3,433,Loyal Customers,Warangal,Telangana,India
+CUST01310,589,2,75227.41,1,1,4,114,Lost,Nagpur,Maharashtra,India
+CUST01311,12,29,244003.0,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST01312,516,1,3337.32,1,1,1,111,Lost,Noida,Uttar Pradesh,India
+CUST01313,541,3,28697.08,1,1,3,113,Lost,Thiruvananthapuram,Kerala,India
+CUST01314,622,2,1520.16,1,1,1,111,Lost,Kochi,Kerala,India
+CUST01315,218,12,28995.05,3,4,3,343,Loyal Customers,Hyderabad,Telangana,India
+CUST01316,279,4,90975.75,3,2,4,324,Need Attention,Howrah,West Bengal,India
+CUST01317,534,7,117830.53,1,3,5,135,Hibernating,Ludhiana,Punjab,India
+CUST01318,457,3,21681.190000000002,2,1,2,212,Hibernating,Jodhpur,Rajasthan,India
+CUST01319,3,33,162602.29,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST01320,6,20,119386.57999999999,5,5,5,555,Champions,Mysuru,Karnataka,India
+CUST01321,37,12,26941.77,4,4,3,443,Loyal Customers,Gurgaon,Haryana,India
+CUST01322,1,17,41206.27,5,4,3,543,Loyal Customers,Durgapur,West Bengal,India
+CUST01323,687,2,37825.64,1,1,3,113,Lost,Thiruvananthapuram,Kerala,India
+CUST01324,74,7,15608.949999999999,4,3,2,432,Need Attention,Ludhiana,Punjab,India
+CUST01325,409,1,42868.85,2,1,3,213,Hibernating,Chennai,Tamil Nadu,India
+CUST01326,145,12,58764.380000000005,3,4,4,344,Loyal Customers,Ludhiana,Punjab,India
+CUST01327,10,27,138900.41,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01328,419,5,14824.14,2,2,2,222,Hibernating,Pune,Maharashtra,India
+CUST01329,518,4,5635.15,1,2,1,121,Lost,Varanasi,Uttar Pradesh,India
+CUST01330,212,13,34804.32,3,4,3,343,Loyal Customers,Kochi,Kerala,India
+CUST01331,471,5,24434.58,2,2,3,223,Hibernating,Salem,Tamil Nadu,India
+CUST01332,226,9,24293.1,3,3,3,333,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01333,124,9,46386.94,4,3,3,433,Loyal Customers,Ludhiana,Punjab,India
+CUST01334,490,3,5315.5199999999995,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST01335,660,2,5749.67,1,1,1,111,Lost,Hubli,Karnataka,India
+CUST01336,609,4,8010.49,1,2,2,122,Lost,Ludhiana,Punjab,India
+CUST01337,27,26,78222.71,4,5,4,454,Champions,Hyderabad,Telangana,India
+CUST01338,380,8,26103.92,2,3,3,233,Hibernating,Salem,Tamil Nadu,India
+CUST01339,16,28,144067.81,4,5,5,455,Champions,New Delhi,Delhi,India
+CUST01340,7,52,235214.38999999998,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01341,1,7,42053.0,5,3,3,533,Loyal Customers,New Delhi,Delhi,India
+CUST01342,502,13,24739.94,1,4,3,143,Churned Best Customers,Bengaluru,Karnataka,India
+CUST01343,537,1,905.85,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01344,537,8,10948.28,1,3,2,132,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01345,282,4,12861.81,3,2,2,322,Need Attention,Warangal,Telangana,India
+CUST01346,36,15,94964.54000000001,4,4,4,444,Champions,Panipat,Haryana,India
+CUST01347,257,10,18076.49,3,3,2,332,Need Attention,Hubli,Karnataka,India
+CUST01348,69,17,49447.04,4,4,4,444,Champions,Delhi,Delhi,India
+CUST01349,412,3,10160.14,2,1,2,212,Hibernating,Warangal,Telangana,India
+CUST01350,5,56,463952.93,5,5,5,555,Champions,Panipat,Haryana,India
+CUST01351,715,3,8797.11,1,1,2,112,Lost,Lucknow,Uttar Pradesh,India
+CUST01352,354,7,58478.99,3,3,4,334,Loyal Customers,Hyderabad,Telangana,India
+CUST01353,29,9,28237.95,4,3,3,433,Loyal Customers,Kolkata,West Bengal,India
+CUST01354,437,3,19188.329999999998,2,1,2,212,Hibernating,Kozhikode,Kerala,India
+CUST01355,4,12,86445.37,5,4,4,544,Champions,Varanasi,Uttar Pradesh,India
+CUST01356,650,1,2654.1,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST01357,428,4,13493.86,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST01358,90,14,154076.00999999998,4,4,5,445,Champions,Noida,Uttar Pradesh,India
+CUST01359,80,14,30724.11,4,4,3,443,Loyal Customers,Vadodara,Gujarat,India
+CUST01360,479,6,14220.51,2,2,2,222,Hibernating,Bengaluru,Karnataka,India
+CUST01361,560,3,43215.38,1,1,3,113,Lost,Gurgaon,Haryana,India
+CUST01362,158,8,12314.18,3,3,2,332,Need Attention,Varanasi,Uttar Pradesh,India
+CUST01363,516,8,18475.72,1,3,2,132,Hibernating,Chandigarh,Punjab,India
+CUST01364,421,4,9635.13,2,2,2,222,Hibernating,Hyderabad,Telangana,India
+CUST01365,307,4,13802.75,3,2,2,322,Need Attention,Bikaner,Rajasthan,India
+CUST01366,2,21,217844.46,5,5,5,555,Champions,Surat,Gujarat,India
+CUST01367,189,7,15903.25,3,3,2,332,Need Attention,Ludhiana,Punjab,India
+CUST01368,524,1,203.76,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST01369,5,24,100536.71,5,5,4,554,Champions,Panipat,Haryana,India
+CUST01370,344,7,10002.73,3,3,2,332,Need Attention,Thiruvananthapuram,Kerala,India
+CUST01371,561,2,17021.97,1,1,2,112,Lost,Madurai,Tamil Nadu,India
+CUST01372,5,26,84675.09,5,5,4,554,Champions,Chandigarh,Punjab,India
+CUST01373,428,2,25834.24,2,1,3,213,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01374,361,6,94956.23000000001,2,2,4,224,Hibernating,Chennai,Tamil Nadu,India
+CUST01375,108,12,137470.63,4,4,5,445,Champions,Rajkot,Gujarat,India
+CUST01376,469,2,10945.11,2,1,2,212,Hibernating,Warangal,Telangana,India
+CUST01377,23,14,47537.01,4,4,3,443,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST01378,230,10,42814.17,3,3,3,333,Loyal Customers,Agra,Uttar Pradesh,India
+CUST01379,98,8,21956.13,4,3,2,432,Need Attention,Howrah,West Bengal,India
+CUST01380,454,3,4714.04,2,1,1,211,Hibernating,Ludhiana,Punjab,India
+CUST01381,2,27,76454.69,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST01382,193,13,87668.0,3,4,4,344,Loyal Customers,Hyderabad,Telangana,India
+CUST01383,568,1,252.03,1,1,1,111,Lost,Agra,Uttar Pradesh,India
+CUST01384,150,8,27159.72,3,3,3,333,Loyal Customers,Agra,Uttar Pradesh,India
+CUST01385,239,4,13531.89,3,2,2,322,Need Attention,Rajkot,Gujarat,India
+CUST01386,177,19,75796.75,3,5,4,354,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01387,209,6,21375.4,3,2,2,322,Need Attention,Thiruvananthapuram,Kerala,India
+CUST01388,9,17,129694.24,5,4,5,545,Champions,Jaipur,Rajasthan,India
+CUST01389,551,4,9678.05,1,2,2,122,Lost,Hyderabad,Telangana,India
+CUST01390,167,12,39652.53,3,4,3,343,Loyal Customers,Warangal,Telangana,India
+CUST01391,160,17,170612.26,3,4,5,345,Loyal Customers,Nagpur,Maharashtra,India
+CUST01392,11,24,192677.77,5,5,5,555,Champions,Delhi,Delhi,India
+CUST01393,1,28,167864.93,5,5,5,555,Champions,Kanpur,Uttar Pradesh,India
+CUST01394,546,5,28144.82,1,2,3,123,Lost,Kolkata,West Bengal,India
+CUST01395,125,20,212385.94,4,5,5,455,Champions,Mysuru,Karnataka,India
+CUST01396,597,1,3628.47,1,1,1,111,Lost,Coimbatore,Tamil Nadu,India
+CUST01397,142,17,57107.1,3,4,4,344,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01398,35,16,186502.34,4,4,5,445,Champions,Amritsar,Punjab,India
+CUST01399,607,3,7448.17,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST01400,706,7,7380.44,1,3,1,131,Hibernating,Thane,Maharashtra,India
+CUST01401,6,33,212587.47,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST01402,8,30,322496.47,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST01403,1,42,167900.82,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST01404,291,3,6058.5,3,1,1,311,Hibernating,Ludhiana,Punjab,India
+CUST01405,387,4,14624.710000000001,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST01406,5,12,196201.16999999998,5,4,5,545,Champions,Agra,Uttar Pradesh,India
+CUST01407,572,3,8410.03,1,1,2,112,Lost,Mangalore,Karnataka,India
+CUST01408,632,2,5118.28,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST01409,500,7,94708.99,1,3,4,134,Hibernating,Mumbai,Maharashtra,India
+CUST01410,398,2,3185.74,2,1,1,211,Hibernating,Ludhiana,Punjab,India
+CUST01411,30,17,55440.96,4,4,4,444,Champions,Amritsar,Punjab,India
+CUST01412,3,23,67253.14,5,5,4,554,Champions,Surat,Gujarat,India
+CUST01413,128,16,35997.979999999996,4,4,3,443,Loyal Customers,Amritsar,Punjab,India
+CUST01414,5,17,50110.49,5,4,4,544,Champions,Bikaner,Rajasthan,India
+CUST01415,440,4,12819.439999999999,2,2,2,222,Hibernating,Faridabad,Haryana,India
+CUST01416,543,2,11312.31,1,1,2,112,Lost,Rajkot,Gujarat,India
+CUST01417,8,55,329719.26,5,5,5,555,Champions,Mysuru,Karnataka,India
+CUST01418,1,28,222617.42,5,5,5,555,Champions,Surat,Gujarat,India
+CUST01419,11,15,38754.94,5,4,3,543,Loyal Customers,Hyderabad,Telangana,India
+CUST01420,448,1,608.71,2,1,1,211,Hibernating,Mangalore,Karnataka,India
+CUST01421,80,16,52557.33,4,4,4,444,Champions,Warangal,Telangana,India
+CUST01422,428,6,29109.32,2,2,3,223,Hibernating,Noida,Uttar Pradesh,India
+CUST01423,3,38,128225.45999999999,5,5,5,555,Champions,Vadodara,Gujarat,India
+CUST01424,3,23,85943.43000000001,5,5,4,554,Champions,Nashik,Maharashtra,India
+CUST01425,379,2,77598.69,2,1,4,214,Hibernating,Bengaluru,Karnataka,India
+CUST01426,722,3,38853.56,1,1,3,113,Lost,Jaipur,Rajasthan,India
+CUST01427,4,56,207253.63,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01428,446,2,27589.96,2,1,3,213,Hibernating,Noida,Uttar Pradesh,India
+CUST01429,445,6,7254.030000000001,2,2,1,221,Hibernating,Nashik,Maharashtra,India
+CUST01430,606,1,6005.45,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST01431,66,7,14020.1,4,3,2,432,Need Attention,Chandigarh,Punjab,India
+CUST01432,604,7,122691.12,1,3,5,135,Hibernating,Vadodara,Gujarat,India
+CUST01433,159,11,38489.0,3,4,3,343,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST01434,489,7,17146.25,1,3,2,132,Hibernating,Warangal,Telangana,India
+CUST01435,1,20,94896.4,5,5,4,554,Champions,Mysuru,Karnataka,India
+CUST01436,5,40,216352.85,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST01437,252,7,36004.5,3,3,3,333,Loyal Customers,New Delhi,Delhi,India
+CUST01438,368,9,43992.700000000004,2,3,3,233,Hibernating,Madurai,Tamil Nadu,India
+CUST01439,129,14,119246.91,4,4,5,445,Champions,Vadodara,Gujarat,India
+CUST01440,239,6,43044.04,3,2,3,323,Need Attention,Warangal,Telangana,India
+CUST01441,636,3,4398.63,1,1,1,111,Lost,Panipat,Haryana,India
+CUST01442,1,23,211751.02999999997,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01443,386,5,27213.55,2,2,3,223,Hibernating,Mysuru,Karnataka,India
+CUST01444,95,7,32502.53,4,3,3,433,Loyal Customers,Panipat,Haryana,India
+CUST01445,307,1,4388.17,3,1,1,311,Hibernating,Mangalore,Karnataka,India
+CUST01446,9,23,47881.35,5,5,3,553,Loyal Customers,Delhi,Delhi,India
+CUST01447,248,4,13235.82,3,2,2,322,Need Attention,Nashik,Maharashtra,India
+CUST01448,499,3,6482.93,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01449,408,1,1870.87,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST01450,259,7,48881.72,3,3,3,333,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01451,124,10,51859.5,4,3,4,434,Loyal Customers,Mysuru,Karnataka,India
+CUST01452,191,7,38649.45,3,3,3,333,Loyal Customers,Mumbai,Maharashtra,India
+CUST01453,425,1,2193.59,2,1,1,211,Hibernating,Bikaner,Rajasthan,India
+CUST01454,598,5,36157.14,1,2,3,123,Lost,Varanasi,Uttar Pradesh,India
+CUST01455,3,69,782711.71,5,5,5,555,Champions,Kanpur,Uttar Pradesh,India
+CUST01456,608,1,12342.76,1,1,2,112,Lost,Bikaner,Rajasthan,India
+CUST01457,449,6,13000.51,2,2,2,222,Hibernating,Kozhikode,Kerala,India
+CUST01458,317,3,5326.9,3,1,1,311,Hibernating,Jodhpur,Rajasthan,India
+CUST01459,27,13,94491.70999999999,4,4,4,444,Champions,Vadodara,Gujarat,India
+CUST01460,478,7,9835.210000000001,2,3,2,232,Hibernating,Hubli,Karnataka,India
+CUST01461,182,11,43984.71,3,4,3,343,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST01462,292,7,21730.660000000003,3,3,2,332,Need Attention,Jaipur,Rajasthan,India
+CUST01463,23,14,100828.86,4,4,4,444,Champions,Ahmedabad,Gujarat,India
+CUST01464,486,9,82075.81,1,3,4,134,Hibernating,Ludhiana,Punjab,India
+CUST01465,463,5,7210.2300000000005,2,2,1,221,Hibernating,Kolkata,West Bengal,India
+CUST01466,4,46,205192.27,5,5,5,555,Champions,Warangal,Telangana,India
+CUST01467,579,2,5693.6900000000005,1,1,1,111,Lost,Panipat,Haryana,India
+CUST01468,81,12,39723.58,4,4,3,443,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01469,463,3,19881.07,2,1,2,212,Hibernating,Kochi,Kerala,India
+CUST01470,380,7,8377.83,2,3,2,232,Hibernating,Panipat,Haryana,India
+CUST01471,651,6,44749.270000000004,1,2,3,123,Lost,Kozhikode,Kerala,India
+CUST01472,212,7,26220.98,3,3,3,333,Loyal Customers,Hyderabad,Telangana,India
+CUST01473,376,1,1926.0,2,1,1,211,Hibernating,Hubli,Karnataka,India
+CUST01474,25,6,29778.53,4,2,3,423,New Customers,Bikaner,Rajasthan,India
+CUST01475,174,14,43489.43,3,4,3,343,Loyal Customers,Amritsar,Punjab,India
+CUST01476,443,3,7461.04,2,1,1,211,Hibernating,Pune,Maharashtra,India
+CUST01477,575,1,3792.7,1,1,1,111,Lost,Pune,Maharashtra,India
+CUST01478,265,6,19444.78,3,2,2,322,Need Attention,Surat,Gujarat,India
+CUST01479,190,5,8819.62,3,2,2,322,Need Attention,Pune,Maharashtra,India
+CUST01480,29,15,156368.25,4,4,5,445,Champions,Nashik,Maharashtra,India
+CUST01481,583,1,857.2,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01482,4,16,58899.7,5,4,4,544,Champions,Jaipur,Rajasthan,India
+CUST01483,358,7,355281.26,2,3,5,235,Hibernating,Bengaluru,Karnataka,India
+CUST01484,1,64,210832.53,5,5,5,555,Champions,Delhi,Delhi,India
+CUST01485,141,11,37987.33,3,4,3,343,Loyal Customers,Rajkot,Gujarat,India
+CUST01486,156,12,60604.14,3,4,4,344,Loyal Customers,Gurgaon,Haryana,India
+CUST01487,102,11,120779.15,4,4,5,445,Champions,Chennai,Tamil Nadu,India
+CUST01488,558,3,31018.63,1,1,3,113,Lost,Gurgaon,Haryana,India
+CUST01489,25,9,22417.76,4,3,2,432,Need Attention,Salem,Tamil Nadu,India
+CUST01490,79,10,26289.91,4,3,3,433,Loyal Customers,Vadodara,Gujarat,India
+CUST01491,218,16,292833.50000000006,3,4,5,345,Loyal Customers,Gurgaon,Haryana,India
+CUST01492,29,17,41360.020000000004,4,4,3,443,Loyal Customers,Delhi,Delhi,India
+CUST01493,152,14,118989.41,3,4,5,345,Loyal Customers,Surat,Gujarat,India
+CUST01494,4,17,38649.6,5,4,3,543,Loyal Customers,Kochi,Kerala,India
+CUST01495,399,5,29581.82,2,2,3,223,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01496,209,4,10104.67,3,2,2,322,Need Attention,Hubli,Karnataka,India
+CUST01497,617,4,9574.07,1,2,2,122,Lost,Hyderabad,Telangana,India
+CUST01498,67,10,40554.75,4,3,3,433,Loyal Customers,Chandigarh,Punjab,India
+CUST01499,121,13,97522.26,4,4,4,444,Champions,Ludhiana,Punjab,India
+CUST01500,447,1,60330.14,2,1,4,214,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01501,577,5,5635.0,1,2,1,121,Lost,Kozhikode,Kerala,India
+CUST01502,102,6,161432.18999999997,4,2,5,425,New Customers,Mumbai,Maharashtra,India
+CUST01503,2,61,464767.08999999997,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST01504,121,9,47192.560000000005,4,3,3,433,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01505,108,19,116554.39,4,5,4,454,Champions,Howrah,West Bengal,India
+CUST01506,256,12,19058.17,3,4,2,342,Need Attention,Faridabad,Haryana,India
+CUST01507,368,3,12860.75,2,1,2,212,Hibernating,Hubli,Karnataka,India
+CUST01508,448,7,70203.05,2,3,4,234,Hibernating,Faridabad,Haryana,India
+CUST01509,507,8,23969.52,1,3,3,133,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01510,470,4,10938.41,2,2,2,222,Hibernating,Hubli,Karnataka,India
+CUST01511,695,1,417.04,1,1,1,111,Lost,Udaipur,Rajasthan,India
+CUST01512,460,3,17600.35,2,1,2,212,Hibernating,Bengaluru,Karnataka,India
+CUST01513,616,1,8860.76,1,1,2,112,Lost,Udaipur,Rajasthan,India
+CUST01514,2,30,95194.2,5,5,4,554,Champions,Howrah,West Bengal,India
+CUST01515,14,23,70726.45999999999,5,5,4,554,Champions,Varanasi,Uttar Pradesh,India
+CUST01516,1,41,351109.82,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST01517,396,8,109354.54,2,3,4,234,Hibernating,Durgapur,West Bengal,India
+CUST01518,470,1,697.19,2,1,1,211,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01519,229,9,54609.75,3,3,4,334,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01520,546,2,4743.110000000001,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST01521,7,30,115655.29000000001,5,5,4,554,Champions,Thiruvananthapuram,Kerala,India
+CUST01522,387,3,3864.62,2,1,1,211,Hibernating,Lucknow,Uttar Pradesh,India
+CUST01523,60,23,65210.21,4,5,4,454,Champions,Bengaluru,Karnataka,India
+CUST01524,22,16,47684.38,4,4,3,443,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01525,215,7,35204.67,3,3,3,333,Loyal Customers,Chandigarh,Punjab,India
+CUST01526,58,17,220545.69,4,4,5,445,Champions,Udaipur,Rajasthan,India
+CUST01527,74,11,52138.19,4,4,4,444,Champions,Chennai,Tamil Nadu,India
+CUST01528,48,9,58825.369999999995,4,3,4,434,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01529,441,3,46788.58,2,1,3,213,Hibernating,Kochi,Kerala,India
+CUST01530,604,3,16427.41,1,1,2,112,Lost,Faridabad,Haryana,India
+CUST01531,257,9,112606.26999999999,3,3,4,334,Loyal Customers,Thane,Maharashtra,India
+CUST01532,185,3,8449.949999999999,3,1,2,312,Hibernating,Mumbai,Maharashtra,India
+CUST01533,371,4,8774.25,2,2,2,222,Hibernating,Chennai,Tamil Nadu,India
+CUST01534,327,14,51955.479999999996,3,4,4,344,Loyal Customers,Salem,Tamil Nadu,India
+CUST01535,127,10,23170.8,4,3,3,433,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST01536,5,24,721915.95,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST01537,23,36,127548.0,4,5,5,455,Champions,Amritsar,Punjab,India
+CUST01538,391,8,60971.15,2,3,4,234,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01539,3,24,68627.76,5,5,4,554,Champions,Mangalore,Karnataka,India
+CUST01540,373,7,176584.6,2,3,5,235,Hibernating,Kochi,Kerala,India
+CUST01541,577,4,29039.91,1,2,3,123,Lost,Udaipur,Rajasthan,India
+CUST01542,5,19,239482.85,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01543,370,2,17116.76,2,1,2,212,Hibernating,Warangal,Telangana,India
+CUST01544,294,10,36091.7,3,3,3,333,Loyal Customers,Chandigarh,Punjab,India
+CUST01545,596,1,498.95,1,1,1,111,Lost,Agra,Uttar Pradesh,India
+CUST01546,3,14,34528.950000000004,5,4,3,543,Loyal Customers,Bikaner,Rajasthan,India
+CUST01547,471,2,3457.9500000000003,2,1,1,211,Hibernating,Nagpur,Maharashtra,India
+CUST01548,688,3,49276.49,1,1,4,114,Lost,Kanpur,Uttar Pradesh,India
+CUST01549,4,34,93398.01,5,5,4,554,Champions,Surat,Gujarat,India
+CUST01550,366,3,21096.66,2,1,2,212,Hibernating,Nagpur,Maharashtra,India
+CUST01551,497,4,5543.150000000001,1,2,1,121,Lost,Noida,Uttar Pradesh,India
+CUST01552,296,8,25474.43,3,3,3,333,Loyal Customers,New Delhi,Delhi,India
+CUST01553,497,3,8846.49,1,1,2,112,Lost,Mysuru,Karnataka,India
+CUST01554,493,2,2641.7200000000003,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST01555,51,7,25423.46,4,3,3,433,Loyal Customers,Ahmedabad,Gujarat,India
+CUST01556,9,13,158777.2,5,4,5,545,Champions,Ludhiana,Punjab,India
+CUST01557,435,6,12634.45,2,2,2,222,Hibernating,Howrah,West Bengal,India
+CUST01558,60,10,21610.510000000002,4,3,2,432,Need Attention,Panipat,Haryana,India
+CUST01559,402,4,11228.150000000001,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST01560,493,2,99127.38,1,1,4,114,Lost,Panipat,Haryana,India
+CUST01561,33,14,402163.83999999997,4,4,5,445,Champions,Nagpur,Maharashtra,India
+CUST01562,29,10,22731.78,4,3,2,432,Need Attention,Hyderabad,Telangana,India
+CUST01563,522,3,16782.26,1,1,2,112,Lost,Kozhikode,Kerala,India
+CUST01564,56,12,71603.12,4,4,4,444,Champions,Thiruvananthapuram,Kerala,India
+CUST01565,381,1,93162.62,2,1,4,214,Hibernating,Lucknow,Uttar Pradesh,India
+CUST01566,274,19,59743.54,3,5,4,354,Loyal Customers,Ludhiana,Punjab,India
+CUST01567,391,3,7672.53,2,1,1,211,Hibernating,Gurgaon,Haryana,India
+CUST01568,4,22,203927.04,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST01569,247,2,2705.0699999999997,3,1,1,311,Hibernating,Chandigarh,Punjab,India
+CUST01570,31,13,182348.84000000003,4,4,5,445,Champions,Salem,Tamil Nadu,India
+CUST01571,527,3,59844.6,1,1,4,114,Lost,Mysuru,Karnataka,India
+CUST01572,2,36,551156.7,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST01573,466,6,254885.72,2,2,5,225,Hibernating,Ahmedabad,Gujarat,India
+CUST01574,564,4,86819.1,1,2,4,124,Lost,Hyderabad,Telangana,India
+CUST01575,41,20,127171.03,4,5,5,455,Champions,Kanpur,Uttar Pradesh,India
+CUST01576,2,14,78081.87,5,4,4,544,Champions,Kozhikode,Kerala,India
+CUST01577,1,52,312735.41,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST01578,301,5,89194.42000000001,3,2,4,324,Need Attention,Chennai,Tamil Nadu,India
+CUST01579,296,4,31651.59,3,2,3,323,Need Attention,Durgapur,West Bengal,India
+CUST01580,424,6,11718.32,2,2,2,222,Hibernating,Delhi,Delhi,India
+CUST01581,215,8,71306.19,3,3,4,334,Loyal Customers,Kolkata,West Bengal,India
+CUST01582,118,10,138213.11000000002,4,3,5,435,Loyal Customers,Chandigarh,Punjab,India
+CUST01583,391,5,40862.2,2,2,3,223,Hibernating,Hubli,Karnataka,India
+CUST01584,37,6,17553.58,4,2,2,422,New Customers,Ludhiana,Punjab,India
+CUST01585,593,1,1515.9,1,1,1,111,Lost,Coimbatore,Tamil Nadu,India
+CUST01586,3,22,160104.34,5,5,5,555,Champions,Gurgaon,Haryana,India
+CUST01587,249,5,47283.24,3,2,3,323,Need Attention,Pune,Maharashtra,India
+CUST01588,53,10,36958.86,4,3,3,433,Loyal Customers,Ahmedabad,Gujarat,India
+CUST01589,42,7,27686.89,4,3,3,433,Loyal Customers,Delhi,Delhi,India
+CUST01590,289,4,12943.91,3,2,2,322,Need Attention,Nagpur,Maharashtra,India
+CUST01591,388,4,18146.69,2,2,2,222,Hibernating,Kanpur,Uttar Pradesh,India
+CUST01592,307,5,115132.95000000001,3,2,4,324,Need Attention,Agra,Uttar Pradesh,India
+CUST01593,10,16,103347.68,5,4,4,544,Champions,Chandigarh,Punjab,India
+CUST01594,4,17,47832.0,5,4,3,543,Loyal Customers,Panipat,Haryana,India
+CUST01595,464,6,12722.34,2,2,2,222,Hibernating,Chandigarh,Punjab,India
+CUST01596,405,4,48425.03999999999,2,2,3,223,Hibernating,Surat,Gujarat,India
+CUST01597,66,13,42591.39,4,4,3,443,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01598,5,17,46866.75,5,4,3,543,Loyal Customers,Kochi,Kerala,India
+CUST01599,6,34,225316.72,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01600,658,2,6477.78,1,1,1,111,Lost,Nagpur,Maharashtra,India
+CUST01601,1,32,90817.41,5,5,4,554,Champions,Hyderabad,Telangana,India
+CUST01602,34,9,60798.3,4,3,4,434,Loyal Customers,Chandigarh,Punjab,India
+CUST01603,114,9,32184.63,4,3,3,433,Loyal Customers,Salem,Tamil Nadu,India
+CUST01604,54,6,14842.88,4,2,2,422,New Customers,Mumbai,Maharashtra,India
+CUST01605,6,29,218391.24,5,5,5,555,Champions,Vadodara,Gujarat,India
+CUST01606,226,8,28710.94,3,3,3,333,Loyal Customers,Gurgaon,Haryana,India
+CUST01607,1,27,274607.38,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01608,423,1,7291.24,2,1,1,211,Hibernating,Surat,Gujarat,India
+CUST01609,136,6,45557.65,3,2,3,323,Need Attention,Nagpur,Maharashtra,India
+CUST01610,403,5,13066.009999999998,2,2,2,222,Hibernating,Agra,Uttar Pradesh,India
+CUST01611,725,2,1835.3799999999999,1,1,1,111,Lost,Howrah,West Bengal,India
+CUST01612,503,4,17278.27,1,2,2,122,Lost,Faridabad,Haryana,India
+CUST01613,385,5,23446.33,2,2,3,223,Hibernating,Chandigarh,Punjab,India
+CUST01614,52,10,78043.81000000001,4,3,4,434,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01615,242,8,38452.89,3,3,3,333,Loyal Customers,Amritsar,Punjab,India
+CUST01616,465,4,40793.22,2,2,3,223,Hibernating,Mysuru,Karnataka,India
+CUST01617,421,3,4842.07,2,1,1,211,Hibernating,Kanpur,Uttar Pradesh,India
+CUST01618,362,2,5438.65,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST01619,389,6,36822.97,2,2,3,223,Hibernating,Hyderabad,Telangana,India
+CUST01620,285,6,21763.489999999998,3,2,2,322,Need Attention,Kolkata,West Bengal,India
+CUST01621,142,12,36359.2,3,4,3,343,Loyal Customers,Gurgaon,Haryana,India
+CUST01622,11,35,258134.00999999998,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST01623,420,6,55675.01,2,2,4,224,Hibernating,Warangal,Telangana,India
+CUST01624,553,3,5994.99,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST01625,12,37,245648.15,5,5,5,555,Champions,Chennai,Tamil Nadu,India
+CUST01626,354,5,7640.5199999999995,3,2,1,321,Hibernating,Thane,Maharashtra,India
+CUST01627,261,13,42221.0,3,4,3,343,Loyal Customers,Chandigarh,Punjab,India
+CUST01628,387,5,12892.57,2,2,2,222,Hibernating,Ludhiana,Punjab,India
+CUST01629,5,24,115110.59,5,5,4,554,Champions,Nagpur,Maharashtra,India
+CUST01630,430,9,132676.45,2,3,5,235,Hibernating,Jodhpur,Rajasthan,India
+CUST01631,540,5,31450.03,1,2,3,123,Lost,Udaipur,Rajasthan,India
+CUST01632,12,14,54193.08,5,4,4,544,Champions,Bikaner,Rajasthan,India
+CUST01633,472,7,25829.309999999998,2,3,3,233,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01634,309,5,6025.6900000000005,3,2,1,321,Hibernating,Nagpur,Maharashtra,India
+CUST01635,648,2,909.11,1,1,1,111,Lost,Panipat,Haryana,India
+CUST01636,123,10,75858.1,4,3,4,434,Loyal Customers,New Delhi,Delhi,India
+CUST01637,27,8,75219.51,4,3,4,434,Loyal Customers,Udaipur,Rajasthan,India
+CUST01638,3,28,172357.61,5,5,5,555,Champions,Warangal,Telangana,India
+CUST01639,374,1,1887.24,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST01640,468,2,3562.44,2,1,1,211,Hibernating,Chandigarh,Punjab,India
+CUST01641,443,6,16525.21,2,2,2,222,Hibernating,Noida,Uttar Pradesh,India
+CUST01642,730,3,4788.74,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01643,376,5,63037.84,2,2,4,224,Hibernating,Salem,Tamil Nadu,India
+CUST01644,199,3,8215.63,3,1,2,312,Hibernating,Hyderabad,Telangana,India
+CUST01645,1,31,109867.92,5,5,4,554,Champions,Bikaner,Rajasthan,India
+CUST01646,217,7,23288.309999999998,3,3,3,333,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01647,16,19,39423.62,4,5,3,453,Loyal Customers,Ludhiana,Punjab,India
+CUST01648,450,3,9119.400000000001,2,1,2,212,Hibernating,Bikaner,Rajasthan,India
+CUST01649,315,2,4504.6900000000005,3,1,1,311,Hibernating,Lucknow,Uttar Pradesh,India
+CUST01650,295,8,40754.729999999996,3,3,3,333,Loyal Customers,Panipat,Haryana,India
+CUST01651,4,35,130884.83,5,5,5,555,Champions,Warangal,Telangana,India
+CUST01652,165,8,115825.81,3,3,4,334,Loyal Customers,Mangalore,Karnataka,India
+CUST01653,87,16,48784.14,4,4,3,443,Loyal Customers,Salem,Tamil Nadu,India
+CUST01654,134,13,175571.45,4,4,5,445,Champions,Durgapur,West Bengal,India
+CUST01655,26,24,100759.99,4,5,4,454,Champions,Gurgaon,Haryana,India
+CUST01656,650,2,2400.8900000000003,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01657,502,7,102626.79,1,3,4,134,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01658,92,11,39820.08,4,4,3,443,Loyal Customers,Mangalore,Karnataka,India
+CUST01659,93,11,162269.16999999998,4,4,5,445,Champions,Pune,Maharashtra,India
+CUST01660,120,12,66997.17,4,4,4,444,Champions,Kochi,Kerala,India
+CUST01661,264,8,23305.83,3,3,3,333,Loyal Customers,Bengaluru,Karnataka,India
+CUST01662,477,2,1540.1,2,1,1,211,Hibernating,Rajkot,Gujarat,India
+CUST01663,510,1,1429.27,1,1,1,111,Lost,Bengaluru,Karnataka,India
+CUST01664,40,8,53949.28,4,3,4,434,Loyal Customers,Thane,Maharashtra,India
+CUST01665,523,3,7575.050000000001,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST01666,591,2,3221.4100000000003,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST01667,60,13,21816.440000000002,4,4,2,442,Need Attention,Salem,Tamil Nadu,India
+CUST01668,419,3,3736.95,2,1,1,211,Hibernating,Jaipur,Rajasthan,India
+CUST01669,12,20,307025.42,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST01670,214,2,2273.3,3,1,1,311,Hibernating,Chandigarh,Punjab,India
+CUST01671,25,11,41041.28,4,4,3,443,Loyal Customers,Pune,Maharashtra,India
+CUST01672,615,1,2831.12,1,1,1,111,Lost,Thiruvananthapuram,Kerala,India
+CUST01673,381,2,7201.2699999999995,2,1,1,211,Hibernating,Thane,Maharashtra,India
+CUST01674,720,1,5599.07,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST01675,372,4,45757.94,2,2,3,223,Hibernating,Hyderabad,Telangana,India
+CUST01676,21,8,54595.65,4,3,4,434,Loyal Customers,Surat,Gujarat,India
+CUST01677,9,40,193335.59,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST01678,124,8,14004.22,4,3,2,432,Need Attention,Vadodara,Gujarat,India
+CUST01679,10,34,322764.69,5,5,5,555,Champions,Delhi,Delhi,India
+CUST01680,703,2,3369.85,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST01681,2,16,78032.87,5,4,4,544,Champions,Faridabad,Haryana,India
+CUST01682,380,2,2410.42,2,1,1,211,Hibernating,Hyderabad,Telangana,India
+CUST01683,459,6,20693.48,2,2,2,222,Hibernating,Mumbai,Maharashtra,India
+CUST01684,715,3,6160.79,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST01685,14,19,49438.67,5,5,4,554,Champions,Panipat,Haryana,India
+CUST01686,267,2,10202.73,3,1,2,312,Hibernating,Rajkot,Gujarat,India
+CUST01687,696,2,8997.1,1,1,2,112,Lost,Vadodara,Gujarat,India
+CUST01688,42,11,22815.68,4,4,2,442,Need Attention,Amritsar,Punjab,India
+CUST01689,509,11,161642.29,1,4,5,145,At Risk,Thiruvananthapuram,Kerala,India
+CUST01690,369,6,17198.32,2,2,2,222,Hibernating,Ludhiana,Punjab,India
+CUST01691,9,21,175336.69,5,5,5,555,Champions,Mumbai,Maharashtra,India
+CUST01692,519,5,6800.72,1,2,1,121,Lost,Kochi,Kerala,India
+CUST01693,62,8,64256.35,4,3,4,434,Loyal Customers,Warangal,Telangana,India
+CUST01694,14,45,213106.1,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST01695,180,17,41427.46,3,4,3,343,Loyal Customers,Kochi,Kerala,India
+CUST01696,5,30,116295.89,5,5,4,554,Champions,Delhi,Delhi,India
+CUST01697,1,40,234870.22,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST01698,4,33,270264.12,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01699,465,2,4279.83,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST01700,206,7,27161.23,3,3,3,333,Loyal Customers,Mysuru,Karnataka,India
+CUST01701,393,1,2485.94,2,1,1,211,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01702,24,9,35130.33,4,3,3,433,Loyal Customers,Kochi,Kerala,India
+CUST01703,207,15,147996.78,3,4,5,345,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01704,478,5,6556.030000000001,2,2,1,221,Hibernating,Bikaner,Rajasthan,India
+CUST01705,386,10,27275.6,2,3,3,233,Hibernating,Vadodara,Gujarat,India
+CUST01706,7,23,204909.45,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST01707,379,2,1514.77,2,1,1,211,Hibernating,Howrah,West Bengal,India
+CUST01708,341,8,17889.09,3,3,2,332,Need Attention,Ahmedabad,Gujarat,India
+CUST01709,562,5,6124.13,1,2,1,121,Lost,Kozhikode,Kerala,India
+CUST01710,236,4,14902.810000000001,3,2,2,322,Need Attention,Amritsar,Punjab,India
+CUST01711,11,17,112015.23999999999,5,4,4,544,Champions,Delhi,Delhi,India
+CUST01712,2,20,53342.68,5,5,4,554,Champions,Nagpur,Maharashtra,India
+CUST01713,426,8,42697.69,2,3,3,233,Hibernating,Jodhpur,Rajasthan,India
+CUST01714,8,11,38887.17,5,4,3,543,Loyal Customers,Surat,Gujarat,India
+CUST01715,3,18,69101.28,5,5,4,554,Champions,Bengaluru,Karnataka,India
+CUST01716,699,1,4703.24,1,1,1,111,Lost,Chennai,Tamil Nadu,India
+CUST01717,12,19,106796.58,5,5,4,554,Champions,Nashik,Maharashtra,India
+CUST01718,453,10,135348.42,2,3,5,235,Hibernating,Madurai,Tamil Nadu,India
+CUST01719,684,2,3641.6000000000004,1,1,1,111,Lost,Agra,Uttar Pradesh,India
+CUST01720,168,11,25339.28,3,4,3,343,Loyal Customers,New Delhi,Delhi,India
+CUST01721,2,16,59672.31,5,4,4,544,Champions,Nashik,Maharashtra,India
+CUST01722,7,24,52333.47,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST01723,76,10,65684.88,4,3,4,434,Loyal Customers,Thane,Maharashtra,India
+CUST01724,3,17,39429.729999999996,5,4,3,543,Loyal Customers,Jaipur,Rajasthan,India
+CUST01725,458,3,2337.1,2,1,1,211,Hibernating,Kozhikode,Kerala,India
+CUST01726,14,19,493151.67,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST01727,442,7,8893.6,2,3,2,232,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01728,703,1,3110.82,1,1,1,111,Lost,Agra,Uttar Pradesh,India
+CUST01729,410,2,5659.68,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST01730,561,3,3847.55,1,1,1,111,Lost,Ahmedabad,Gujarat,India
+CUST01731,154,11,80757.08,3,4,4,344,Loyal Customers,Noida,Uttar Pradesh,India
+CUST01732,374,8,43798.86,2,3,3,233,Hibernating,Agra,Uttar Pradesh,India
+CUST01733,661,3,33444.06,1,1,3,113,Lost,Surat,Gujarat,India
+CUST01734,289,8,15456.18,3,3,2,332,Need Attention,Coimbatore,Tamil Nadu,India
+CUST01735,1,25,150100.81,5,5,5,555,Champions,Amritsar,Punjab,India
+CUST01736,480,2,1088.8899999999999,2,1,1,211,Hibernating,Pune,Maharashtra,India
+CUST01737,17,11,52021.51,4,4,4,444,Champions,Kochi,Kerala,India
+CUST01738,8,27,89766.0,5,5,4,554,Champions,Mumbai,Maharashtra,India
+CUST01739,38,19,59548.06,4,5,4,454,Champions,Mangalore,Karnataka,India
+CUST01740,269,10,194356.81,3,3,5,335,Loyal Customers,Vadodara,Gujarat,India
+CUST01741,607,4,3420.3900000000003,1,2,1,121,Lost,Kozhikode,Kerala,India
+CUST01742,329,3,93971.42,3,1,4,314,Hibernating,Ludhiana,Punjab,India
+CUST01743,279,6,13906.62,3,2,2,322,Need Attention,Jaipur,Rajasthan,India
+CUST01744,1,47,151116.62,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST01745,10,12,29195.5,5,4,3,543,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01746,349,15,49376.12,3,4,4,344,Loyal Customers,Vadodara,Gujarat,India
+CUST01747,1,52,254494.16,5,5,5,555,Champions,Panipat,Haryana,India
+CUST01748,8,11,60067.18,5,4,4,544,Champions,Bikaner,Rajasthan,India
+CUST01749,229,5,67591.38,3,2,4,324,Need Attention,Jaipur,Rajasthan,India
+CUST01750,3,21,99455.59,5,5,4,554,Champions,Jodhpur,Rajasthan,India
+CUST01751,272,4,62241.08,3,2,4,324,Need Attention,Chandigarh,Punjab,India
+CUST01752,96,7,22761.59,4,3,2,432,Need Attention,Delhi,Delhi,India
+CUST01753,8,66,524901.41,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01754,22,15,43186.39,4,4,3,443,Loyal Customers,Bikaner,Rajasthan,India
+CUST01755,435,1,621.01,2,1,1,211,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01756,426,1,7037.96,2,1,1,211,Hibernating,Bikaner,Rajasthan,India
+CUST01757,451,5,169721.48,2,2,5,225,Hibernating,Salem,Tamil Nadu,India
+CUST01758,58,15,97430.43,4,4,4,444,Champions,Durgapur,West Bengal,India
+CUST01759,7,20,102233.54,5,5,4,554,Champions,Kozhikode,Kerala,India
+CUST01760,419,2,1097.56,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST01761,22,12,98584.14,4,4,4,444,Champions,Chandigarh,Punjab,India
+CUST01762,668,1,2641.66,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST01763,9,28,87473.82,5,5,4,554,Champions,Rajkot,Gujarat,India
+CUST01764,14,14,53194.5,5,4,4,544,Champions,Delhi,Delhi,India
+CUST01765,7,21,58071.21,5,5,4,554,Champions,Kozhikode,Kerala,India
+CUST01766,53,7,135218.37,4,3,5,435,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01767,250,4,5438.360000000001,3,2,1,321,Hibernating,Pune,Maharashtra,India
+CUST01768,22,6,11343.3,4,2,2,422,New Customers,Agra,Uttar Pradesh,India
+CUST01769,112,9,55420.42,4,3,4,434,Loyal Customers,Amritsar,Punjab,India
+CUST01770,115,15,17081.34,4,4,2,442,Need Attention,Thiruvananthapuram,Kerala,India
+CUST01771,138,8,34341.39,3,3,3,333,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01772,438,8,40197.95,2,3,3,233,Hibernating,Kolkata,West Bengal,India
+CUST01773,365,2,1776.6399999999999,2,1,1,211,Hibernating,Chandigarh,Punjab,India
+CUST01774,441,1,3016.11,2,1,1,211,Hibernating,Ahmedabad,Gujarat,India
+CUST01775,263,8,102006.33,3,3,4,334,Loyal Customers,Mumbai,Maharashtra,India
+CUST01776,371,7,85738.90000000001,2,3,4,234,Hibernating,Delhi,Delhi,India
+CUST01777,560,4,5128.7,1,2,1,121,Lost,Warangal,Telangana,India
+CUST01778,258,11,24977.66,3,4,3,343,Loyal Customers,Warangal,Telangana,India
+CUST01779,291,9,167489.52,3,3,5,335,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST01780,510,1,1543.39,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST01781,8,35,581485.32,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01782,421,2,6956.16,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST01783,12,11,78668.68999999999,5,4,4,544,Champions,New Delhi,Delhi,India
+CUST01784,475,5,10121.369999999999,2,2,2,222,Hibernating,Bikaner,Rajasthan,India
+CUST01785,352,4,9927.32,3,2,2,322,Need Attention,Mangalore,Karnataka,India
+CUST01786,463,1,3331.76,2,1,1,211,Hibernating,Amritsar,Punjab,India
+CUST01787,403,4,4784.26,2,2,1,221,Hibernating,Bikaner,Rajasthan,India
+CUST01788,387,4,9833.6,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST01789,5,15,41333.39,5,4,3,543,Loyal Customers,Hyderabad,Telangana,India
+CUST01790,424,4,11466.57,2,2,2,222,Hibernating,Gurgaon,Haryana,India
+CUST01791,21,23,280524.11,4,5,5,455,Champions,Warangal,Telangana,India
+CUST01792,445,8,28995.07,2,3,3,233,Hibernating,Amritsar,Punjab,India
+CUST01793,466,6,17912.97,2,2,2,222,Hibernating,Amritsar,Punjab,India
+CUST01794,396,5,11360.99,2,2,2,222,Hibernating,Panipat,Haryana,India
+CUST01795,5,42,162986.05,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST01796,19,22,223248.33000000002,4,5,5,455,Champions,New Delhi,Delhi,India
+CUST01797,383,6,7796.12,2,2,1,221,Hibernating,Panipat,Haryana,India
+CUST01798,4,31,195955.21,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST01799,14,25,138493.98,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01800,1,33,159194.15,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST01801,489,2,2003.2600000000002,1,1,1,111,Lost,Udaipur,Rajasthan,India
+CUST01802,439,2,5505.14,2,1,1,211,Hibernating,Vadodara,Gujarat,India
+CUST01803,46,10,138136.65,4,3,5,435,Loyal Customers,Panipat,Haryana,India
+CUST01804,19,9,7314.4400000000005,4,3,1,431,Hibernating,Amritsar,Punjab,India
+CUST01805,45,15,100267.29,4,4,4,444,Champions,Jodhpur,Rajasthan,India
+CUST01806,242,6,35579.1,3,2,3,323,Need Attention,Thiruvananthapuram,Kerala,India
+CUST01807,374,4,4210.57,2,2,1,221,Hibernating,Rajkot,Gujarat,India
+CUST01808,14,27,551767.62,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01809,2,20,81089.7,5,5,4,554,Champions,Hubli,Karnataka,India
+CUST01810,6,19,53670.39,5,5,4,554,Champions,Mumbai,Maharashtra,India
+CUST01811,321,5,53417.27,3,2,4,324,Need Attention,Chandigarh,Punjab,India
+CUST01812,220,3,1947.65,3,1,1,311,Hibernating,Udaipur,Rajasthan,India
+CUST01813,437,8,75930.83,2,3,4,234,Hibernating,Gurgaon,Haryana,India
+CUST01814,2,48,165897.28,5,5,5,555,Champions,Lucknow,Uttar Pradesh,India
+CUST01815,1,22,425674.67999999993,5,5,5,555,Champions,Mysuru,Karnataka,India
+CUST01816,644,3,149860.58000000002,1,1,5,115,Lost,Hyderabad,Telangana,India
+CUST01817,77,9,53766.2,4,3,4,434,Loyal Customers,Kochi,Kerala,India
+CUST01818,396,7,17102.87,2,3,2,232,Hibernating,Faridabad,Haryana,India
+CUST01819,377,5,6745.12,2,2,1,221,Hibernating,Ahmedabad,Gujarat,India
+CUST01820,103,15,75149.78,4,4,4,444,Champions,Bikaner,Rajasthan,India
+CUST01821,169,11,55051.06,3,4,4,344,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01822,4,19,39658.34,5,5,3,553,Loyal Customers,Faridabad,Haryana,India
+CUST01823,239,9,40374.600000000006,3,3,3,333,Loyal Customers,Mangalore,Karnataka,India
+CUST01824,205,7,14363.39,3,3,2,332,Need Attention,Bikaner,Rajasthan,India
+CUST01825,474,2,3073.12,2,1,1,211,Hibernating,Kochi,Kerala,India
+CUST01826,355,7,28557.809999999998,2,3,3,233,Hibernating,Thiruvananthapuram,Kerala,India
+CUST01827,2,44,419509.12,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01828,466,1,1094.86,2,1,1,211,Hibernating,Ahmedabad,Gujarat,India
+CUST01829,408,10,16312.89,2,3,2,232,Hibernating,Amritsar,Punjab,India
+CUST01830,373,5,83900.82,2,2,4,224,Hibernating,Gurgaon,Haryana,India
+CUST01831,426,3,6391.54,2,1,1,211,Hibernating,Agra,Uttar Pradesh,India
+CUST01832,659,4,6645.240000000001,1,2,1,121,Lost,Lucknow,Uttar Pradesh,India
+CUST01833,224,10,22317.23,3,3,2,332,Need Attention,Nashik,Maharashtra,India
+CUST01834,522,7,18946.92,1,3,2,132,Hibernating,Delhi,Delhi,India
+CUST01835,527,2,12424.0,1,1,2,112,Lost,Faridabad,Haryana,India
+CUST01836,410,5,19784.239999999998,2,2,2,222,Hibernating,Mumbai,Maharashtra,India
+CUST01837,36,11,28374.26,4,4,3,443,Loyal Customers,Thane,Maharashtra,India
+CUST01838,6,8,32198.91,5,3,3,533,Loyal Customers,Kochi,Kerala,India
+CUST01839,557,2,8784.34,1,1,2,112,Lost,Ludhiana,Punjab,India
+CUST01840,497,6,8984.92,1,2,2,122,Lost,Kozhikode,Kerala,India
+CUST01841,39,14,187863.88999999998,4,4,5,445,Champions,Gurgaon,Haryana,India
+CUST01842,114,13,407609.24,4,4,5,445,Champions,Jaipur,Rajasthan,India
+CUST01843,108,12,39620.92,4,4,3,443,Loyal Customers,Warangal,Telangana,India
+CUST01844,394,5,24345.31,2,2,3,223,Hibernating,Delhi,Delhi,India
+CUST01845,568,3,5047.52,1,1,1,111,Lost,Warangal,Telangana,India
+CUST01846,156,7,35479.18,3,3,3,333,Loyal Customers,Surat,Gujarat,India
+CUST01847,1,23,75708.95,5,5,4,554,Champions,Jodhpur,Rajasthan,India
+CUST01848,13,22,199015.88999999998,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST01849,389,2,6389.17,2,1,1,211,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01850,553,7,66168.19,1,3,4,134,Hibernating,Kochi,Kerala,India
+CUST01851,187,13,36455.66,3,4,3,343,Loyal Customers,Ahmedabad,Gujarat,India
+CUST01852,675,2,4929.63,1,1,1,111,Lost,Delhi,Delhi,India
+CUST01853,517,1,892.02,1,1,1,111,Lost,Jodhpur,Rajasthan,India
+CUST01854,614,2,7032.900000000001,1,1,1,111,Lost,Thiruvananthapuram,Kerala,India
+CUST01855,545,1,831.61,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01856,254,12,35129.21,3,4,3,343,Loyal Customers,Thane,Maharashtra,India
+CUST01857,477,4,10494.42,2,2,2,222,Hibernating,Warangal,Telangana,India
+CUST01858,16,15,36041.3,4,4,3,443,Loyal Customers,Chennai,Tamil Nadu,India
+CUST01859,670,2,2473.02,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST01860,377,6,38345.58,2,2,3,223,Hibernating,Howrah,West Bengal,India
+CUST01861,302,5,34229.58,3,2,3,323,Need Attention,Mumbai,Maharashtra,India
+CUST01862,543,5,24901.579999999998,1,2,3,123,Lost,Kolkata,West Bengal,India
+CUST01863,2,21,77104.13,5,5,4,554,Champions,Kochi,Kerala,India
+CUST01864,412,4,52764.96,2,2,4,224,Hibernating,Nashik,Maharashtra,India
+CUST01865,532,1,883.67,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01866,638,2,6967.469999999999,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST01867,7,39,147144.13,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01868,10,24,130861.2,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST01869,10,15,61833.56,5,4,4,544,Champions,Ludhiana,Punjab,India
+CUST01870,477,4,12125.4,2,2,2,222,Hibernating,Delhi,Delhi,India
+CUST01871,530,3,7179.98,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST01872,112,19,56746.07,4,5,4,454,Champions,Nagpur,Maharashtra,India
+CUST01873,375,2,52775.9,2,1,4,214,Hibernating,New Delhi,Delhi,India
+CUST01874,648,3,6559.79,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST01875,346,4,21614.690000000002,3,2,2,322,Need Attention,Ludhiana,Punjab,India
+CUST01876,479,8,22625.699999999997,2,3,2,232,Hibernating,Gurgaon,Haryana,India
+CUST01877,346,8,24766.910000000003,3,3,3,333,Loyal Customers,Nashik,Maharashtra,India
+CUST01878,367,3,3614.29,2,1,1,211,Hibernating,Coimbatore,Tamil Nadu,India
+CUST01879,23,17,113496.18,4,4,4,444,Champions,Kochi,Kerala,India
+CUST01880,354,4,11315.720000000001,3,2,2,322,Need Attention,Jodhpur,Rajasthan,India
+CUST01881,523,5,13998.49,1,2,2,122,Lost,New Delhi,Delhi,India
+CUST01882,691,2,4523.9,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST01883,387,6,136116.91,2,2,5,225,Hibernating,Warangal,Telangana,India
+CUST01884,398,4,13491.400000000001,2,2,2,222,Hibernating,New Delhi,Delhi,India
+CUST01885,31,25,107936.59,4,5,4,454,Champions,Thane,Maharashtra,India
+CUST01886,61,11,47305.9,4,4,3,443,Loyal Customers,New Delhi,Delhi,India
+CUST01887,11,28,195963.54,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST01888,4,11,304261.55000000005,5,4,5,545,Champions,Mangalore,Karnataka,India
+CUST01889,423,7,10581.33,2,3,2,232,Hibernating,Pune,Maharashtra,India
+CUST01890,558,4,21077.059999999998,1,2,2,122,Lost,Amritsar,Punjab,India
+CUST01891,9,12,46423.25,5,4,3,543,Loyal Customers,Jaipur,Rajasthan,India
+CUST01892,417,12,26574.03,2,4,3,243,Churned Best Customers,Bengaluru,Karnataka,India
+CUST01893,191,1,905.22,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST01894,41,10,128072.19,4,3,5,435,Loyal Customers,Hubli,Karnataka,India
+CUST01895,623,3,5883.14,1,1,1,111,Lost,Hyderabad,Telangana,India
+CUST01896,421,5,14593.1,2,2,2,222,Hibernating,Gurgaon,Haryana,India
+CUST01897,403,4,28618.11,2,2,3,223,Hibernating,Faridabad,Haryana,India
+CUST01898,7,15,62232.78,5,4,4,544,Champions,Thiruvananthapuram,Kerala,India
+CUST01899,211,12,26673.0,3,4,3,343,Loyal Customers,Thane,Maharashtra,India
+CUST01900,280,6,34925.1,3,2,3,323,Need Attention,New Delhi,Delhi,India
+CUST01901,217,3,3380.8199999999997,3,1,1,311,Hibernating,Noida,Uttar Pradesh,India
+CUST01902,13,33,127612.72,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST01903,378,6,33970.7,2,2,3,223,Hibernating,Pune,Maharashtra,India
+CUST01904,18,27,179888.81,4,5,5,455,Champions,Thiruvananthapuram,Kerala,India
+CUST01905,450,6,17860.75,2,2,2,222,Hibernating,Bengaluru,Karnataka,India
+CUST01906,171,11,50259.8,3,4,4,344,Loyal Customers,Howrah,West Bengal,India
+CUST01907,519,1,11136.24,1,1,2,112,Lost,Vadodara,Gujarat,India
+CUST01908,301,13,38961.350000000006,3,4,3,343,Loyal Customers,Mumbai,Maharashtra,India
+CUST01909,57,10,166278.89,4,3,5,435,Loyal Customers,Mysuru,Karnataka,India
+CUST01910,5,23,68167.72,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST01911,119,17,146736.44,4,4,5,445,Champions,Faridabad,Haryana,India
+CUST01912,436,1,2138.08,2,1,1,211,Hibernating,Howrah,West Bengal,India
+CUST01913,730,3,15646.19,1,1,2,112,Lost,Thiruvananthapuram,Kerala,India
+CUST01914,193,7,244973.68,3,3,5,335,Loyal Customers,Kolkata,West Bengal,India
+CUST01915,151,12,262183.79,3,4,5,345,Loyal Customers,Faridabad,Haryana,India
+CUST01916,580,4,11987.08,1,2,2,122,Lost,Chennai,Tamil Nadu,India
+CUST01917,574,2,14810.69,1,1,2,112,Lost,Jaipur,Rajasthan,India
+CUST01918,186,3,3373.0099999999998,3,1,1,311,Hibernating,Salem,Tamil Nadu,India
+CUST01919,7,15,87082.09999999999,5,4,4,544,Champions,Kolkata,West Bengal,India
+CUST01920,47,12,36896.5,4,4,3,443,Loyal Customers,Madurai,Tamil Nadu,India
+CUST01921,479,3,10964.329999999998,2,1,2,212,Hibernating,Kolkata,West Bengal,India
+CUST01922,6,52,679083.46,5,5,5,555,Champions,Ludhiana,Punjab,India
+CUST01923,396,2,3309.99,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST01924,38,9,36307.659999999996,4,3,3,433,Loyal Customers,Hubli,Karnataka,India
+CUST01925,366,4,19942.77,2,2,2,222,Hibernating,Ludhiana,Punjab,India
+CUST01926,6,21,120510.3,5,5,5,555,Champions,Chandigarh,Punjab,India
+CUST01927,285,4,16426.52,3,2,2,322,Need Attention,Warangal,Telangana,India
+CUST01928,60,12,93812.41,4,4,4,444,Champions,Bikaner,Rajasthan,India
+CUST01929,646,5,22363.79,1,2,2,122,Lost,Faridabad,Haryana,India
+CUST01930,5,30,56172.42,5,5,4,554,Champions,Howrah,West Bengal,India
+CUST01931,603,3,9570.73,1,1,2,112,Lost,Ludhiana,Punjab,India
+CUST01932,242,2,9721.81,3,1,2,312,Hibernating,Hyderabad,Telangana,India
+CUST01933,239,8,69421.17,3,3,4,334,Loyal Customers,Panipat,Haryana,India
+CUST01934,415,9,25759.77,2,3,3,233,Hibernating,Varanasi,Uttar Pradesh,India
+CUST01935,382,5,53200.2,2,2,4,224,Hibernating,Delhi,Delhi,India
+CUST01936,710,1,4068.45,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST01937,43,10,72975.18,4,3,4,434,Loyal Customers,Hubli,Karnataka,India
+CUST01938,377,4,7084.029999999999,2,2,1,221,Hibernating,Kochi,Kerala,India
+CUST01939,154,14,47898.04,3,4,3,343,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01940,10,34,195732.04,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST01941,16,21,135871.71,4,5,5,455,Champions,Mangalore,Karnataka,India
+CUST01942,239,10,30961.31,3,3,3,333,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST01943,423,7,60617.72,2,3,4,234,Hibernating,Delhi,Delhi,India
+CUST01944,380,5,42106.39,2,2,3,223,Hibernating,Nagpur,Maharashtra,India
+CUST01945,216,2,2455.24,3,1,1,311,Hibernating,Panipat,Haryana,India
+CUST01946,404,7,28881.88,2,3,3,233,Hibernating,Chennai,Tamil Nadu,India
+CUST01947,77,12,27886.42,4,4,3,443,Loyal Customers,Gurgaon,Haryana,India
+CUST01948,9,22,213400.43,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST01949,86,17,45887.76,4,4,3,443,Loyal Customers,Howrah,West Bengal,India
+CUST01950,37,12,38621.63,4,4,3,443,Loyal Customers,Howrah,West Bengal,India
+CUST01951,11,26,85389.0,5,5,4,554,Champions,Lucknow,Uttar Pradesh,India
+CUST01952,43,7,82267.34,4,3,4,434,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST01953,479,3,171703.58000000002,2,1,5,215,Hibernating,Lucknow,Uttar Pradesh,India
+CUST01954,325,4,21633.489999999998,3,2,2,322,Need Attention,Chandigarh,Punjab,India
+CUST01955,593,1,2003.13,1,1,1,111,Lost,Madurai,Tamil Nadu,India
+CUST01956,698,3,3182.45,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST01957,688,2,209417.97,1,1,5,115,Lost,Delhi,Delhi,India
+CUST01958,111,9,33636.83,4,3,3,433,Loyal Customers,Jaipur,Rajasthan,India
+CUST01959,243,3,95089.09,3,1,4,314,Hibernating,Noida,Uttar Pradesh,India
+CUST01960,211,2,2398.79,3,1,1,311,Hibernating,Amritsar,Punjab,India
+CUST01961,12,17,180159.59,5,4,5,545,Champions,Jaipur,Rajasthan,India
+CUST01962,217,9,165840.03,3,3,5,335,Loyal Customers,Hubli,Karnataka,India
+CUST01963,700,2,3149.58,1,1,1,111,Lost,Hubli,Karnataka,India
+CUST01964,23,9,59740.520000000004,4,3,4,434,Loyal Customers,Mangalore,Karnataka,India
+CUST01965,603,3,8523.630000000001,1,1,2,112,Lost,Lucknow,Uttar Pradesh,India
+CUST01966,376,6,28678.75,2,2,3,223,Hibernating,Kozhikode,Kerala,India
+CUST01967,3,21,169880.45,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST01968,128,21,92175.16,4,5,4,454,Champions,Kochi,Kerala,India
+CUST01969,98,17,45381.17,4,4,3,443,Loyal Customers,New Delhi,Delhi,India
+CUST01970,6,59,665880.86,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST01971,14,32,128504.41,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST01972,641,4,18268.18,1,2,2,122,Lost,Chandigarh,Punjab,India
+CUST01973,355,10,27565.5,2,3,3,233,Hibernating,Bikaner,Rajasthan,India
+CUST01974,510,6,25469.6,1,2,3,123,Lost,Hubli,Karnataka,India
+CUST01975,86,15,172750.8,4,4,5,445,Champions,Salem,Tamil Nadu,India
+CUST01976,384,3,13984.75,2,1,2,212,Hibernating,Pune,Maharashtra,India
+CUST01977,38,9,23712.64,4,3,3,433,Loyal Customers,Jodhpur,Rajasthan,India
+CUST01978,22,12,32457.32,4,4,3,443,Loyal Customers,Panipat,Haryana,India
+CUST01979,591,1,1904.18,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST01980,615,1,1869.77,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST01981,8,28,221756.53000000003,5,5,5,555,Champions,Mangalore,Karnataka,India
+CUST01982,575,4,11231.66,1,2,2,122,Lost,Mysuru,Karnataka,India
+CUST01983,21,7,23667.14,4,3,3,433,Loyal Customers,Nagpur,Maharashtra,India
+CUST01984,379,10,80963.88,2,3,4,234,Hibernating,Howrah,West Bengal,India
+CUST01985,17,22,176405.34,4,5,5,455,Champions,Agra,Uttar Pradesh,India
+CUST01986,4,24,68680.19,5,5,4,554,Champions,Warangal,Telangana,India
+CUST01987,223,6,75231.21,3,2,4,324,Need Attention,Kolkata,West Bengal,India
+CUST01988,78,10,71763.87,4,3,4,434,Loyal Customers,Noida,Uttar Pradesh,India
+CUST01989,193,11,28944.120000000003,3,4,3,343,Loyal Customers,Faridabad,Haryana,India
+CUST01990,584,4,12357.97,1,2,2,122,Lost,Chandigarh,Punjab,India
+CUST01991,378,4,32311.49,2,2,3,223,Hibernating,Faridabad,Haryana,India
+CUST01992,13,30,61349.19,5,5,4,554,Champions,Delhi,Delhi,India
+CUST01993,262,8,20832.95,3,3,2,332,Need Attention,Kozhikode,Kerala,India
+CUST01994,4,19,385259.82,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST01995,429,5,24273.7,2,2,3,223,Hibernating,Udaipur,Rajasthan,India
+CUST01996,421,6,7450.35,2,2,1,221,Hibernating,Thane,Maharashtra,India
+CUST01997,511,2,1604.6,1,1,1,111,Lost,Kanpur,Uttar Pradesh,India
+CUST01998,3,23,85819.4,5,5,4,554,Champions,Mumbai,Maharashtra,India
+CUST01999,18,18,63323.4,4,5,4,454,Champions,Kozhikode,Kerala,India
+CUST02000,22,12,78021.25,4,4,4,444,Champions,Hyderabad,Telangana,India
+CUST02001,81,14,40553.85,4,4,3,443,Loyal Customers,Chandigarh,Punjab,India
+CUST02002,22,8,24068.449999999997,4,3,3,433,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST02003,383,2,5038.78,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST02004,91,11,276957.89999999997,4,4,5,445,Champions,Kolkata,West Bengal,India
+CUST02005,129,14,46005.64,4,4,3,443,Loyal Customers,Howrah,West Bengal,India
+CUST02006,482,5,78928.32,2,2,4,224,Hibernating,New Delhi,Delhi,India
+CUST02007,38,13,36714.72,4,4,3,443,Loyal Customers,Warangal,Telangana,India
+CUST02008,380,3,4178.73,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST02009,16,26,157447.25999999998,4,5,5,455,Champions,Chandigarh,Punjab,India
+CUST02010,206,6,27874.08,3,2,3,323,Need Attention,Madurai,Tamil Nadu,India
+CUST02011,4,52,665824.65,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST02012,3,21,202231.63,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST02013,493,1,6947.88,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST02014,14,31,341595.7,5,5,5,555,Champions,Jodhpur,Rajasthan,India
+CUST02015,444,5,56206.009999999995,2,2,4,224,Hibernating,Warangal,Telangana,India
+CUST02016,77,9,33955.08,4,3,3,433,Loyal Customers,Nagpur,Maharashtra,India
+CUST02017,76,7,15760.76,4,3,2,432,Need Attention,Bikaner,Rajasthan,India
+CUST02018,471,2,3191.44,2,1,1,211,Hibernating,Pune,Maharashtra,India
+CUST02019,2,50,247904.53,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST02020,252,6,25291.28,3,2,3,323,Need Attention,Kozhikode,Kerala,India
+CUST02021,558,2,20438.4,1,1,2,112,Lost,Mangalore,Karnataka,India
+CUST02022,435,7,31342.47,2,3,3,233,Hibernating,Delhi,Delhi,India
+CUST02023,506,2,9891.1,1,1,2,112,Lost,Chandigarh,Punjab,India
+CUST02024,4,20,74209.7,5,5,4,554,Champions,Bikaner,Rajasthan,India
+CUST02025,19,7,16508.86,4,3,2,432,Need Attention,Thiruvananthapuram,Kerala,India
+CUST02026,120,7,17787.32,4,3,2,432,Need Attention,Noida,Uttar Pradesh,India
+CUST02027,422,5,26309.559999999998,2,2,3,223,Hibernating,Bengaluru,Karnataka,India
+CUST02028,456,5,7532.0,2,2,1,221,Hibernating,Jodhpur,Rajasthan,India
+CUST02029,9,13,75567.28,5,4,4,544,Champions,Nagpur,Maharashtra,India
+CUST02030,256,5,42305.25000000001,3,2,3,323,Need Attention,Thiruvananthapuram,Kerala,India
+CUST02031,4,32,417783.81,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST02032,538,8,20260.27,1,3,2,132,Hibernating,Kochi,Kerala,India
+CUST02033,84,9,15723.079999999998,4,3,2,432,Need Attention,Hubli,Karnataka,India
+CUST02034,263,3,29381.54,3,1,3,313,Hibernating,Vadodara,Gujarat,India
+CUST02035,529,10,48483.810000000005,1,3,3,133,Hibernating,Noida,Uttar Pradesh,India
+CUST02036,41,19,70442.08,4,5,4,454,Champions,Pune,Maharashtra,India
+CUST02037,8,24,150322.72,5,5,5,555,Champions,Howrah,West Bengal,India
+CUST02038,9,30,207441.43,5,5,5,555,Champions,Bengaluru,Karnataka,India
+CUST02039,58,6,27507.949999999997,4,2,3,423,New Customers,Kanpur,Uttar Pradesh,India
+CUST02040,216,13,39257.71,3,4,3,343,Loyal Customers,Chandigarh,Punjab,India
+CUST02041,700,1,2811.29,1,1,1,111,Lost,Panipat,Haryana,India
+CUST02042,291,4,7626.62,3,2,1,321,Hibernating,Jaipur,Rajasthan,India
+CUST02043,432,6,16486.14,2,2,2,222,Hibernating,Nashik,Maharashtra,India
+CUST02044,8,29,212708.93,5,5,5,555,Champions,Faridabad,Haryana,India
+CUST02045,564,4,8169.9,1,2,2,122,Lost,Chandigarh,Punjab,India
+CUST02046,383,4,11307.03,2,2,2,222,Hibernating,Faridabad,Haryana,India
+CUST02047,3,35,155664.38,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST02048,610,10,42229.32,1,3,3,133,Hibernating,Mysuru,Karnataka,India
+CUST02049,323,9,50075.19,3,3,4,334,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST02050,3,26,108952.59,5,5,4,554,Champions,Gurgaon,Haryana,India
+CUST02051,6,14,203551.8,5,4,5,545,Champions,Bikaner,Rajasthan,India
+CUST02052,88,10,24616.87,4,3,3,433,Loyal Customers,New Delhi,Delhi,India
+CUST02053,15,19,81525.87,4,5,4,454,Champions,Nashik,Maharashtra,India
+CUST02054,373,2,10916.19,2,1,2,212,Hibernating,Mumbai,Maharashtra,India
+CUST02055,681,3,5080.32,1,1,1,111,Lost,Mumbai,Maharashtra,India
+CUST02056,542,5,21229.35,1,2,2,122,Lost,Coimbatore,Tamil Nadu,India
+CUST02057,5,9,72384.53,5,3,4,534,Loyal Customers,Kolkata,West Bengal,India
+CUST02058,127,14,104236.11,4,4,4,444,Champions,Faridabad,Haryana,India
+CUST02059,314,8,112427.02,3,3,4,334,Loyal Customers,Kolkata,West Bengal,India
+CUST02060,509,7,17449.61,1,3,2,132,Hibernating,Ludhiana,Punjab,India
+CUST02061,13,16,35892.590000000004,5,4,3,543,Loyal Customers,New Delhi,Delhi,India
+CUST02062,416,4,20493.28,2,2,2,222,Hibernating,Kanpur,Uttar Pradesh,India
+CUST02063,394,1,794.94,2,1,1,211,Hibernating,Bengaluru,Karnataka,India
+CUST02064,155,10,24421.61,3,3,3,333,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST02065,5,23,91176.43,5,5,4,554,Champions,Ludhiana,Punjab,India
+CUST02066,403,11,79280.5,2,4,4,244,At Risk,New Delhi,Delhi,India
+CUST02067,352,12,73442.40000000001,3,4,4,344,Loyal Customers,Hyderabad,Telangana,India
+CUST02068,123,12,164073.57,4,4,5,445,Champions,Hyderabad,Telangana,India
+CUST02069,1,22,152736.55000000002,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST02070,44,12,99816.63,4,4,4,444,Champions,Udaipur,Rajasthan,India
+CUST02071,267,3,43511.82,3,1,3,313,Hibernating,Gurgaon,Haryana,India
+CUST02072,597,9,351950.1,1,3,5,135,Hibernating,Jaipur,Rajasthan,India
+CUST02073,115,14,62837.66,4,4,4,444,Champions,Udaipur,Rajasthan,India
+CUST02074,719,5,32557.06,1,2,3,123,Lost,Varanasi,Uttar Pradesh,India
+CUST02075,490,2,2892.66,1,1,1,111,Lost,Chennai,Tamil Nadu,India
+CUST02076,635,1,891.24,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST02077,162,7,24795.77,3,3,3,333,Loyal Customers,Jaipur,Rajasthan,India
+CUST02078,109,13,249297.74000000002,4,4,5,445,Champions,Lucknow,Uttar Pradesh,India
+CUST02079,350,1,1915.09,3,1,1,311,Hibernating,Warangal,Telangana,India
+CUST02080,342,7,32763.54,3,3,3,333,Loyal Customers,Gurgaon,Haryana,India
+CUST02081,1,37,125011.49,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST02082,19,19,95514.13,4,5,4,454,Champions,Hyderabad,Telangana,India
+CUST02083,61,11,105747.86000000002,4,4,4,444,Champions,Faridabad,Haryana,India
+CUST02084,726,1,885.85,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST02085,245,3,44135.98,3,1,3,313,Hibernating,Warangal,Telangana,India
+CUST02086,10,8,119568.99,5,3,5,535,Loyal Customers,Amritsar,Punjab,India
+CUST02087,3,23,210047.4,5,5,5,555,Champions,Surat,Gujarat,India
+CUST02088,429,5,11999.3,2,2,2,222,Hibernating,Delhi,Delhi,India
+CUST02089,580,4,7850.45,1,2,1,121,Lost,Coimbatore,Tamil Nadu,India
+CUST02090,90,7,27048.440000000002,4,3,3,433,Loyal Customers,Gurgaon,Haryana,India
+CUST02091,188,7,15918.23,3,3,2,332,Need Attention,Kochi,Kerala,India
+CUST02092,540,1,1022.13,1,1,1,111,Lost,Chandigarh,Punjab,India
+CUST02093,319,11,51343.69,3,4,4,344,Loyal Customers,Ahmedabad,Gujarat,India
+CUST02094,400,9,20344.78,2,3,2,232,Hibernating,Varanasi,Uttar Pradesh,India
+CUST02095,35,8,100252.09,4,3,4,434,Loyal Customers,Rajkot,Gujarat,India
+CUST02096,336,3,7851.15,3,1,1,311,Hibernating,Vadodara,Gujarat,India
+CUST02097,432,3,7424.3099999999995,2,1,1,211,Hibernating,Mumbai,Maharashtra,India
+CUST02098,407,4,23585.449999999997,2,2,3,223,Hibernating,Warangal,Telangana,India
+CUST02099,378,6,28492.35,2,2,3,223,Hibernating,Bikaner,Rajasthan,India
+CUST02100,47,18,59774.3,4,5,4,454,Champions,Hubli,Karnataka,India
+CUST02101,395,2,976.9000000000001,2,1,1,211,Hibernating,Hyderabad,Telangana,India
+CUST02102,245,8,17394.14,3,3,2,332,Need Attention,Warangal,Telangana,India
+CUST02103,4,30,157164.89,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST02104,638,5,14843.33,1,2,2,122,Lost,Noida,Uttar Pradesh,India
+CUST02105,271,7,30532.149999999998,3,3,3,333,Loyal Customers,Kanpur,Uttar Pradesh,India
+CUST02106,348,14,62526.19,3,4,4,344,Loyal Customers,Warangal,Telangana,India
+CUST02107,725,1,3949.58,1,1,1,111,Lost,Warangal,Telangana,India
+CUST02108,676,2,9502.130000000001,1,1,2,112,Lost,Mumbai,Maharashtra,India
+CUST02109,54,6,8933.4,4,2,2,422,New Customers,Hubli,Karnataka,India
+CUST02110,448,1,4112.34,2,1,1,211,Hibernating,Ludhiana,Punjab,India
+CUST02111,1,21,165454.35,5,5,5,555,Champions,Delhi,Delhi,India
+CUST02112,73,7,120029.68,4,3,5,435,Loyal Customers,Warangal,Telangana,India
+CUST02113,4,28,164234.58,5,5,5,555,Champions,Coimbatore,Tamil Nadu,India
+CUST02114,559,2,13743.49,1,1,2,112,Lost,Ahmedabad,Gujarat,India
+CUST02115,465,2,40427.83,2,1,3,213,Hibernating,Delhi,Delhi,India
+CUST02116,3,19,82840.41,5,5,4,554,Champions,Agra,Uttar Pradesh,India
+CUST02117,186,17,150458.35,3,4,5,345,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST02118,629,3,30728.420000000002,1,1,3,113,Lost,Warangal,Telangana,India
+CUST02119,2,25,118872.54000000001,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST02120,678,1,1877.5,1,1,1,111,Lost,Amritsar,Punjab,India
+CUST02121,648,3,2146.63,1,1,1,111,Lost,Delhi,Delhi,India
+CUST02122,553,5,6160.19,1,2,1,121,Lost,Kochi,Kerala,India
+CUST02123,435,1,13377.38,2,1,2,212,Hibernating,Agra,Uttar Pradesh,India
+CUST02124,249,8,36463.03,3,3,3,333,Loyal Customers,Vadodara,Gujarat,India
+CUST02125,542,1,1125.81,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST02126,604,3,4968.95,1,1,1,111,Lost,Vadodara,Gujarat,India
+CUST02127,533,9,28598.15,1,3,3,133,Hibernating,Amritsar,Punjab,India
+CUST02128,3,27,236823.66,5,5,5,555,Champions,Gurgaon,Haryana,India
+CUST02129,539,4,27250.280000000002,1,2,3,123,Lost,Amritsar,Punjab,India
+CUST02130,93,13,28120.44,4,4,3,443,Loyal Customers,Chandigarh,Punjab,India
+CUST02131,1,29,129053.85,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST02132,2,39,170756.14,5,5,5,555,Champions,Vadodara,Gujarat,India
+CUST02133,579,4,18812.8,1,2,2,122,Lost,Agra,Uttar Pradesh,India
+CUST02134,442,7,20191.510000000002,2,3,2,232,Hibernating,Warangal,Telangana,India
+CUST02135,254,4,8370.46,3,2,2,322,Need Attention,Jodhpur,Rajasthan,India
+CUST02136,633,2,8487.14,1,1,2,112,Lost,Panipat,Haryana,India
+CUST02137,20,18,114748.04000000001,4,5,4,454,Champions,Jodhpur,Rajasthan,India
+CUST02138,548,6,19505.73,1,2,2,122,Lost,Kozhikode,Kerala,India
+CUST02139,8,25,70050.73,5,5,4,554,Champions,Chandigarh,Punjab,India
+CUST02140,385,1,5465.89,2,1,1,211,Hibernating,Madurai,Tamil Nadu,India
+CUST02141,491,2,2864.2999999999997,1,1,1,111,Lost,Coimbatore,Tamil Nadu,India
+CUST02142,439,7,49757.12,2,3,4,234,Hibernating,Warangal,Telangana,India
+CUST02143,359,5,3768.14,2,2,1,221,Hibernating,Salem,Tamil Nadu,India
+CUST02144,37,15,96534.41,4,4,4,444,Champions,Kochi,Kerala,India
+CUST02145,274,13,205983.58000000002,3,4,5,345,Loyal Customers,Ludhiana,Punjab,India
+CUST02146,460,1,3699.5,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST02147,111,20,113784.98,4,5,4,454,Champions,Madurai,Tamil Nadu,India
+CUST02148,96,14,492637.12,4,4,5,445,Champions,Varanasi,Uttar Pradesh,India
+CUST02149,16,10,31296.53,4,3,3,433,Loyal Customers,Pune,Maharashtra,India
+CUST02150,219,1,2253.64,3,1,1,311,Hibernating,Bengaluru,Karnataka,India
+CUST02151,267,14,109376.44,3,4,4,344,Loyal Customers,Kozhikode,Kerala,India
+CUST02152,4,24,102399.75,5,5,4,554,Champions,Nashik,Maharashtra,India
+CUST02153,635,6,10285.73,1,2,2,122,Lost,Delhi,Delhi,India
+CUST02154,476,2,2260.9,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST02155,10,23,185955.88,5,5,5,555,Champions,Kochi,Kerala,India
+CUST02156,75,8,20881.850000000002,4,3,2,432,Need Attention,Mysuru,Karnataka,India
+CUST02157,10,21,70006.78,5,5,4,554,Champions,Panipat,Haryana,India
+CUST02158,27,14,137870.99,4,4,5,445,Champions,Kozhikode,Kerala,India
+CUST02159,18,16,37896.3,4,4,3,443,Loyal Customers,Jaipur,Rajasthan,India
+CUST02160,255,8,20693.44,3,3,2,332,Need Attention,Delhi,Delhi,India
+CUST02161,440,3,1044.41,2,1,1,211,Hibernating,Faridabad,Haryana,India
+CUST02162,417,6,28471.579999999998,2,2,3,223,Hibernating,Coimbatore,Tamil Nadu,India
+CUST02163,258,9,13638.88,3,3,2,332,Need Attention,Madurai,Tamil Nadu,India
+CUST02164,347,1,4394.24,3,1,1,311,Hibernating,Ahmedabad,Gujarat,India
+CUST02165,210,10,34247.4,3,3,3,333,Loyal Customers,Durgapur,West Bengal,India
+CUST02166,698,1,174.19,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST02167,248,4,19239.39,3,2,2,322,Need Attention,Madurai,Tamil Nadu,India
+CUST02168,16,21,52975.68,4,5,4,454,Champions,Udaipur,Rajasthan,India
+CUST02169,469,5,28039.66,2,2,3,223,Hibernating,Kozhikode,Kerala,India
+CUST02170,74,21,84068.27,4,5,4,454,Champions,Kochi,Kerala,India
+CUST02171,246,8,94262.59999999999,3,3,4,334,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST02172,1,23,56299.58,5,5,4,554,Champions,Faridabad,Haryana,India
+CUST02173,3,24,286002.33,5,5,5,555,Champions,Salem,Tamil Nadu,India
+CUST02174,482,5,26609.02,2,2,3,223,Hibernating,Warangal,Telangana,India
+CUST02175,251,11,57100.45999999999,3,4,4,344,Loyal Customers,Madurai,Tamil Nadu,India
+CUST02176,712,4,39642.81,1,2,3,123,Lost,Udaipur,Rajasthan,India
+CUST02177,310,9,104982.53000000001,3,3,4,334,Loyal Customers,Ahmedabad,Gujarat,India
+CUST02178,378,8,146428.69,2,3,5,235,Hibernating,Faridabad,Haryana,India
+CUST02179,498,5,43682.64,1,2,3,123,Lost,Hyderabad,Telangana,India
+CUST02180,258,5,15823.84,3,2,2,322,Need Attention,Ahmedabad,Gujarat,India
+CUST02181,74,9,11608.16,4,3,2,432,Need Attention,Chandigarh,Punjab,India
+CUST02182,35,11,74614.51,4,4,4,444,Champions,Howrah,West Bengal,India
+CUST02183,3,46,249689.2,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST02184,14,10,31927.170000000002,5,3,3,533,Loyal Customers,Jodhpur,Rajasthan,India
+CUST02185,631,8,14269.839999999998,1,3,2,132,Hibernating,Madurai,Tamil Nadu,India
+CUST02186,384,2,2420.8100000000004,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST02187,689,3,6162.84,1,1,1,111,Lost,Kanpur,Uttar Pradesh,India
+CUST02188,589,5,7876.86,1,2,1,121,Lost,Warangal,Telangana,India
+CUST02189,669,2,3310.8099999999995,1,1,1,111,Lost,Gurgaon,Haryana,India
+CUST02190,215,7,28763.530000000002,3,3,3,333,Loyal Customers,Kozhikode,Kerala,India
+CUST02191,189,8,24287.23,3,3,3,333,Loyal Customers,Chennai,Tamil Nadu,India
+CUST02192,409,2,2280.8199999999997,2,1,1,211,Hibernating,Mangalore,Karnataka,India
+CUST02193,392,5,13628.829999999998,2,2,2,222,Hibernating,Chennai,Tamil Nadu,India
+CUST02194,600,2,94584.31999999999,1,1,4,114,Lost,Kozhikode,Kerala,India
+CUST02195,4,14,138665.55,5,4,5,545,Champions,Jodhpur,Rajasthan,India
+CUST02196,59,6,6976.5199999999995,4,2,1,421,New Customers,Bengaluru,Karnataka,India
+CUST02197,261,10,204160.47000000003,3,3,5,335,Loyal Customers,Warangal,Telangana,India
+CUST02198,553,2,3745.63,1,1,1,111,Lost,Kolkata,West Bengal,India
+CUST02199,562,6,10895.4,1,2,2,122,Lost,Thane,Maharashtra,India
+CUST02200,58,11,134761.93,4,4,5,445,Champions,Thiruvananthapuram,Kerala,India
+CUST02201,442,1,411.44,2,1,1,211,Hibernating,Gurgaon,Haryana,India
+CUST02202,22,16,300267.08,4,4,5,445,Champions,Rajkot,Gujarat,India
+CUST02203,146,11,125244.86,3,4,5,345,Loyal Customers,Hyderabad,Telangana,India
+CUST02204,1,43,313251.63,5,5,5,555,Champions,Surat,Gujarat,India
+CUST02205,546,7,87965.57999999999,1,3,4,134,Hibernating,Hyderabad,Telangana,India
+CUST02206,213,1,1702.12,3,1,1,311,Hibernating,Surat,Gujarat,India
+CUST02207,109,16,260090.34000000003,4,4,5,445,Champions,Madurai,Tamil Nadu,India
+CUST02208,495,3,9741.12,1,1,2,112,Lost,Thiruvananthapuram,Kerala,India
+CUST02209,164,9,254975.79,3,3,5,335,Loyal Customers,Jodhpur,Rajasthan,India
+CUST02210,529,3,2773.6500000000005,1,1,1,111,Lost,Hyderabad,Telangana,India
+CUST02211,281,5,16654.77,3,2,2,322,Need Attention,Warangal,Telangana,India
+CUST02212,452,1,9358.08,2,1,2,212,Hibernating,Lucknow,Uttar Pradesh,India
+CUST02213,6,40,146889.61000000002,5,5,5,555,Champions,Salem,Tamil Nadu,India
+CUST02214,668,2,710.44,1,1,1,111,Lost,Kozhikode,Kerala,India
+CUST02215,281,11,15196.539999999999,3,4,2,342,Need Attention,Rajkot,Gujarat,India
+CUST02216,256,9,22671.41,3,3,2,332,Need Attention,Thiruvananthapuram,Kerala,India
+CUST02217,230,5,13623.4,3,2,2,322,Need Attention,Thane,Maharashtra,India
+CUST02218,166,11,36699.409999999996,3,4,3,343,Loyal Customers,Mangalore,Karnataka,India
+CUST02219,602,3,3456.36,1,1,1,111,Lost,Bengaluru,Karnataka,India
+CUST02220,29,18,175116.4,4,5,5,455,Champions,Varanasi,Uttar Pradesh,India
+CUST02221,312,6,11925.7,3,2,2,322,Need Attention,Delhi,Delhi,India
+CUST02222,576,4,311827.81,1,2,5,125,Lost,Udaipur,Rajasthan,India
+CUST02223,8,22,372959.33,5,5,5,555,Champions,Vadodara,Gujarat,India
+CUST02224,103,17,60207.92,4,4,4,444,Champions,Agra,Uttar Pradesh,India
+CUST02225,3,65,523313.52999999997,5,5,5,555,Champions,Durgapur,West Bengal,India
+CUST02226,63,10,32814.05,4,3,3,433,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST02227,107,17,151994.5,4,4,5,445,Champions,Bengaluru,Karnataka,India
+CUST02228,553,7,37312.68,1,3,3,133,Hibernating,Nashik,Maharashtra,India
+CUST02229,1,14,49278.06,5,4,4,544,Champions,Faridabad,Haryana,India
+CUST02230,55,16,289676.01,4,4,5,445,Champions,Jaipur,Rajasthan,India
+CUST02231,436,8,35693.729999999996,2,3,3,233,Hibernating,Panipat,Haryana,India
+CUST02232,4,40,98362.05,5,5,4,554,Champions,Jaipur,Rajasthan,India
+CUST02233,281,2,2347.29,3,1,1,311,Hibernating,Kolkata,West Bengal,India
+CUST02234,525,1,5248.42,1,1,1,111,Lost,Mysuru,Karnataka,India
+CUST02235,434,8,22789.79,2,3,2,232,Hibernating,Chandigarh,Punjab,India
+CUST02236,412,12,20848.41,2,4,2,242,Churned Best Customers,Ludhiana,Punjab,India
+CUST02237,704,2,7228.73,1,1,1,111,Lost,Mangalore,Karnataka,India
+CUST02238,1,27,164712.81,5,5,5,555,Champions,Jaipur,Rajasthan,India
+CUST02239,1,20,205614.88,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST02240,92,10,59895.79,4,3,4,434,Loyal Customers,Ludhiana,Punjab,India
+CUST02241,649,4,23117.43,1,2,3,123,Lost,Mumbai,Maharashtra,India
+CUST02242,3,60,334269.5,5,5,5,555,Champions,Thiruvananthapuram,Kerala,India
+CUST02243,429,9,19816.600000000002,2,3,2,232,Hibernating,Ahmedabad,Gujarat,India
+CUST02244,668,4,175308.97,1,2,5,125,Lost,Kozhikode,Kerala,India
+CUST02245,437,1,4438.22,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST02246,213,5,9666.8,3,2,2,322,Need Attention,Chennai,Tamil Nadu,India
+CUST02247,15,42,141166.38,4,5,5,455,Champions,Mumbai,Maharashtra,India
+CUST02248,351,3,136979.07,3,1,5,315,Hibernating,Hyderabad,Telangana,India
+CUST02249,291,6,100291.24,3,2,4,324,Need Attention,Mysuru,Karnataka,India
+CUST02250,5,25,53687.8,5,5,4,554,Champions,Pune,Maharashtra,India
+CUST02251,7,28,232058.61000000002,5,5,5,555,Champions,Warangal,Telangana,India
+CUST02252,407,4,7179.629999999999,2,2,1,221,Hibernating,Rajkot,Gujarat,India
+CUST02253,422,4,4517.09,2,2,1,221,Hibernating,Surat,Gujarat,India
+CUST02254,474,2,4458.349999999999,2,1,1,211,Hibernating,Delhi,Delhi,India
+CUST02255,625,2,7660.5599999999995,1,1,1,111,Lost,Bikaner,Rajasthan,India
+CUST02256,459,5,12005.33,2,2,2,222,Hibernating,Rajkot,Gujarat,India
+CUST02257,523,2,13673.07,1,1,2,112,Lost,Durgapur,West Bengal,India
+CUST02258,16,14,46777.76,4,4,3,443,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST02259,110,18,57664.939999999995,4,5,4,454,Champions,Agra,Uttar Pradesh,India
+CUST02260,195,16,24849.3,3,4,3,343,Loyal Customers,Coimbatore,Tamil Nadu,India
+CUST02261,344,10,45040.97,3,3,3,333,Loyal Customers,Kozhikode,Kerala,India
+CUST02262,564,3,3978.9700000000003,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST02263,479,2,3975.85,2,1,1,211,Hibernating,Udaipur,Rajasthan,India
+CUST02264,131,11,26623.97,4,4,3,443,Loyal Customers,Thiruvananthapuram,Kerala,India
+CUST02265,416,5,6371.209999999999,2,2,1,221,Hibernating,Warangal,Telangana,India
+CUST02266,229,9,40377.990000000005,3,3,3,333,Loyal Customers,Lucknow,Uttar Pradesh,India
+CUST02267,403,5,16206.58,2,2,2,222,Hibernating,Delhi,Delhi,India
+CUST02268,396,6,34075.71,2,2,3,223,Hibernating,Udaipur,Rajasthan,India
+CUST02269,1,15,66113.77,5,4,4,544,Champions,Ludhiana,Punjab,India
+CUST02270,294,4,5688.33,3,2,1,321,Hibernating,Delhi,Delhi,India
+CUST02271,1,26,156560.27,5,5,5,555,Champions,Hyderabad,Telangana,India
+CUST02272,75,8,22235.000000000004,4,3,2,432,Need Attention,Faridabad,Haryana,India
+CUST02273,4,12,24907.35,5,4,3,543,Loyal Customers,Faridabad,Haryana,India
+CUST02274,384,8,29021.36,2,3,3,233,Hibernating,Vadodara,Gujarat,India
+CUST02275,363,2,2573.73,2,1,1,211,Hibernating,Bengaluru,Karnataka,India
+CUST02276,540,4,5123.4,1,2,1,121,Lost,Kochi,Kerala,India
+CUST02277,647,5,14572.88,1,2,2,122,Lost,Mumbai,Maharashtra,India
+CUST02278,453,7,21012.25,2,3,2,232,Hibernating,Pune,Maharashtra,India
+CUST02279,377,5,114369.87,2,2,4,224,Hibernating,Faridabad,Haryana,India
+CUST02280,11,26,120099.54,5,5,5,555,Champions,Udaipur,Rajasthan,India
+CUST02281,179,11,91914.9,3,4,4,344,Loyal Customers,Durgapur,West Bengal,India
+CUST02282,11,8,14775.730000000001,5,3,2,532,Need Attention,New Delhi,Delhi,India
+CUST02283,193,12,71260.04000000001,3,4,4,344,Loyal Customers,Chennai,Tamil Nadu,India
+CUST02284,2,43,324693.17,5,5,5,555,Champions,Chennai,Tamil Nadu,India
+CUST02285,9,24,163192.38,5,5,5,555,Champions,Kochi,Kerala,India
+CUST02286,143,13,32110.37,3,4,3,343,Loyal Customers,Kozhikode,Kerala,India
+CUST02287,564,3,3271.45,1,1,1,111,Lost,Rajkot,Gujarat,India
+CUST02288,70,12,39153.06,4,4,3,443,Loyal Customers,Hyderabad,Telangana,India
+CUST02289,48,12,49817.729999999996,4,4,4,444,Champions,Mangalore,Karnataka,India
+CUST02290,4,18,435259.71,5,5,5,555,Champions,Nashik,Maharashtra,India
+CUST02291,516,8,29155.28,1,3,3,133,Hibernating,Madurai,Tamil Nadu,India
+CUST02292,123,9,17171.34,4,3,2,432,Need Attention,Nagpur,Maharashtra,India
+CUST02293,5,18,221287.57,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST02294,200,2,13993.39,3,1,2,312,Hibernating,Udaipur,Rajasthan,India
+CUST02295,15,38,415075.52,4,5,5,455,Champions,Warangal,Telangana,India
+CUST02296,4,40,192917.78999999998,5,5,5,555,Champions,Panipat,Haryana,India
+CUST02297,61,12,37070.41,4,4,3,443,Loyal Customers,Gurgaon,Haryana,India
+CUST02298,24,44,251411.75,4,5,5,455,Champions,Warangal,Telangana,India
+CUST02299,2,21,183090.8,5,5,5,555,Champions,Rajkot,Gujarat,India
+CUST02300,51,15,69132.54,4,4,4,444,Champions,Udaipur,Rajasthan,India
+CUST02301,291,1,21589.5,3,1,2,312,Hibernating,Hyderabad,Telangana,India
+CUST02302,478,11,37794.48,2,4,3,243,Churned Best Customers,Gurgaon,Haryana,India
+CUST02303,404,4,10264.27,2,2,2,222,Hibernating,Jodhpur,Rajasthan,India
+CUST02304,62,15,29527.41,4,4,3,443,Loyal Customers,Chandigarh,Punjab,India
+CUST02305,726,3,5897.75,1,1,1,111,Lost,Panipat,Haryana,India
+CUST02306,43,13,30399.6,4,4,3,443,Loyal Customers,Rajkot,Gujarat,India
+CUST02307,9,24,73477.09,5,5,4,554,Champions,Kozhikode,Kerala,India
+CUST02308,522,6,10192.19,1,2,2,122,Lost,Mysuru,Karnataka,India
+CUST02309,5,21,94682.11,5,5,4,554,Champions,Gurgaon,Haryana,India
+CUST02310,287,10,37476.83,3,3,3,333,Loyal Customers,Mysuru,Karnataka,India
+CUST02311,569,3,2681.3999999999996,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST02312,584,2,1865.78,1,1,1,111,Lost,Surat,Gujarat,India
+CUST02313,84,8,10641.27,4,3,2,432,Need Attention,Mumbai,Maharashtra,India
+CUST02314,274,7,16561.68,3,3,2,332,Need Attention,Durgapur,West Bengal,India
+CUST02315,664,2,5182.660000000001,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST02316,10,17,65883.43000000001,5,4,4,544,Champions,Hyderabad,Telangana,India
+CUST02317,214,16,36314.5,3,4,3,343,Loyal Customers,New Delhi,Delhi,India
+CUST02318,199,13,38915.65,3,4,3,343,Loyal Customers,Howrah,West Bengal,India
+CUST02319,102,13,35457.3,4,4,3,443,Loyal Customers,Surat,Gujarat,India
+CUST02320,280,13,47172.71,3,4,3,343,Loyal Customers,Kochi,Kerala,India
+CUST02321,527,2,6994.82,1,1,1,111,Lost,Jaipur,Rajasthan,India
+CUST02322,450,2,37445.49,2,1,3,213,Hibernating,Ludhiana,Punjab,India
+CUST02323,371,5,13917.130000000001,2,2,2,222,Hibernating,Lucknow,Uttar Pradesh,India
+CUST02324,35,16,78854.34,4,4,4,444,Champions,New Delhi,Delhi,India
+CUST02325,607,1,1759.37,1,1,1,111,Lost,Faridabad,Haryana,India
+CUST02326,422,4,4831.97,2,2,1,221,Hibernating,Jaipur,Rajasthan,India
+CUST02327,330,4,18258.49,3,2,2,322,Need Attention,Howrah,West Bengal,India
+CUST02328,2,28,237560.45,5,5,5,555,Champions,Salem,Tamil Nadu,India
+CUST02329,391,6,23195.9,2,2,3,223,Hibernating,Salem,Tamil Nadu,India
+CUST02330,10,24,129647.79,5,5,5,555,Champions,Kanpur,Uttar Pradesh,India
+CUST02331,152,12,72484.92,3,4,4,344,Loyal Customers,Durgapur,West Bengal,India
+CUST02332,1,22,48315.85,5,5,3,553,Loyal Customers,Kozhikode,Kerala,India
+CUST02333,462,5,6863.2,2,2,1,221,Hibernating,Varanasi,Uttar Pradesh,India
+CUST02334,649,5,27995.86,1,2,3,123,Lost,Warangal,Telangana,India
+CUST02335,2,23,171964.96999999997,5,5,5,555,Champions,Agra,Uttar Pradesh,India
+CUST02336,108,10,91307.65000000001,4,3,4,434,Loyal Customers,Bengaluru,Karnataka,India
+CUST02337,69,16,103756.18,4,4,4,444,Champions,Delhi,Delhi,India
+CUST02338,114,7,12376.68,4,3,2,432,Need Attention,Mangalore,Karnataka,India
+CUST02339,1,28,149290.8,5,5,5,555,Champions,Pune,Maharashtra,India
+CUST02340,157,7,28653.4,3,3,3,333,Loyal Customers,Kozhikode,Kerala,India
+CUST02341,421,9,11803.38,2,3,2,232,Hibernating,Warangal,Telangana,India
+CUST02342,8,16,91075.55,5,4,4,544,Champions,Panipat,Haryana,India
+CUST02343,1,22,110528.67,5,5,4,554,Champions,Nagpur,Maharashtra,India
+CUST02344,4,14,26297.92,5,4,3,543,Loyal Customers,Mangalore,Karnataka,India
+CUST02345,198,1,8248.92,3,1,2,312,Hibernating,Salem,Tamil Nadu,India
+CUST02346,435,7,33485.94,2,3,3,233,Hibernating,Hyderabad,Telangana,India
+CUST02347,491,6,40694.05,1,2,3,123,Lost,Thane,Maharashtra,India
+CUST02348,37,8,11522.95,4,3,2,432,Need Attention,Panipat,Haryana,India
+CUST02349,631,2,39284.88,1,1,3,113,Lost,Agra,Uttar Pradesh,India
+CUST02350,6,56,460319.95,5,5,5,555,Champions,Noida,Uttar Pradesh,India
+CUST02351,449,5,27995.84,2,2,3,223,Hibernating,Durgapur,West Bengal,India
+CUST02352,721,1,1823.62,1,1,1,111,Lost,Thane,Maharashtra,India
+CUST02353,220,7,24686.34,3,3,3,333,Loyal Customers,Madurai,Tamil Nadu,India
+CUST02354,635,2,3482.54,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST02355,438,7,18781.510000000002,2,3,2,232,Hibernating,Kozhikode,Kerala,India
+CUST02356,19,17,515432.75,4,4,5,445,Champions,Mumbai,Maharashtra,India
+CUST02357,604,2,16544.32,1,1,2,112,Lost,Chandigarh,Punjab,India
+CUST02358,3,20,194162.04,5,5,5,555,Champions,Kolkata,West Bengal,India
+CUST02359,446,3,8337.77,2,1,2,212,Hibernating,Panipat,Haryana,India
+CUST02360,5,23,133515.29,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST02361,2,51,177691.66,5,5,5,555,Champions,Kozhikode,Kerala,India
+CUST02362,5,13,117287.17,5,4,4,544,Champions,Mangalore,Karnataka,India
+CUST02363,89,9,19088.65,4,3,2,432,Need Attention,Chennai,Tamil Nadu,India
+CUST02364,147,12,28152.42,3,4,3,343,Loyal Customers,Ludhiana,Punjab,India
+CUST02365,364,5,15069.86,2,2,2,222,Hibernating,New Delhi,Delhi,India
+CUST02366,3,60,621872.96,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST02367,4,23,93006.2,5,5,4,554,Champions,Mangalore,Karnataka,India
+CUST02368,292,4,78325.73000000001,3,2,4,324,Need Attention,Delhi,Delhi,India
+CUST02369,25,11,103608.19,4,4,4,444,Champions,Chandigarh,Punjab,India
+CUST02370,458,6,21824.77,2,2,2,222,Hibernating,Rajkot,Gujarat,India
+CUST02371,513,7,15772.49,1,3,2,132,Hibernating,Faridabad,Haryana,India
+CUST02372,567,5,6463.459999999999,1,2,1,121,Lost,Mysuru,Karnataka,India
+CUST02373,206,4,72148.89,3,2,4,324,Need Attention,Jodhpur,Rajasthan,India
+CUST02374,101,11,39936.299999999996,4,4,3,443,Loyal Customers,New Delhi,Delhi,India
+CUST02375,325,4,68057.14,3,2,4,324,Need Attention,Pune,Maharashtra,India
+CUST02376,27,19,203802.04,4,5,5,455,Champions,Delhi,Delhi,India
+CUST02377,30,19,78163.48,4,5,4,454,Champions,Durgapur,West Bengal,India
+CUST02378,537,3,13621.59,1,1,2,112,Lost,Kanpur,Uttar Pradesh,India
+CUST02379,260,9,31199.370000000003,3,3,3,333,Loyal Customers,Vadodara,Gujarat,India
+CUST02380,519,3,46468.78999999999,1,1,3,113,Lost,Jaipur,Rajasthan,India
+CUST02381,696,2,8461.83,1,1,2,112,Lost,Amritsar,Punjab,India
+CUST02382,456,4,145279.77,2,2,5,225,Hibernating,Surat,Gujarat,India
+CUST02383,722,5,32997.08,1,2,3,123,Lost,Jaipur,Rajasthan,India
+CUST02384,15,15,59864.16,4,4,4,444,Champions,Kolkata,West Bengal,India
+CUST02385,260,9,12711.44,3,3,2,332,Need Attention,Udaipur,Rajasthan,India
+CUST02386,238,10,19258.77,3,3,2,332,Need Attention,Howrah,West Bengal,India
+CUST02387,21,10,33010.520000000004,4,3,3,433,Loyal Customers,Ludhiana,Punjab,India
+CUST02388,556,4,4808.47,1,2,1,121,Lost,Thiruvananthapuram,Kerala,India
+CUST02389,371,6,44536.880000000005,2,2,3,223,Hibernating,Jodhpur,Rajasthan,India
+CUST02390,417,6,45812.69,2,2,3,223,Hibernating,Chandigarh,Punjab,India
+CUST02391,61,8,29312.620000000003,4,3,3,433,Loyal Customers,Hyderabad,Telangana,India
+CUST02392,22,24,103085.08,4,5,4,454,Champions,Lucknow,Uttar Pradesh,India
+CUST02393,84,12,44000.14,4,4,3,443,Loyal Customers,Ahmedabad,Gujarat,India
+CUST02394,10,18,169085.59,5,5,5,555,Champions,Thane,Maharashtra,India
+CUST02395,620,3,4256.93,1,1,1,111,Lost,Kochi,Kerala,India
+CUST02396,76,12,22847.14,4,4,2,442,Need Attention,Chennai,Tamil Nadu,India
+CUST02397,2,27,193160.28,5,5,5,555,Champions,Salem,Tamil Nadu,India
+CUST02398,4,51,332842.18,5,5,5,555,Champions,New Delhi,Delhi,India
+CUST02399,295,2,7793.650000000001,3,1,1,311,Hibernating,Coimbatore,Tamil Nadu,India
+CUST02400,400,5,93484.69,2,2,4,224,Hibernating,Delhi,Delhi,India
+CUST02401,36,14,67628.68000000001,4,4,4,444,Champions,Nashik,Maharashtra,India
+CUST02402,1,20,80760.3,5,5,4,554,Champions,Hyderabad,Telangana,India
+CUST02403,16,15,43628.28,4,4,3,443,Loyal Customers,Agra,Uttar Pradesh,India
+CUST02404,64,7,129215.79000000001,4,3,5,435,Loyal Customers,New Delhi,Delhi,India
+CUST02405,392,4,11436.0,2,2,2,222,Hibernating,Hubli,Karnataka,India
+CUST02406,212,2,20309.95,3,1,2,312,Hibernating,Ahmedabad,Gujarat,India
+CUST02407,66,11,25180.87,4,4,3,443,Loyal Customers,Hyderabad,Telangana,India
+CUST02408,150,16,31718.940000000002,3,4,3,343,Loyal Customers,Kolkata,West Bengal,India
+CUST02409,496,2,9215.66,1,1,2,112,Lost,Nagpur,Maharashtra,India
+CUST02410,184,13,29826.09,3,4,3,343,Loyal Customers,Kolkata,West Bengal,India
+CUST02411,471,7,9433.77,2,3,2,232,Hibernating,Rajkot,Gujarat,India
+CUST02412,1,21,54837.71,5,5,4,554,Champions,Coimbatore,Tamil Nadu,India
+CUST02413,38,6,24836.8,4,2,3,423,New Customers,Salem,Tamil Nadu,India
+CUST02414,19,57,336599.94,4,5,5,455,Champions,Hyderabad,Telangana,India
+CUST02415,494,4,23511.83,1,2,3,123,Lost,Howrah,West Bengal,India
+CUST02416,500,2,14881.380000000001,1,1,2,112,Lost,Delhi,Delhi,India
+CUST02417,14,9,55108.1,5,3,4,534,Loyal Customers,Kochi,Kerala,India
+CUST02418,5,29,588034.89,5,5,5,555,Champions,Noida,Uttar Pradesh,India
+CUST02419,3,55,399333.57,5,5,5,555,Champions,Kanpur,Uttar Pradesh,India
+CUST02420,24,13,255824.27000000002,4,4,5,445,Champions,Warangal,Telangana,India
+CUST02421,4,25,185003.21,5,5,5,555,Champions,Kanpur,Uttar Pradesh,India
+CUST02422,8,42,116661.7,5,5,4,554,Champions,Kanpur,Uttar Pradesh,India
+CUST02423,478,4,70602.73,2,2,4,224,Hibernating,Warangal,Telangana,India
+CUST02424,45,17,50367.36,4,4,4,444,Champions,Udaipur,Rajasthan,India
+CUST02425,80,10,137610.57,4,3,5,435,Loyal Customers,Nashik,Maharashtra,India
+CUST02426,341,1,4136.58,3,1,1,311,Hibernating,Rajkot,Gujarat,India
+CUST02427,9,29,138674.47,5,5,5,555,Champions,Madurai,Tamil Nadu,India
+CUST02428,441,3,1056.26,2,1,1,211,Hibernating,Panipat,Haryana,India
+CUST02429,126,8,52233.09,4,3,4,434,Loyal Customers,Ahmedabad,Gujarat,India
+CUST02430,401,1,1051.24,2,1,1,211,Hibernating,New Delhi,Delhi,India
+CUST02431,205,8,22070.239999999998,3,3,2,332,Need Attention,Hyderabad,Telangana,India
+CUST02432,476,2,8927.279999999999,2,1,2,212,Hibernating,Durgapur,West Bengal,India
+CUST02433,458,2,6165.77,2,1,1,211,Hibernating,Rajkot,Gujarat,India
+CUST02434,30,6,34491.64,4,2,3,423,New Customers,Thiruvananthapuram,Kerala,India
+CUST02435,578,5,9010.73,1,2,2,122,Lost,Udaipur,Rajasthan,India
+CUST02436,463,7,58341.899999999994,2,3,4,234,Hibernating,Bengaluru,Karnataka,India
+CUST02437,45,14,30877.31,4,4,3,443,Loyal Customers,Mumbai,Maharashtra,India
+CUST02438,353,15,205673.03999999998,3,4,5,345,Loyal Customers,Varanasi,Uttar Pradesh,India
+CUST02439,562,3,16209.48,1,1,2,112,Lost,New Delhi,Delhi,India
+CUST02440,3,17,110545.29,5,4,4,544,Champions,Thiruvananthapuram,Kerala,India
+CUST02441,196,12,44572.58,3,4,3,343,Loyal Customers,Warangal,Telangana,India
+CUST02442,589,3,8402.46,1,1,2,112,Lost,Gurgaon,Haryana,India
+CUST02443,520,5,6573.799999999999,1,2,1,121,Lost,Kolkata,West Bengal,India
+CUST02444,540,2,13392.21,1,1,2,112,Lost,Chennai,Tamil Nadu,India
+CUST02445,40,11,66975.44,4,4,4,444,Champions,Faridabad,Haryana,India
+CUST02446,71,11,24536.89,4,4,3,443,Loyal Customers,Chandigarh,Punjab,India
+CUST02447,7,20,60690.880000000005,5,5,4,554,Champions,Coimbatore,Tamil Nadu,India
+CUST02448,5,18,295564.33,5,5,5,555,Champions,Nagpur,Maharashtra,India
+CUST02449,1,34,227655.77,5,5,5,555,Champions,Panipat,Haryana,India
+CUST02450,22,12,42153.58,4,4,3,443,Loyal Customers,Salem,Tamil Nadu,India
+CUST02451,148,5,6618.96,3,2,1,321,Hibernating,Chandigarh,Punjab,India
+CUST02452,624,1,1808.31,1,1,1,111,Lost,Kanpur,Uttar Pradesh,India
+CUST02453,198,6,12163.44,3,2,2,322,Need Attention,Kozhikode,Kerala,India
+CUST02454,201,17,190019.97,3,4,5,345,Loyal Customers,New Delhi,Delhi,India
+CUST02455,371,3,22917.64,2,1,2,212,Hibernating,Surat,Gujarat,India
+CUST02456,8,37,230043.55000000002,5,5,5,555,Champions,Surat,Gujarat,India
+CUST02457,60,8,29753.67,4,3,3,433,Loyal Customers,Kozhikode,Kerala,India
+CUST02458,226,5,25383.4,3,2,3,323,Need Attention,Kozhikode,Kerala,India
+CUST02459,312,14,25959.46,3,4,3,343,Loyal Customers,Hyderabad,Telangana,India
+CUST02460,58,8,16778.05,4,3,2,432,Need Attention,Warangal,Telangana,India
+CUST02461,617,2,5044.65,1,1,1,111,Lost,Varanasi,Uttar Pradesh,India
+CUST02462,599,1,3592.29,1,1,1,111,Lost,Lucknow,Uttar Pradesh,India
+CUST02463,487,5,16961.05,1,2,2,122,Lost,Rajkot,Gujarat,India
+CUST02464,281,6,77733.21,3,2,4,324,Need Attention,Kolkata,West Bengal,India
+CUST02465,427,6,26532.61,2,2,3,223,Hibernating,Kolkata,West Bengal,India
+CUST02466,190,15,46700.5,3,4,3,343,Loyal Customers,Gurgaon,Haryana,India
+CUST02467,60,13,76246.54,4,4,4,444,Champions,Coimbatore,Tamil Nadu,India
+CUST02468,3,54,314076.38,5,5,5,555,Champions,Ahmedabad,Gujarat,India
+CUST02469,21,10,32543.86,4,3,3,433,Loyal Customers,Bikaner,Rajasthan,India
+CUST02470,302,7,11576.35,3,3,2,332,Need Attention,Thiruvananthapuram,Kerala,India
+CUST02471,2,8,10312.41,5,3,2,532,Need Attention,Delhi,Delhi,India
+CUST02472,494,1,2692.06,1,1,1,111,Lost,Nagpur,Maharashtra,India
+CUST02473,337,1,1672.81,3,1,1,311,Hibernating,Delhi,Delhi,India
+CUST02474,201,6,19974.809999999998,3,2,2,322,Need Attention,Jaipur,Rajasthan,India
+CUST02475,650,8,11902.6,1,3,2,132,Hibernating,Nashik,Maharashtra,India
+CUST02476,637,1,4597.08,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST02477,7,28,80733.39,5,5,4,554,Champions,Nagpur,Maharashtra,India
+CUST02478,429,4,6897.969999999999,2,2,1,221,Hibernating,Hyderabad,Telangana,India
+CUST02479,9,24,107978.92,5,5,4,554,Champions,Thane,Maharashtra,India
+CUST02480,350,9,104081.26,3,3,4,334,Loyal Customers,Warangal,Telangana,India
+CUST02481,161,9,140731.43,3,3,5,335,Loyal Customers,Hyderabad,Telangana,India
+CUST02482,661,1,411.38,1,1,1,111,Lost,Ludhiana,Punjab,India
+CUST02483,216,3,43342.47,3,1,3,313,Hibernating,Bikaner,Rajasthan,India
+CUST02484,6,29,89070.59,5,5,4,554,Champions,Delhi,Delhi,India
+CUST02485,80,14,165177.41999999998,4,4,5,445,Champions,Agra,Uttar Pradesh,India
+CUST02486,718,2,2898.9100000000003,1,1,1,111,Lost,New Delhi,Delhi,India
+CUST02487,192,5,12578.390000000001,3,2,2,322,Need Attention,Gurgaon,Haryana,India
+CUST02488,327,1,1225.46,3,1,1,311,Hibernating,Ludhiana,Punjab,India
+CUST02489,526,4,8307.93,1,2,2,122,Lost,Howrah,West Bengal,India
+CUST02490,350,14,123004.72,3,4,5,345,Loyal Customers,Amritsar,Punjab,India
+CUST02491,178,16,111208.97000000002,3,4,4,344,Loyal Customers,Bengaluru,Karnataka,India
+CUST02492,217,14,125521.03,3,4,5,345,Loyal Customers,Rajkot,Gujarat,India
+CUST02493,567,7,136172.57,1,3,5,135,Hibernating,Howrah,West Bengal,India
+CUST02494,156,10,28054.59,3,3,3,333,Loyal Customers,Mysuru,Karnataka,India
+CUST02495,597,5,21184.6,1,2,2,122,Lost,Amritsar,Punjab,India
+CUST02496,28,9,21072.13,4,3,2,432,Need Attention,Thane,Maharashtra,India
+CUST02497,354,5,25600.58,3,2,3,323,Need Attention,Kochi,Kerala,India
+CUST02498,728,2,7371.5599999999995,1,1,1,111,Lost,Noida,Uttar Pradesh,India
+CUST02499,703,1,13035.19,1,1,2,112,Lost,Kolkata,West Bengal,India
+CUST02500,46,7,60537.310000000005,4,3,4,434,Loyal Customers,Chennai,Tamil Nadu,India
